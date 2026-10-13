@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/mortality/styles/style2.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+</head>
+<body>
+  <a href="index.html" class="back-button">⬅</a>
+  <h1 class="title">Bladder & Reproductive Cancers</h1>
+  <div class="container">
+    <svg class="svg" width="850" height="400"></svg>
+    <svg class="svg-right" id="svg-right" width="710" height="400"></svg> 
+    <div id="chart"></div> 
+    <button id="playPauseButton">⏸</button>
+  </div>
+  <script src="graph.js"></script> 
+  <script src="density_plot.js"></script>
+  <script>
+    d3.csv("data/cleaned_cancer_data_correct.csv").then(function (data) {
+        var cancerTypes = [
+            "Kidney and other urinary (C64–C66, C68)",
+            "Bladder (C67)"
+        ];
+
+        const cancerColors = {
+            "Kidney and other urinary (C64–C66, C68)" : "#2E7D32",
+            "Bladder (C67)" : "#00BCD4"
+        };
+        drawCancerGraph(data, cancerTypes, cancerColors, "svg");
+    });
+</script>
+</body>
+</html>

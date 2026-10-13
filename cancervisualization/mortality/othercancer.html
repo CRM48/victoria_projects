@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/mortality/styles/style2.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+</head>
+<body>
+  <a href="index.html" class="back-button">⬅</a>
+  <h1 class="title">Other Cancers</h1>
+  <div class="container">
+    <svg class="svg" width="850" height="400"></svg>
+    <svg class="svg-right" id="svg-right" width="710" height="400"></svg> 
+    <div id="chart"></div> 
+    <button id="playPauseButton">⏸</button>
+  </div>
+  <script src="graph.js"></script> 
+  <script src="density_plot.js"></script>
+  <script>
+    d3.csv("data/cleaned_cancer_data_correct.csv").then(function (data) {
+        var cancerTypes = [
+            "Lip, Oral Cavity and Pharynx (C00–C14)",
+            "Melanoma (C43)",
+            "Thyroid (C73)",
+            "Brain (C71)"
+        ];
+
+        const cancerColors = {
+            "Lip, Oral Cavity and Pharynx (C00–C14)" : "#FF6347",
+            "Melanoma (C43)" : "#5D4037",
+            "Thyroid (C73)" : "#AB47BC",
+            "Brain (C71)" : "#4682B4"
+        };
+        drawCancerGraph(data, cancerTypes, cancerColors, "svg");
+    });
+</script>
+</body>
+</html>

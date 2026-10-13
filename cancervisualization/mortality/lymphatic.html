@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" href="/mortality/styles/style2.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+</head>
+<body>
+  <a href="index.html" class="back-button">⬅</a>
+  <h1 class="title">Lymphatic & Hematologic Cancers</h1>
+  <div class="container">
+    <svg class="svg" width="850" height="400"></svg>
+    <svg class="svg-right" id="svg-right" width="710" height="400"></svg> 
+    <div id="chart"></div> 
+    <button id="playPauseButton">⏸</button>
+  </div>
+  <script src="graph.js"></script> 
+  <script src="density_plot.js"></script>
+  <script>
+    d3.csv("data/cleaned_cancer_data_correct.csv").then(function (data) {
+        var cancerTypes = [
+            "Hodgkin lymphoma (C81)",
+            "Non-Hodgkin lymphoma (C82–C86, C96)",
+            "Myeloma (C90)",
+            "Leukaemia (C91–C95)"
+        ];
+
+        const cancerColors = {
+            "Hodgkin lymphoma (C81)" : "#D32F2F",
+            "Non-Hodgkin lymphoma (C82–C86, C96)" : "#388E3C",
+            "Myeloma (C90)" : "#3F51B5",
+            "Leukaemia (C91–C95)" : "#FF5722"
+        };
+        drawCancerGraph(data, cancerTypes, cancerColors, "svg");
+    });
+</script>
+</body>
+</html>

@@ -1,0 +1,331 @@
+{
+  "Cancer": {
+    "content": "Arises from genetic changes leading to uncontrolled cell growth and tumor formation, often triggered by a combination of environmental factors, lifestyle choices, and inherited genetic mutations.",
+    "causes": [
+      {
+        "causesName": "Genetic Changes: ",
+        "causesContent": "DNA Mutations, Inherited Mutations, Acquired Mutations "
+      },
+      {
+        "causesName": "Carcinogens: ",
+        "causesContent": "Exposure to substances known as carcinogens, which can be physical, chemical, or biological, can increase the risk of cancer."
+      },
+      {
+        "causesName": "Lifestyle Choices: ",
+        "causesContent": "Smoking, Diet, Obesity, Lack of Physical Activity, Alcohol Consumption, Sun Exposure "
+      },
+      {
+        "causesName": "Infections: ",
+        "causesContent": "Certain infections, like those caused by the Human Papillomavirus (HPV) or Hepatitis B and C viruses, can increase the risk of specific cancers."
+      },
+      {
+        "causesName": "Age: ",
+        "causesContent": "The risk of developing cancer increases with age "
+      },
+      {
+        "causesName": "Other Factors: ",
+        "causesContent": "Family History, Hormonal Factors, Chronic Inflammation "
+      }
+    ]
+  },
+
+  "Lip, oral cavity, and pharynx": {
+    "content": "These cancers are a type of head and neck cancer that develop in the lips, oral cavity (mouth), and pharynx (throat).The majority of these cancers are squamous cell carcinomas, which originate in the squamous cells that line the inside of the lips, mouth, and throat. The 5-year survival rate for lip, oral cavity, and pharynx cancers is approximately 50% overall. Early detection and treatment significantly improve the chances of survival. ",
+    "causes": [
+      {
+        "causesName": "Tobacco Use: ",
+        "causesContent": "Smoking and chewing tobacco are significant risk factors. "
+      },
+      {
+        "causesName": "Alcohol Consumption: ",
+        "causesContent": "Excessive alcohol use increases the risk. "
+      },
+      {
+        "causesName": "Human Papillomavirus (HPV): ",
+        "causesContent": "HPV infection, particularly certain types, is a major risk factor for oropharyngeal cancer. "
+      },
+      {
+        "causesName": "Environmental Factors: ",
+        "causesContent": "Exposure to ultraviolet radiation (UVR) and certain dietary deficiencies can also increase risk."
+      },
+      {
+        "causesName": "Other Factors: ",
+        "causesContent": "Genetic predisposition, certain medical conditions, and exposure to irritants can also play a role. "
+      }
+    ]
+  },
+
+  "Oesophagus": {
+    "content": "A type of cancer that develops in the oesophagus (the food pipe that connects the mouth to the stomach). Common symptoms include difficulty swallowing, weight loss, and heartburn. Oesophageal cancer occurs when abnormal cells in the lining of the oesophagus grow out of control and form a cancerous tumor. Because oesophageal cancer can be difficult to detect in its early stages, it's important to seek medical attention if you experience any of the symptoms mentioned above.",
+    "causes": [
+      {
+        "causesName": "",
+        "causesContent": "Age (more common in older adults) "
+      },
+      {
+        "causesName": "",
+        "causesContent": "Smoking and alcohol consumption"
+      },
+      {
+        "causesName": "",
+        "causesContent": "Gastro-oesophageal reflux disease (GERD) "
+      },
+      { "causesName": "", "causesContent": "Obesity " },
+      {
+        "causesName": "",
+        "causesContent": "Barrett's esophagus (a condition where the oesophagus lining is damaged) "
+      }
+    ]
+  },
+
+  "Stomach": {
+    "content": "a type of cancer that develops in the stomach lining, often starting as abnormal cell growth in the mucosa. The most common type is adenocarcinoma, but other types can also occur. Treatment options for stomach cancer depend on the stage and type of cancer, and may include: Surgery to remove the tumor and surrounding tissue. Chemotherapy. Radiation therapy. Targeted therapies.",
+    "causes": [
+      {
+        "causesName": "",
+        "causesContent": "Infection with Helicobacter pylori (H. pylori). "
+      },
+      { "causesName": "", "causesContent": "Smoking. " },
+      { "causesName": "", "causesContent": "Being overweight or obese. " },
+      {
+        "causesName": "",
+        "causesContent": "A diet high in smoked, pickled, or salty foods. "
+      },
+      {
+        "causesName": "",
+        "causesContent": "Family history of stomach cancer. "
+      }
+    ]
+  },
+  "Colorectum and anus": {
+    "content": "Colorectal cancer, encompassing colon and rectal cancers, develops in the large intestine (colon and rectum), while anal cancer affects the anus and anal canal. ",
+    "causes": [
+      { "causesName": "", "causesContent": "age (over 50) " },
+      { "causesName": "", "causesContent": "family history" },
+      { "causesName": "", "causesContent": "certain genetic syndromes" },
+      { "causesName": "", "causesContent": "inflammatory bowel disease " },
+      {
+        "causesName": "",
+        "causesContent": "Human papillomavirus (HPV) infection"
+      }
+    ]
+  },
+  "Liver and intrahepatic bile ducts": {
+    "content": "Also known as intrahepatic cholangiocarcinoma, is a type of cancer that starts in the bile ducts within the liver, which are small tubes that carry bile from the liver to the small intestine. The survival rates for intrahepatic bile duct cancer vary depending on the stage and other factors, with localized cancers having a better prognosis than those that have spread. ",
+    "causes": [
+      {
+        "causesName": "",
+        "causesContent": "While the exact causes are not fully understood, certain conditions and factors can increase the risk, including chronic liver diseases, infections, and certain genetic conditions. "
+      }
+    ]
+  },
+  "Pancreas": {
+    "content": "A cancer that starts in the pancreas, is often difficult to detect early, with symptoms appearing only when the cancer is advanced, and can include jaundice, unexplained weight loss, abdominal pain, and fatigue. Pancreatic cancer occurs when abnormal cells in the pancreas, a gland that produces digestive enzymes and hormones, begin to grow out of control. The most common type of pancreatic cancer is pancreatic ductal adenocarcinoma, which originates in the cells lining the pancreatic ducts. ",
+    "causes": [
+      {
+        "causesName": "Smoking: ",
+        "causesContent": "Cigarette smoking is a major risk factor for pancreatic cancer. "
+      },
+      {
+        "causesName": "Family history: ",
+        "causesContent": "A family history of pancreatic cancer can increase your risk. "
+      },
+      {
+        "causesName": "Chronic pancreatitis: ",
+        "causesContent": "Long-term inflammation of the pancreas can raise the risk. "
+      },
+      {
+        "causesName": "Obesity: ",
+        "causesContent": "Being overweight or obese is a risk factor. "
+      },
+      {
+        "causesName": "Diabetes: ",
+        "causesContent": "Having diabetes can increase the risk of pancreatic cancer. "
+      }
+    ]
+  },
+  "Lung & Trachea": {
+    "content": "Can arise in the trachea (windpipe) or lungs, with the trachea tumors often being malignant, and the most common types being squamous cell carcinoma and adenoid cystic carcinoma. Lung cancer is a leading cause of cancer deaths worldwide, with smoking being the primary cause. It's characterized by uncontrolled cell growth and can manifest as persistent cough, coughing up blood, and shortness of breath. ",
+    "causes": [
+      {
+        "causesName": "Smoking: ",
+        "causesContent": "The leading cause of lung cancer, with the risk increasing with the amount and duration of smoking. "
+      },
+      {
+        "causesName": "Other factors: ",
+        "causesContent": "Exposure to asbestos, radon, and other pollutants can also increase the risk. "
+      }
+    ]
+  },
+  "Melanoma": {
+    "content": "A serious type of skin cancer that develops from melanocytes, the cells that produce melanin, and can spread to other parts of the body. Early detection and treatment are crucial for improving outcomes, and it's important to be aware of the warning signs and seek medical attention promptly if you notice any changes in your skin. Protect your skin from the sun: Wear sunscreen, seek shade, and avoid tanning beds. Regularly check your skin for moles and changes: Be aware of the warning signs and seek medical attention if you notice anything concerning. ",
+    "causes": [
+      {
+        "causesName": "",
+        "causesContent": "Melanoma is primarily caused by damage to DNA in melanocytes from ultraviolet (UV) radiation, such as from sunburns or tanning. "
+      }
+    ]
+  },
+  "Kidney and other urinary": {
+    "content": "including bladder and ureteral cancers, are cancers that originate in the urinary tract, with kidney cancer being the most common type. Early detection and treatment are crucial for improving outcomes. If you have any symptoms or concerns, consult with a healthcare professional. ",
+    "causes": [
+      { "causesName": "", "causesContent": "Smoking." },
+      { "causesName": "", "causesContent": "Obesity." },
+      { "causesName": "", "causesContent": "High blood pressure." },
+      { "causesName": "", "causesContent": "Exposure to certain chemicals." },
+      { "causesName": "", "causesContent": "Family history of cancer." }
+    ]
+  },
+  "Bladder": {
+    "content": "A cancer that starts in the lining of the bladder, is most often diagnosed after noticing blood in the urine, although other symptoms can include frequent urination and pain during urination. The bladder is part of the urinary system, responsible for storing urine. Most bladder cancers start in the urothelial cells, which line the bladder, urethra, ureters, and renal pelvis. ",
+    "causes": [
+      {
+        "causesName": "Smoking: ",
+        "causesContent": "Smokers are at a significantly higher risk of developing bladder cancer. "
+      },
+      {
+        "causesName": "Age: ",
+        "causesContent": "Bladder cancer is more common in older adults. "
+      },
+      {
+        "causesName": "Gender: ",
+        "causesContent": "Men are more likely to develop bladder cancer than women. "
+      },
+      {
+        "causesName": "Exposure to certain chemicals: ",
+        "causesContent": "Some industrial chemicals and dyes can increase the risk. "
+      },
+      {
+        "causesName": "Previous cancer treatments: ",
+        "causesContent": "Certain treatments for other cancers can increase the risk of bladder cancer. "
+      }
+    ]
+  },
+  "Brain": {
+    "content": "Or malignant brain tumors, occurs when abnormal cells grow uncontrollably in the brain, forming a mass, and can be either primary (originating in the brain) or secondary (spreading from elsewhere). Even benign brain tumors can cause problems due to their size and location. Some brain tumors can grow very large before symptoms are noticeable. ",
+    "causes": [
+      {
+        "causesName": "Radiation Exposure:",
+        "causesContent": "Exposure to high doses of ionizing radiation, such as from certain medical treatments or nuclear events, can increase the risk of brain tumors. "
+      },
+      {
+        "causesName": "Family History and Genetic Conditions: ",
+        "causesContent": "Some genetic conditions, such as neurofibromatosis, tuberous sclerosis, and von Hippel-Lindau disease, are known to increase the risk of certain types of brain tumors. "
+      },
+      {
+        "causesName": "Chemical Exposure: ",
+        "causesContent": "Exposure to certain chemicals, like vinyl chloride and formaldehyde, has been linked to an increased risk of some brain tumors. "
+      },
+      {
+        "causesName": "Other Potential Factors: ",
+        "causesContent": "Exposure to pesticides, herbicides, and fertilizer; Overweight and obesity; Immune system disorders "
+      }
+    ]
+  },
+  "Thyroid": {
+    "content": "a cancer of the butterfly-shaped thyroid gland in the neck, can develop from different types of cells, with papillary thyroid cancer being the most common. A painless lump or swelling in the neck, hoarseness, difficulty swallowing or breathing, and pain in the neck. Often discovered during a routine physical exam or by finding a lump or nodule incidentally on ultrasound or another imaging study. ",
+    "causes": [
+      {
+        "causesName": "Radiation exposure: ",
+        "causesContent": "Exposure to radiation, especially in childhood, can increase the risk. "
+      },
+      {
+        "causesName": "Family history: ",
+        "causesContent": "Having a family history of thyroid cancer can increase your risk. "
+      },
+      {
+        "causesName": "Certain genetic conditions: ",
+        "causesContent": "Inherited genetic conditions like familial adenomatous polyposis (FAP), Cowden syndrome, and multiple endocrine neoplasia (MEN) can increase risk. "
+      },
+      {
+        "causesName": "Obesity: ",
+        "causesContent": "Being overweight or obese increases your risk. "
+      }
+    ]
+  },
+  "Hodgkin lymphoma": {
+    "content": "A cancer that starts in the lymphatic system, a network of vessels and glands that are part of the immune system, and is characterized by the presence of abnormal cells called Reed-Sternberg cells. It primarily affects lymphocytes, a type of white blood cell that helps fight infections. Hodgkin lymphoma is distinguished by the presence of abnormal cells called Reed-Sternberg cells, which are large, abnormal lymphocytes. ",
+    "causes": [
+      {
+        "causesName": "Unknown Cause: ",
+        "causesContent": "The exact cause of Hodgkin lymphoma is unknown in most cases. "
+      },
+      {
+        "causesName": "Epstein-Barr Virus (EBV): ",
+        "causesContent": "Exposure to the Epstein-Barr virus, which causes mononucleosis, may increase the risk. "
+      },
+      {
+        "causesName": "Family History: ",
+        "causesContent": "Having a family history of Hodgkin lymphoma may increase the risk. "
+      },
+      {
+        "causesName": "Weakened Immune System: ",
+        "causesContent": "People with weakened immune systems, such as those with HIV or who take medications that suppress the immune system, may be at higher risk. "
+      },
+      {
+        "causesName": "Sex: ",
+        "causesContent": "Hodgkin lymphoma is slightly more common in males. "
+      }
+    ]
+  },
+  "Non-Hodgkin lymphoma": {
+    "content": "a type of cancer that develops in the lymphatic system, a network of vessels and glands that are part of the immune system, where white blood cells called lymphocytes are produced. Non-Hodgkin lymphoma is the most common type of lymphoma in New Zealand, with approximately 1000 people diagnosed every year. Treatment options vary depending on the type and stage of NHL, and may include chemotherapy, immunotherapy, targeted therapy, radiation therapy, or stem cell transplant. ",
+    "causes": [
+      {
+        "causesName": "Genetic Mutations: ",
+        "causesContent": "The most common cause of non-Hodgkin lymphoma is a change (mutation) in the DNA of lymphocytes. "
+      },
+      {
+        "causesName": "Unknown Causes: ",
+        "causesContent": "In most cases, the exact reason for these genetic mutations is not known. "
+      },
+      {
+        "causesName": "Infections: ",
+        "causesContent": "Certain viruses, like Epstein-Barr virus (EBV) and human T-cell lymphotropic virus type 1 (HTLV-1), and bacteria like Helicobacter pylori, have been linked to an increased risk of certain types of non-Hodgkin lymphoma. "
+      },
+      {
+        "causesName": "Immunosuppressant Medications: ",
+        "causesContent": "People who take immunosuppressant medications after organ transplants or other medical procedures are also at higher risk. "
+      },
+      {
+        "causesName": "Previous Cancer Treatment: ",
+        "causesContent": "People who have been treated for other cancers with chemotherapy or radiation therapy may have an increased risk of developing non-Hodgkin lymphoma later in life. "
+      }
+    ]
+  },
+  "Myeloma": {
+    "content": "A cancer that develops from plasma cells in the bone marrow, leading to abnormal antibody production and potentially crowding out healthy blood-forming cells. The myeloma cells multiply rapidly, crowding out normal blood-forming cells in the bone marrow, leading to a decrease in red blood cells (anemia), white blood cells (increased risk of infection), and platelets (increased risk of bleeding). Myeloma cells can also produce substances that cause bone destruction, leading to bone pain, fractures, and other complications. ",
+    "causes": [
+      {
+        "causesName": "Age: ",
+        "causesContent": "Myeloma is more common in older adults, with most cases diagnosed around age 70. "
+      },
+      {
+        "causesName": "Gender: ",
+        "causesContent": "Men are slightly more likely to develop myeloma than women. "
+      },
+      {
+        "causesName": "Radiation Exposure: ",
+        "causesContent": "Exposure to high doses of radiation, such as from working in a nuclear power plant, has been linked to an increased risk. "
+      },
+      {
+        "causesName": "MGUS: ",
+        "causesContent": "MGUS is a condition where there is an excess of protein molecules (immunoglobulins) in the blood, and about 1 in 100 people with MGUS go on to develop multiple myeloma. "
+      },
+      {
+        "causesName": "Certain Medical Conditions: ",
+        "causesContent": "Some autoimmune conditions or weakened immune systems may slightly increase the risk. "
+      }
+    ]
+  },
+  "Leukaemia": {
+    "content": "a type of cancer that affects the blood and bone marrow, causing an overproduction of abnormal white blood cells, which can crowd out healthy blood cells and impair their functions. Treatment for leukemia typically involves chemotherapy, targeted therapies, and in some cases, stem cell transplantation. ",
+    "causes": [
+      { "causesName": "", "causesContent": "previous cancer treatment" },
+      { "causesName": "", "causesContent": "genetic disorders" },
+      { "causesName": "", "causesContent": "exposure to chemicals" },
+      { "causesName": "", "causesContent": "exposure to radiation" },
+      { "causesName": "", "causesContent": "smoking" }
+    ]
+  }
+}

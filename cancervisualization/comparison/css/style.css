@@ -1,0 +1,292 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "Inter", sans-serif;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+html{
+    font-size: 16px;
+}
+
+/* Header and Footer styling */
+
+body > *{
+    width: 1280px;
+    margin: 0 auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+header, footer{
+    position: fixed;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    z-index: 3;
+}
+
+
+header{
+    top: 0%;
+    height: 82px;
+    background-color: white;
+    margin-top: 10px;
+}
+
+#project-name{
+    display: flex;
+    align-items: center;
+}
+
+#logo {
+    width: 70px;
+}
+
+#text-box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#title, #subtitle{
+    width: 282px;
+    color: rgb(27, 27, 27);
+}
+
+#slides{
+    margin-left: auto;
+}
+
+#slides a{
+    padding: 8px 12px;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+
+#slides a:hover{
+    background-color: rgba(251, 209, 61, 0.3);
+}
+
+footer{
+    margin-bottom: 10px;
+    bottom: 0%;
+    height: 60px;
+    background-color: #fbd13d;
+    justify-content: center;
+}
+
+nav a {
+    margin-left: 20px;
+    text-decoration: solid;
+    display: inline;
+    padding: 20px;
+    color: #1b1b1b;
+    font-weight: bold;
+    position: relative;
+  }
+
+  /* Container Styling */
+
+  #main-header{
+    font-family: 'Georgia', serif;
+    font-size: 40px;
+    margin-top: -80px;
+    margin-bottom: 80px;
+  }
+
+
+#options_container, #graphs_container{
+    position: absolute;
+    z-index: 1;
+    top: 142px;
+    bottom: 122px;
+    max-height: 638px;
+    background-position: bottom;
+    background-size: cover;
+    overflow-y: auto;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2%;
+
+    background: linear-gradient(to bottom, #BFDCE5, #89CFF0);
+}
+
+#options_container{
+    flex-direction: column;
+}
+
+#graphs_container{
+    flex-direction: row-reverse;
+}
+
+.option_object{
+    position: relative;
+    height: 100px;
+    width: 500px;
+    margin: 5px;
+    background-color: #fbd13d;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 20px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.option_text{
+    font-weight: bold;
+    font-size: 50px;
+    font-family: 'Arial', sans-serif;
+}
+
+.object{
+    position: relative;
+    background-color: white;
+    box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.5);
+    border-radius: 2%;
+    overflow: hidden;
+    padding: 10px;
+    display: inline-flex;
+    flex-direction: column;
+}
+
+.line{
+    display: inline;
+}
+
+.option_object:hover{
+    transform: scale(1.05);
+    box-shadow: 8px 8px 10px rgba(0, 0, 0, 0.5);
+    opacity: 0.9;
+}
+
+#legend_block{
+    background: #E0E0E0;
+    z-index: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    right: -50px;
+    padding-right: 50px;
+    overflow-y: auto;
+}
+
+#info_block{
+    background: #E0E0E0;
+    z-index: 1;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    left: -50px;
+    padding-left: 50px;
+    overflow-y: auto;
+}
+
+.legend-entry{
+    gap: 6px;
+    filter: brightness(110%) saturate(40%);
+    border: 1px solid black;
+    border-radius: 12px;
+    font-size: 12px;
+    height: 25px;
+    justify-content: center;
+    font-weight: bold;
+    color: black;
+
+    display: flex;
+    align-items: center;
+}
+
+.legend-entry:hover{
+    transform: scale(1.05);
+}
+
+.legend_text{
+    justify-content: center;
+}
+
+#yearSelect {
+    background-color: transparent;
+    color: black;
+    text-align: center;
+    font-size: 32px;
+    border: none;
+    outline: none;
+    appearance: none;
+    padding: 10px;
+  
+    height: auto;
+    border-radius: 10px;
+    overflow-y: auto;
+  }
+  
+  .yearOptions{
+    border-radius: 8px;
+
+  }
+  .yearOptions:hover{
+    background-color: rgba(169, 169, 169, 0.3);
+    cursor: pointer;
+  }
+
+  #yearSelect::-webkit-scrollbar {
+    width: 8px; /* or however small you want */
+  }
+
+  #yearSelect::-webkit-scrollbar-thumb {
+    background-color: gray; /* Your bar color */
+    border-radius: 4px; /* Make it rounder */
+    border: none; /* No border */
+  }
+
+  #yearSelect::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+
+  #people{
+    position: relative;
+  }
+
+  #percent{
+    color: rgba(169, 169, 169, 0.8);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    z-index: 10;
+    border-radius: 10px;
+    display: none;
+    font-size: 200px;
+  }
+
+#back{
+    width: 50px;
+    height: 50px;
+    background-image: url('../images/button.png');
+    background-size: cover;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    top: 5px;
+    left: 5px;
+    background-color: transparent;
+}
+
+#back:hover {
+    transform: scale(1.05);
+}

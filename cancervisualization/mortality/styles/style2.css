@@ -1,0 +1,147 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    height: 100vh;
+    background: linear-gradient(to bottom, #c7f6ed, #a1f098);
+    overflow: hidden;
+    flex-direction: column;
+}
+
+.title {
+    text-align: center;
+    margin-top: 100px;
+    width: 100%;
+}
+
+.svg {
+    margin-left: 25px;
+    margin-bottom: 100px;
+    background: white;
+}
+
+#svg-right {
+    transition: opacity 0.5s ease;
+    opacity: 1;
+}
+
+#svg-right {
+    background: white;
+    position: absolute;
+    right: 0;
+    opacity: 0;
+    pointer-events: none;
+}
+
+.container {
+    position: relative;
+    transition: transform 0.5s ease;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.container.shifted {
+    transform: translateX(-25%);
+}
+
+.container.shifted #svg-right {
+    left: 77%;
+    opacity: 1;
+}
+
+#slider {
+    margin-top: 45px;
+    margin-left: 30px;
+    width: 42%;
+    max-width: 750px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    top: calc(52%);
+    transition: left 0.5s ease;
+}
+
+.line {
+    fill: none;
+}
+
+.axis path,
+.axis line {
+    fill: none;
+    shape-rendering: crispEdges;
+}
+
+.axis text {
+    font-size: 12px;
+}
+
+.legend {
+    margin-top: 20px;
+    font-size: 12px;
+}
+
+#playPauseButton {
+    position: absolute;
+    left: 29%;
+    top: calc(57%);
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    padding: 3px 6px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+#playPauseButton:hover {
+    background-color: #45a049;
+}
+
+#playPauseButton:active {
+    background-color: #3e8e41;
+}
+
+.tooltip {
+    position: absolute;
+    background: rgba(0, 0, 0, 0.75);
+    color: #fff;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 12px;
+    pointer-events: none;
+    text-align: center;
+    transform: translate(-50%, -100%);
+    visibility: hidden;
+    transition: opacity 0.2s;
+}
+
+.container.shifted #slider {
+    left: 50%;
+}
+
+.container.shifted #playPauseButton {
+    left: 29%;
+}
+
+.back-button {
+    position: absolute;
+    top: 15px;
+    left: 20px;
+    background-color: #01ce68cc;
+    color: #000000;
+    padding: 10px 16px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 14px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    z-index: 999;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.back-button:hover {
+    background-color: #78d0c0;
+    transform: scale(1.05);
+}

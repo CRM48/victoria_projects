@@ -1,0 +1,228 @@
+/* body,header and footer */
+
+body {
+  font-family: "Inter", sans-serif;
+  background: #fff;
+  margin: 0;
+  padding: 0;
+  width: 1280px;
+  align-items: center;
+  height: 100%;
+  display: grid;
+  justify-self: center;
+}
+
+header {
+  width: 1280px;
+  background-color: #ffffff;
+  padding: 20px;
+  display: inline-flex;
+  align-items: end;
+  justify-content: space-between;
+}
+
+header .logo {
+  width: 70px;
+}
+
+nav a {
+  margin-left: 20px;
+  text-decoration: solid;
+  display: inline;
+  padding: 20px;
+  color: #1b1b1b;
+  font-weight: bold;
+  position: relative;
+  right: 20px;
+  top: -30px;
+}
+
+footer {
+  width: 1280px;
+  height: 60px;
+  background-color: #fbd13d;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 4px;
+  position: relative;
+}
+
+/* for graph part in history page */
+
+.graphArea {
+  width: 1250px;
+  height: 500px;
+  display: flex;
+  padding: 15px;
+  background-color: #fbd13d;
+  border-radius: 8px;
+}
+
+.graph-left {
+  width: 705px;
+}
+
+.leftGraph {
+  width: 100%;
+  height: 500px;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.graph-right {
+  width: 532px;
+  font-size: 18px;
+  position: relative;
+  left: 8px;
+}
+
+.rightGraph-rate {
+  width: 101%;
+  height: 392px;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.gender-stats {
+  display: flex;
+  width: 99.6%;
+  height: 100px;
+  position: relative;
+  top: 8px;
+}
+
+.gender-stats .male {
+  width: 50%;
+  background-color: #ffffff;
+  border-radius: 8px;
+}
+
+.gender-stats .female {
+  width: 50%;
+  background-color: #ffffff;
+  border-radius: 8px;
+  position: relative;
+  left: 8px;
+  right: -50px;
+}
+
+.gender-words {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: right;
+
+  color: #5e5f61;
+  p {
+    margin: 12px;
+  }
+}
+
+/* wiki status in history page */
+
+.wikiCancer {
+  width: 1280px;
+  display: flex;
+  font-size: 16px;
+  position: relative;
+  top: 15px;
+  margin-bottom: 10px;
+}
+
+.wikiImage {
+  position: relative;
+}
+
+.wikiOrgan {
+  position: absolute;
+  visibility: hidden;
+  filter: hue-rotate(0deg) saturate(5) brightness(1.2); /* add red on it */
+  mix-blend-mode: multiply;
+}
+
+.wikiCancerContent {
+  margin-top: 0;
+  padding-left: 20px;
+  color: #1b1b1b;
+  position: relative;
+  top: -10px;
+}
+
+.wikiFactor {
+  font-weight: 600;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+/* Carousel style in home page*/
+.carousel {
+  position: relative;
+  width: 1250px;
+  height: 680px;
+  overflow: hidden;
+  background-color: #fbd13d;
+  border-radius: 5px;
+  color: #1b1b1b;
+}
+
+.carousel-images {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+}
+
+.carousel-images img {
+  width: 1280px;
+  flex-shrink: 0;
+}
+
+.carousel-btn {
+  /* no button on the page */
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+  font-size: 24px;
+  padding: 8px 12px;
+  cursor: pointer;
+  border-radius: 4px;
+  z-index: 10;
+  user-select: none;
+}
+
+.carousel-btn:hover {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+
+#prevBtn {
+  left: 10px;
+}
+
+#nextBtn {
+  right: 10px;
+}
+
+/* Colorful block in home page*/
+.colorBlockFrame {
+  width: 1280px;
+  height: 120px;
+  display: inline-flex;
+  font-size: xx-large;
+  font-weight: bolder;
+  color: #1b1b1b;
+  align-items: baseline;
+  position: relative;
+  top: 7px;
+  margin-bottom: 15px;
+  gap: 0.5%;
+}
+
+.colorBlockInner {
+  width: 33%;
+  height: 120px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

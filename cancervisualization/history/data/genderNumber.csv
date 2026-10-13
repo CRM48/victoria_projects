@@ -1,0 +1,2241 @@
+year,cancer,number,gender
+1948,Lip Oral Cavity and Pharynx,201,Male
+1949,Lip Oral Cavity and Pharynx,197,Male
+1950,Lip Oral Cavity and Pharynx,181,Male
+1951,Lip Oral Cavity and Pharynx,163,Male
+1952,Lip Oral Cavity and Pharynx,193,Male
+1953,Lip Oral Cavity and Pharynx,174,Male
+1954,Lip Oral Cavity and Pharynx,169,Male
+1955,Lip Oral Cavity and Pharynx,175,Male
+1956,Lip Oral Cavity and Pharynx,180,Male
+1957,Lip Oral Cavity and Pharynx,173,Male
+1958,Lip Oral Cavity and Pharynx,138,Male
+1959,Lip Oral Cavity and Pharynx,85,Male
+1960,Lip Oral Cavity and Pharynx,95,Male
+1961,Lip Oral Cavity and Pharynx,104,Male
+1962,Lip Oral Cavity and Pharynx,82,Male
+1963,Lip Oral Cavity and Pharynx,90,Male
+1964,Lip Oral Cavity and Pharynx,92,Male
+1965,Lip Oral Cavity and Pharynx,85,Male
+1966,Lip Oral Cavity and Pharynx,93,Male
+1967,Lip Oral Cavity and Pharynx,121,Male
+1968,Lip Oral Cavity and Pharynx,112,Male
+1969,Lip Oral Cavity and Pharynx,114,Male
+1970,Lip Oral Cavity and Pharynx,127,Male
+1971,Lip Oral Cavity and Pharynx,117,Male
+1972,Lip Oral Cavity and Pharynx,104,Male
+1973,Lip Oral Cavity and Pharynx,104,Male
+1974,Lip Oral Cavity and Pharynx,121,Male
+1975,Lip Oral Cavity and Pharynx,103,Male
+1976,Lip Oral Cavity and Pharynx,126,Male
+1977,Lip Oral Cavity and Pharynx,159,Male
+1978,Lip Oral Cavity and Pharynx,154,Male
+1979,Lip Oral Cavity and Pharynx,179,Male
+1980,Lip Oral Cavity and Pharynx,177,Male
+1981,Lip Oral Cavity and Pharynx,170,Male
+1982,Lip Oral Cavity and Pharynx,209,Male
+1983,Lip Oral Cavity and Pharynx,185,Male
+1984,Lip Oral Cavity and Pharynx,185,Male
+1985,Lip Oral Cavity and Pharynx,176,Male
+1986,Lip Oral Cavity and Pharynx,186,Male
+1987,Lip Oral Cavity and Pharynx,194,Male
+1988,Lip Oral Cavity and Pharynx,198,Male
+1989,Lip Oral Cavity and Pharynx,217,Male
+1990,Lip Oral Cavity and Pharynx,196,Male
+1991,Lip Oral Cavity and Pharynx,183,Male
+1992,Lip Oral Cavity and Pharynx,220,Male
+1993,Lip Oral Cavity and Pharynx,182,Male
+1994,Lip Oral Cavity and Pharynx,181,Male
+1995,Lip Oral Cavity and Pharynx,177,Male
+1996,Lip Oral Cavity and Pharynx,165,Male
+1997,Lip Oral Cavity and Pharynx,177,Male
+1998,Lip Oral Cavity and Pharynx,199,Male
+1999,Lip Oral Cavity and Pharynx,201,Male
+2000,Lip Oral Cavity and Pharynx,188,Male
+2001,Lip Oral Cavity and Pharynx,181,Male
+2002,Lip Oral Cavity and Pharynx,167,Male
+2003,Lip Oral Cavity and Pharynx,199,Male
+2004,Lip Oral Cavity and Pharynx,199,Male
+2005,Lip Oral Cavity and Pharynx,195,Male
+2006,Lip Oral Cavity and Pharynx,242,Male
+2007,Lip Oral Cavity and Pharynx,225,Male
+2008,Lip Oral Cavity and Pharynx,238,Male
+2009,Lip Oral Cavity and Pharynx,239,Male
+2010,Lip Oral Cavity and Pharynx,299,Male
+2011,Lip Oral Cavity and Pharynx,259,Male
+2012,Lip Oral Cavity and Pharynx,276,Male
+2013,Lip Oral Cavity and Pharynx,273,Male
+2014,Lip Oral Cavity and Pharynx,292,Male
+2015,Lip Oral Cavity and Pharynx,363,Male
+2016,Lip Oral Cavity and Pharynx,352,Male
+2017,Lip Oral Cavity and Pharynx,368,Male
+1948,Oesophagus,44,Male
+1949,Oesophagus,36,Male
+1950,Oesophagus,34,Male
+1951,Oesophagus,34,Male
+1952,Oesophagus,55,Male
+1953,Oesophagus,44,Male
+1954,Oesophagus,38,Male
+1955,Oesophagus,40,Male
+1956,Oesophagus,35,Male
+1957,Oesophagus,44,Male
+1958,Oesophagus,50,Male
+1959,Oesophagus,38,Male
+1960,Oesophagus,42,Male
+1961,Oesophagus,47,Male
+1962,Oesophagus,48,Male
+1963,Oesophagus,49,Male
+1964,Oesophagus,55,Male
+1965,Oesophagus,52,Male
+1966,Oesophagus,65,Male
+1967,Oesophagus,60,Male
+1968,Oesophagus,44,Male
+1969,Oesophagus,59,Male
+1970,Oesophagus,53,Male
+1971,Oesophagus,56,Male
+1972,Oesophagus,74,Male
+1973,Oesophagus,78,Male
+1974,Oesophagus,73,Male
+1975,Oesophagus,92,Male
+1976,Oesophagus,81,Male
+1977,Oesophagus,100,Male
+1978,Oesophagus,70,Male
+1979,Oesophagus,79,Male
+1980,Oesophagus,82,Male
+1981,Oesophagus,103,Male
+1982,Oesophagus,97,Male
+1983,Oesophagus,95,Male
+1984,Oesophagus,83,Male
+1985,Oesophagus,114,Male
+1986,Oesophagus,80,Male
+1987,Oesophagus,123,Male
+1988,Oesophagus,101,Male
+1989,Oesophagus,121,Male
+1990,Oesophagus,135,Male
+1991,Oesophagus,124,Male
+1992,Oesophagus,116,Male
+1993,Oesophagus,135,Male
+1994,Oesophagus,126,Male
+1995,Oesophagus,143,Male
+1996,Oesophagus,121,Male
+1997,Oesophagus,132,Male
+1998,Oesophagus,103,Male
+1999,Oesophagus,145,Male
+2000,Oesophagus,149,Male
+2001,Oesophagus,148,Male
+2002,Oesophagus,153,Male
+2003,Oesophagus,160,Male
+2004,Oesophagus,180,Male
+2005,Oesophagus,148,Male
+2006,Oesophagus,162,Male
+2007,Oesophagus,198,Male
+2008,Oesophagus,194,Male
+2009,Oesophagus,174,Male
+2010,Oesophagus,204,Male
+2011,Oesophagus,187,Male
+2012,Oesophagus,212,Male
+2013,Oesophagus,221,Male
+2014,Oesophagus,195,Male
+2015,Oesophagus,214,Male
+2016,Oesophagus,175,Male
+2017,Oesophagus,197,Male
+1948,Stomach,228,Male
+1949,Stomach,224,Male
+1950,Stomach,239,Male
+1951,Stomach,202,Male
+1952,Stomach,207,Male
+1953,Stomach,218,Male
+1954,Stomach,213,Male
+1955,Stomach,191,Male
+1956,Stomach,223,Male
+1957,Stomach,205,Male
+1958,Stomach,229,Male
+1959,Stomach,235,Male
+1960,Stomach,220,Male
+1961,Stomach,231,Male
+1962,Stomach,206,Male
+1963,Stomach,214,Male
+1964,Stomach,220,Male
+1965,Stomach,223,Male
+1966,Stomach,214,Male
+1967,Stomach,226,Male
+1968,Stomach,228,Male
+1969,Stomach,226,Male
+1970,Stomach,257,Male
+1971,Stomach,199,Male
+1972,Stomach,243,Male
+1973,Stomach,204,Male
+1974,Stomach,196,Male
+1975,Stomach,251,Male
+1976,Stomach,299,Male
+1977,Stomach,228,Male
+1978,Stomach,248,Male
+1979,Stomach,237,Male
+1980,Stomach,267,Male
+1981,Stomach,274,Male
+1982,Stomach,254,Male
+1983,Stomach,230,Male
+1984,Stomach,223,Male
+1985,Stomach,282,Male
+1986,Stomach,250,Male
+1987,Stomach,243,Male
+1988,Stomach,230,Male
+1989,Stomach,242,Male
+1990,Stomach,233,Male
+1991,Stomach,239,Male
+1992,Stomach,249,Male
+1993,Stomach,225,Male
+1994,Stomach,224,Male
+1995,Stomach,232,Male
+1996,Stomach,254,Male
+1997,Stomach,234,Male
+1998,Stomach,250,Male
+1999,Stomach,252,Male
+2000,Stomach,220,Male
+2001,Stomach,232,Male
+2002,Stomach,263,Male
+2003,Stomach,252,Male
+2004,Stomach,213,Male
+2005,Stomach,205,Male
+2006,Stomach,233,Male
+2007,Stomach,235,Male
+2008,Stomach,243,Male
+2009,Stomach,242,Male
+2010,Stomach,234,Male
+2011,Stomach,250,Male
+2012,Stomach,239,Male
+2013,Stomach,233,Male
+2014,Stomach,250,Male
+2015,Stomach,235,Male
+2016,Stomach,267,Male
+2017,Stomach,281,Male
+1948,Colorectum and anus,245,Male
+1949,Colorectum and anus,215,Male
+1950,Colorectum and anus,203,Male
+1951,Colorectum and anus,221,Male
+1952,Colorectum and anus,231,Male
+1953,Colorectum and anus,250,Male
+1954,Colorectum and anus,268,Male
+1955,Colorectum and anus,283,Male
+1956,Colorectum and anus,293,Male
+1957,Colorectum and anus,292,Male
+1958,Colorectum and anus,279,Male
+1959,Colorectum and anus,326,Male
+1960,Colorectum and anus,328,Male
+1961,Colorectum and anus,345,Male
+1962,Colorectum and anus,353,Male
+1963,Colorectum and anus,356,Male
+1964,Colorectum and anus,396,Male
+1965,Colorectum and anus,441,Male
+1966,Colorectum and anus,409,Male
+1967,Colorectum and anus,425,Male
+1968,Colorectum and anus,512,Male
+1969,Colorectum and anus,473,Male
+1970,Colorectum and anus,579,Male
+1971,Colorectum and anus,551,Male
+1972,Colorectum and anus,573,Male
+1973,Colorectum and anus,587,Male
+1974,Colorectum and anus,633,Male
+1975,Colorectum and anus,628,Male
+1976,Colorectum and anus,668,Male
+1977,Colorectum and anus,675,Male
+1978,Colorectum and anus,686,Male
+1979,Colorectum and anus,732,Male
+1980,Colorectum and anus,726,Male
+1981,Colorectum and anus,785,Male
+1982,Colorectum and anus,836,Male
+1983,Colorectum and anus,901,Male
+1984,Colorectum and anus,925,Male
+1985,Colorectum and anus,923,Male
+1986,Colorectum and anus,944,Male
+1987,Colorectum and anus,957,Male
+1988,Colorectum and anus,1043,Male
+1989,Colorectum and anus,999,Male
+1990,Colorectum and anus,1025,Male
+1991,Colorectum and anus,1011,Male
+1992,Colorectum and anus,1049,Male
+1993,Colorectum and anus,1072,Male
+1994,Colorectum and anus,1248,Male
+1995,Colorectum and anus,1202,Male
+1996,Colorectum and anus,1255,Male
+1997,Colorectum and anus,1190,Male
+1998,Colorectum and anus,1241,Male
+1999,Colorectum and anus,1323,Male
+2000,Colorectum and anus,1260,Male
+2001,Colorectum and anus,1336,Male
+2002,Colorectum and anus,1345,Male
+2003,Colorectum and anus,1359,Male
+2004,Colorectum and anus,1382,Male
+2005,Colorectum and anus,1333,Male
+2006,Colorectum and anus,1487,Male
+2007,Colorectum and anus,1460,Male
+2008,Colorectum and anus,1449,Male
+2009,Colorectum and anus,1473,Male
+2010,Colorectum and anus,1514,Male
+2011,Colorectum and anus,1640,Male
+2012,Colorectum and anus,1577,Male
+2013,Colorectum and anus,1633,Male
+2014,Colorectum and anus,1731,Male
+2015,Colorectum and anus,1642,Male
+2016,Colorectum and anus,1661,Male
+2017,Colorectum and anus,1630,Male
+1948,Liver and intrahepatic bile ducts,19,Male
+1949,Liver and intrahepatic bile ducts,19,Male
+1950,Liver and intrahepatic bile ducts,24,Male
+1951,Liver and intrahepatic bile ducts,14,Male
+1952,Liver and intrahepatic bile ducts,25,Male
+1953,Liver and intrahepatic bile ducts,28,Male
+1954,Liver and intrahepatic bile ducts,24,Male
+1955,Liver and intrahepatic bile ducts,27,Male
+1956,Liver and intrahepatic bile ducts,35,Male
+1957,Liver and intrahepatic bile ducts,31,Male
+1958,Liver and intrahepatic bile ducts,35,Male
+1959,Liver and intrahepatic bile ducts,30,Male
+1960,Liver and intrahepatic bile ducts,35,Male
+1961,Liver and intrahepatic bile ducts,36,Male
+1962,Liver and intrahepatic bile ducts,44,Male
+1963,Liver and intrahepatic bile ducts,47,Male
+1964,Liver and intrahepatic bile ducts,32,Male
+1965,Liver and intrahepatic bile ducts,50,Male
+1966,Liver and intrahepatic bile ducts,37,Male
+1967,Liver and intrahepatic bile ducts,45,Male
+1968,Liver and intrahepatic bile ducts,31,Male
+1969,Liver and intrahepatic bile ducts,24,Male
+1970,Liver and intrahepatic bile ducts,32,Male
+1971,Liver and intrahepatic bile ducts,38,Male
+1972,Liver and intrahepatic bile ducts,23,Male
+1973,Liver and intrahepatic bile ducts,36,Male
+1974,Liver and intrahepatic bile ducts,35,Male
+1975,Liver and intrahepatic bile ducts,34,Male
+1976,Liver and intrahepatic bile ducts,34,Male
+1977,Liver and intrahepatic bile ducts,40,Male
+1978,Liver and intrahepatic bile ducts,45,Male
+1979,Liver and intrahepatic bile ducts,55,Male
+1980,Liver and intrahepatic bile ducts,47,Male
+1981,Liver and intrahepatic bile ducts,53,Male
+1982,Liver and intrahepatic bile ducts,38,Male
+1983,Liver and intrahepatic bile ducts,50,Male
+1984,Liver and intrahepatic bile ducts,43,Male
+1985,Liver and intrahepatic bile ducts,40,Male
+1986,Liver and intrahepatic bile ducts,49,Male
+1987,Liver and intrahepatic bile ducts,60,Male
+1988,Liver and intrahepatic bile ducts,68,Male
+1989,Liver and intrahepatic bile ducts,62,Male
+1990,Liver and intrahepatic bile ducts,56,Male
+1991,Liver and intrahepatic bile ducts,61,Male
+1992,Liver and intrahepatic bile ducts,64,Male
+1993,Liver and intrahepatic bile ducts,81,Male
+1994,Liver and intrahepatic bile ducts,80,Male
+1995,Liver and intrahepatic bile ducts,79,Male
+1996,Liver and intrahepatic bile ducts,83,Male
+1997,Liver and intrahepatic bile ducts,95,Male
+1998,Liver and intrahepatic bile ducts,104,Male
+1999,Liver and intrahepatic bile ducts,106,Male
+2000,Liver and intrahepatic bile ducts,89,Male
+2001,Liver and intrahepatic bile ducts,94,Male
+2002,Liver and intrahepatic bile ducts,111,Male
+2003,Liver and intrahepatic bile ducts,132,Male
+2004,Liver and intrahepatic bile ducts,125,Male
+2005,Liver and intrahepatic bile ducts,154,Male
+2006,Liver and intrahepatic bile ducts,160,Male
+2007,Liver and intrahepatic bile ducts,166,Male
+2008,Liver and intrahepatic bile ducts,161,Male
+2009,Liver and intrahepatic bile ducts,177,Male
+2010,Liver and intrahepatic bile ducts,193,Male
+2011,Liver and intrahepatic bile ducts,233,Male
+2012,Liver and intrahepatic bile ducts,230,Male
+2013,Liver and intrahepatic bile ducts,206,Male
+2014,Liver and intrahepatic bile ducts,240,Male
+2015,Liver and intrahepatic bile ducts,252,Male
+2016,Liver and intrahepatic bile ducts,248,Male
+2017,Liver and intrahepatic bile ducts,248,Male
+1948,Pancreas,52,Male
+1949,Pancreas,52,Male
+1950,Pancreas,69,Male
+1951,Pancreas,73,Male
+1952,Pancreas,60,Male
+1953,Pancreas,56,Male
+1954,Pancreas,70,Male
+1955,Pancreas,73,Male
+1956,Pancreas,54,Male
+1957,Pancreas,88,Male
+1958,Pancreas,83,Male
+1959,Pancreas,77,Male
+1960,Pancreas,86,Male
+1961,Pancreas,94,Male
+1962,Pancreas,106,Male
+1963,Pancreas,114,Male
+1964,Pancreas,101,Male
+1965,Pancreas,98,Male
+1966,Pancreas,100,Male
+1967,Pancreas,93,Male
+1968,Pancreas,92,Male
+1969,Pancreas,92,Male
+1970,Pancreas,131,Male
+1971,Pancreas,110,Male
+1972,Pancreas,135,Male
+1973,Pancreas,111,Male
+1974,Pancreas,145,Male
+1975,Pancreas,156,Male
+1976,Pancreas,125,Male
+1977,Pancreas,133,Male
+1978,Pancreas,146,Male
+1979,Pancreas,133,Male
+1980,Pancreas,145,Male
+1981,Pancreas,138,Male
+1982,Pancreas,126,Male
+1983,Pancreas,152,Male
+1984,Pancreas,134,Male
+1985,Pancreas,126,Male
+1986,Pancreas,127,Male
+1987,Pancreas,132,Male
+1988,Pancreas,178,Male
+1989,Pancreas,129,Male
+1990,Pancreas,176,Male
+1991,Pancreas,137,Male
+1992,Pancreas,151,Male
+1993,Pancreas,151,Male
+1994,Pancreas,165,Male
+1995,Pancreas,138,Male
+1996,Pancreas,146,Male
+1997,Pancreas,151,Male
+1998,Pancreas,171,Male
+1999,Pancreas,170,Male
+2000,Pancreas,157,Male
+2001,Pancreas,162,Male
+2002,Pancreas,160,Male
+2003,Pancreas,175,Male
+2004,Pancreas,180,Male
+2005,Pancreas,198,Male
+2006,Pancreas,180,Male
+2007,Pancreas,225,Male
+2008,Pancreas,207,Male
+2009,Pancreas,234,Male
+2010,Pancreas,261,Male
+2011,Pancreas,227,Male
+2012,Pancreas,270,Male
+2013,Pancreas,259,Male
+2014,Pancreas,280,Male
+2015,Pancreas,302,Male
+2016,Pancreas,311,Male
+2017,Pancreas,285,Male
+1948,Lung & Trachea,136,Male
+1949,Lung & Trachea,137,Male
+1950,Lung & Trachea,155,Male
+1951,Lung & Trachea,172,Male
+1952,Lung & Trachea,203,Male
+1953,Lung & Trachea,247,Male
+1954,Lung & Trachea,263,Male
+1955,Lung & Trachea,268,Male
+1956,Lung & Trachea,310,Male
+1957,Lung & Trachea,348,Male
+1958,Lung & Trachea,353,Male
+1959,Lung & Trachea,351,Male
+1960,Lung & Trachea,375,Male
+1961,Lung & Trachea,429,Male
+1962,Lung & Trachea,469,Male
+1963,Lung & Trachea,478,Male
+1964,Lung & Trachea,502,Male
+1965,Lung & Trachea,548,Male
+1966,Lung & Trachea,608,Male
+1967,Lung & Trachea,581,Male
+1968,Lung & Trachea,710,Male
+1969,Lung & Trachea,676,Male
+1970,Lung & Trachea,717,Male
+1971,Lung & Trachea,702,Male
+1972,Lung & Trachea,749,Male
+1973,Lung & Trachea,787,Male
+1974,Lung & Trachea,849,Male
+1975,Lung & Trachea,918,Male
+1976,Lung & Trachea,917,Male
+1977,Lung & Trachea,895,Male
+1978,Lung & Trachea,972,Male
+1979,Lung & Trachea,968,Male
+1980,Lung & Trachea,968,Male
+1981,Lung & Trachea,918,Male
+1982,Lung & Trachea,1008,Male
+1983,Lung & Trachea,1084,Male
+1984,Lung & Trachea,1044,Male
+1985,Lung & Trachea,985,Male
+1986,Lung & Trachea,998,Male
+1987,Lung & Trachea,993,Male
+1988,Lung & Trachea,1046,Male
+1989,Lung & Trachea,1053,Male
+1990,Lung & Trachea,980,Male
+1991,Lung & Trachea,955,Male
+1992,Lung & Trachea,990,Male
+1993,Lung & Trachea,991,Male
+1994,Lung & Trachea,1072,Male
+1995,Lung & Trachea,967,Male
+1996,Lung & Trachea,995,Male
+1997,Lung & Trachea,922,Male
+1998,Lung & Trachea,957,Male
+1999,Lung & Trachea,980,Male
+2000,Lung & Trachea,978,Male
+2001,Lung & Trachea,886,Male
+2002,Lung & Trachea,941,Male
+2003,Lung & Trachea,1043,Male
+2004,Lung & Trachea,1084,Male
+2005,Lung & Trachea,965,Male
+2006,Lung & Trachea,942,Male
+2007,Lung & Trachea,1042,Male
+2008,Lung & Trachea,1006,Male
+2009,Lung & Trachea,1114,Male
+2010,Lung & Trachea,1054,Male
+2011,Lung & Trachea,1062,Male
+2012,Lung & Trachea,1083,Male
+2013,Lung & Trachea,1050,Male
+2014,Lung & Trachea,1196,Male
+2015,Lung & Trachea,1137,Male
+2016,Lung & Trachea,1169,Male
+2017,Lung & Trachea,1106,Male
+1948,Melanoma,20,Male
+1949,Melanoma,11,Male
+1950,Melanoma,24,Male
+1951,Melanoma,33,Male
+1952,Melanoma,22,Male
+1953,Melanoma,28,Male
+1954,Melanoma,33,Male
+1955,Melanoma,31,Male
+1956,Melanoma,30,Male
+1957,Melanoma,33,Male
+1958,Melanoma,37,Male
+1959,Melanoma,51,Male
+1960,Melanoma,32,Male
+1961,Melanoma,46,Male
+1962,Melanoma,61,Male
+1963,Melanoma,51,Male
+1964,Melanoma,56,Male
+1965,Melanoma,68,Male
+1966,Melanoma,67,Male
+1967,Melanoma,69,Male
+1968,Melanoma,76,Male
+1969,Melanoma,92,Male
+1970,Melanoma,100,Male
+1971,Melanoma,115,Male
+1972,Melanoma,131,Male
+1973,Melanoma,154,Male
+1974,Melanoma,177,Male
+1975,Melanoma,210,Male
+1976,Melanoma,198,Male
+1977,Melanoma,210,Male
+1978,Melanoma,221,Male
+1979,Melanoma,215,Male
+1980,Melanoma,256,Male
+1981,Melanoma,252,Male
+1982,Melanoma,314,Male
+1983,Melanoma,292,Male
+1984,Melanoma,342,Male
+1985,Melanoma,282,Male
+1986,Melanoma,311,Male
+1987,Melanoma,352,Male
+1988,Melanoma,451,Male
+1989,Melanoma,472,Male
+1990,Melanoma,421,Male
+1991,Melanoma,411,Male
+1992,Melanoma,491,Male
+1993,Melanoma,524,Male
+1994,Melanoma,756,Male
+1995,Melanoma,879,Male
+1996,Melanoma,742,Male
+1997,Melanoma,751,Male
+1998,Melanoma,821,Male
+1999,Melanoma,826,Male
+2000,Melanoma,854,Male
+2001,Melanoma,865,Male
+2002,Melanoma,931,Male
+2003,Melanoma,957,Male
+2004,Melanoma,950,Male
+2005,Melanoma,1120,Male
+2006,Melanoma,1069,Male
+2007,Melanoma,1126,Male
+2008,Melanoma,1185,Male
+2009,Melanoma,1197,Male
+2010,Melanoma,1243,Male
+2011,Melanoma,1205,Male
+2012,Melanoma,1230,Male
+2013,Melanoma,1224,Male
+2014,Melanoma,1256,Male
+2015,Melanoma,1360,Male
+2016,Melanoma,1432,Male
+2017,Melanoma,1415,Male
+1948,Kidney and other urinary,27,Male
+1949,Kidney and other urinary,23,Male
+1950,Kidney and other urinary,28,Male
+1951,Kidney and other urinary,48,Male
+1952,Kidney and other urinary,37,Male
+1953,Kidney and other urinary,36,Male
+1954,Kidney and other urinary,38,Male
+1955,Kidney and other urinary,46,Male
+1956,Kidney and other urinary,49,Male
+1957,Kidney and other urinary,45,Male
+1958,Kidney and other urinary,54,Male
+1959,Kidney and other urinary,45,Male
+1960,Kidney and other urinary,52,Male
+1961,Kidney and other urinary,60,Male
+1962,Kidney and other urinary,59,Male
+1963,Kidney and other urinary,70,Male
+1964,Kidney and other urinary,60,Male
+1965,Kidney and other urinary,73,Male
+1966,Kidney and other urinary,88,Male
+1967,Kidney and other urinary,77,Male
+1968,Kidney and other urinary,80,Male
+1969,Kidney and other urinary,75,Male
+1970,Kidney and other urinary,77,Male
+1971,Kidney and other urinary,85,Male
+1972,Kidney and other urinary,90,Male
+1973,Kidney and other urinary,86,Male
+1974,Kidney and other urinary,93,Male
+1975,Kidney and other urinary,115,Male
+1976,Kidney and other urinary,87,Male
+1977,Kidney and other urinary,110,Male
+1978,Kidney and other urinary,130,Male
+1979,Kidney and other urinary,107,Male
+1980,Kidney and other urinary,125,Male
+1981,Kidney and other urinary,128,Male
+1982,Kidney and other urinary,149,Male
+1983,Kidney and other urinary,150,Male
+1984,Kidney and other urinary,129,Male
+1985,Kidney and other urinary,140,Male
+1986,Kidney and other urinary,126,Male
+1987,Kidney and other urinary,158,Male
+1988,Kidney and other urinary,135,Male
+1989,Kidney and other urinary,138,Male
+1990,Kidney and other urinary,125,Male
+1991,Kidney and other urinary,164,Male
+1992,Kidney and other urinary,152,Male
+1993,Kidney and other urinary,192,Male
+1994,Kidney and other urinary,205,Male
+1995,Kidney and other urinary,185,Male
+1996,Kidney and other urinary,212,Male
+1997,Kidney and other urinary,235,Male
+1998,Kidney and other urinary,224,Male
+1999,Kidney and other urinary,239,Male
+2000,Kidney and other urinary,231,Male
+2001,Kidney and other urinary,247,Male
+2002,Kidney and other urinary,233,Male
+2003,Kidney and other urinary,262,Male
+2004,Kidney and other urinary,302,Male
+2005,Kidney and other urinary,260,Male
+2006,Kidney and other urinary,296,Male
+2007,Kidney and other urinary,337,Male
+2008,Kidney and other urinary,360,Male
+2009,Kidney and other urinary,335,Male
+2010,Kidney and other urinary,391,Male
+2011,Kidney and other urinary,374,Male
+2012,Kidney and other urinary,395,Male
+2013,Kidney and other urinary,422,Male
+2014,Kidney and other urinary,450,Male
+2015,Kidney and other urinary,447,Male
+2016,Kidney and other urinary,395,Male
+2017,Kidney and other urinary,439,Male
+1948,Bladder,59,Male
+1949,Bladder,63,Male
+1950,Bladder,63,Male
+1951,Bladder,57,Male
+1952,Bladder,56,Male
+1953,Bladder,67,Male
+1954,Bladder,64,Male
+1955,Bladder,67,Male
+1956,Bladder,74,Male
+1957,Bladder,95,Male
+1958,Bladder,74,Male
+1959,Bladder,89,Male
+1960,Bladder,83,Male
+1961,Bladder,121,Male
+1962,Bladder,108,Male
+1963,Bladder,137,Male
+1964,Bladder,132,Male
+1965,Bladder,123,Male
+1966,Bladder,112,Male
+1967,Bladder,121,Male
+1968,Bladder,140,Male
+1969,Bladder,148,Male
+1970,Bladder,125,Male
+1971,Bladder,180,Male
+1972,Bladder,147,Male
+1973,Bladder,177,Male
+1974,Bladder,194,Male
+1975,Bladder,225,Male
+1976,Bladder,219,Male
+1977,Bladder,218,Male
+1978,Bladder,218,Male
+1979,Bladder,227,Male
+1980,Bladder,244,Male
+1981,Bladder,245,Male
+1982,Bladder,252,Male
+1983,Bladder,264,Male
+1984,Bladder,250,Male
+1985,Bladder,173,Male
+1986,Bladder,265,Male
+1987,Bladder,87,Male
+1988,Bladder,309,Male
+1989,Bladder,218,Male
+1990,Bladder,280,Male
+1991,Bladder,282,Male
+1992,Bladder,269,Male
+1993,Bladder,328,Male
+1994,Bladder,413,Male
+1995,Bladder,366,Male
+1996,Bladder,404,Male
+1997,Bladder,371,Male
+1998,Bladder,430,Male
+1999,Bladder,408,Male
+2000,Bladder,388,Male
+2001,Bladder,431,Male
+2002,Bladder,386,Male
+2003,Bladder,420,Male
+2004,Bladder,410,Male
+2005,Bladder,246,Male
+2006,Bladder,239,Male
+2007,Bladder,275,Male
+2008,Bladder,242,Male
+2009,Bladder,253,Male
+2010,Bladder,285,Male
+2011,Bladder,234,Male
+2012,Bladder,236,Male
+2013,Bladder,274,Male
+2014,Bladder,322,Male
+2015,Bladder,308,Male
+2016,Bladder,316,Male
+2017,Bladder,307,Male
+1948,Brain,29,Male
+1949,Brain,37,Male
+1950,Brain,28,Male
+1951,Brain,43,Male
+1952,Brain,39,Male
+1953,Brain,36,Male
+1954,Brain,49,Male
+1955,Brain,60,Male
+1956,Brain,43,Male
+1957,Brain,51,Male
+1958,Brain,51,Male
+1959,Brain,67,Male
+1960,Brain,55,Male
+1961,Brain,64,Male
+1962,Brain,64,Male
+1963,Brain,77,Male
+1964,Brain,72,Male
+1965,Brain,68,Male
+1966,Brain,77,Male
+1967,Brain,66,Male
+1968,Brain,77,Male
+1969,Brain,71,Male
+1970,Brain,69,Male
+1971,Brain,89,Male
+1972,Brain,87,Male
+1973,Brain,92,Male
+1974,Brain,75,Male
+1975,Brain,86,Male
+1976,Brain,79,Male
+1977,Brain,91,Male
+1978,Brain,108,Male
+1979,Brain,126,Male
+1980,Brain,99,Male
+1981,Brain,110,Male
+1982,Brain,106,Male
+1983,Brain,111,Male
+1984,Brain,131,Male
+1985,Brain,98,Male
+1986,Brain,130,Male
+1987,Brain,89,Male
+1988,Brain,117,Male
+1989,Brain,112,Male
+1990,Brain,120,Male
+1991,Brain,128,Male
+1992,Brain,134,Male
+1993,Brain,120,Male
+1994,Brain,124,Male
+1995,Brain,102,Male
+1996,Brain,162,Male
+1997,Brain,142,Male
+1998,Brain,153,Male
+1999,Brain,140,Male
+2000,Brain,158,Male
+2001,Brain,146,Male
+2002,Brain,179,Male
+2003,Brain,136,Male
+2004,Brain,147,Male
+2005,Brain,161,Male
+2006,Brain,162,Male
+2007,Brain,137,Male
+2008,Brain,137,Male
+2009,Brain,162,Male
+2010,Brain,188,Male
+2011,Brain,184,Male
+2012,Brain,181,Male
+2013,Brain,185,Male
+2014,Brain,185,Male
+2015,Brain,174,Male
+2016,Brain,203,Male
+2017,Brain,188,Male
+1948,Thyroid,7,Male
+1949,Thyroid,6,Male
+1950,Thyroid,8,Male
+1951,Thyroid,6,Male
+1952,Thyroid,10,Male
+1953,Thyroid,5,Male
+1954,Thyroid,6,Male
+1955,Thyroid,5,Male
+1956,Thyroid,8,Male
+1957,Thyroid,6,Male
+1958,Thyroid,14,Male
+1959,Thyroid,6,Male
+1960,Thyroid,11,Male
+1961,Thyroid,8,Male
+1962,Thyroid,9,Male
+1963,Thyroid,8,Male
+1964,Thyroid,12,Male
+1965,Thyroid,11,Male
+1966,Thyroid,8,Male
+1967,Thyroid,7,Male
+1968,Thyroid,15,Male
+1969,Thyroid,17,Male
+1970,Thyroid,15,Male
+1971,Thyroid,10,Male
+1972,Thyroid,19,Male
+1973,Thyroid,17,Male
+1974,Thyroid,22,Male
+1975,Thyroid,17,Male
+1976,Thyroid,18,Male
+1977,Thyroid,16,Male
+1978,Thyroid,13,Male
+1979,Thyroid,18,Male
+1980,Thyroid,22,Male
+1981,Thyroid,15,Male
+1982,Thyroid,22,Male
+1983,Thyroid,18,Male
+1984,Thyroid,26,Male
+1985,Thyroid,15,Male
+1986,Thyroid,21,Male
+1987,Thyroid,62,Male
+1988,Thyroid,24,Male
+1989,Thyroid,20,Male
+1990,Thyroid,20,Male
+1991,Thyroid,27,Male
+1992,Thyroid,29,Male
+1993,Thyroid,28,Male
+1994,Thyroid,26,Male
+1995,Thyroid,39,Male
+1996,Thyroid,35,Male
+1997,Thyroid,52,Male
+1998,Thyroid,33,Male
+1999,Thyroid,34,Male
+2000,Thyroid,46,Male
+2001,Thyroid,31,Male
+2002,Thyroid,37,Male
+2003,Thyroid,57,Male
+2004,Thyroid,56,Male
+2005,Thyroid,51,Male
+2006,Thyroid,63,Male
+2007,Thyroid,64,Male
+2008,Thyroid,51,Male
+2009,Thyroid,73,Male
+2010,Thyroid,71,Male
+2011,Thyroid,73,Male
+2012,Thyroid,67,Male
+2013,Thyroid,84,Male
+2014,Thyroid,96,Male
+2015,Thyroid,100,Male
+2016,Thyroid,97,Male
+2017,Thyroid,102,Male
+1948,Hodgkin lymphoma,16,Male
+1949,Hodgkin lymphoma,17,Male
+1950,Hodgkin lymphoma,30,Male
+1951,Hodgkin lymphoma,20,Male
+1952,Hodgkin lymphoma,17,Male
+1953,Hodgkin lymphoma,26,Male
+1954,Hodgkin lymphoma,25,Male
+1955,Hodgkin lymphoma,23,Male
+1956,Hodgkin lymphoma,24,Male
+1957,Hodgkin lymphoma,15,Male
+1958,Hodgkin lymphoma,16,Male
+1959,Hodgkin lymphoma,22,Male
+1960,Hodgkin lymphoma,23,Male
+1961,Hodgkin lymphoma,30,Male
+1962,Hodgkin lymphoma,33,Male
+1963,Hodgkin lymphoma,35,Male
+1964,Hodgkin lymphoma,35,Male
+1965,Hodgkin lymphoma,44,Male
+1966,Hodgkin lymphoma,38,Male
+1967,Hodgkin lymphoma,41,Male
+1968,Hodgkin lymphoma,38,Male
+1969,Hodgkin lymphoma,40,Male
+1970,Hodgkin lymphoma,31,Male
+1971,Hodgkin lymphoma,45,Male
+1972,Hodgkin lymphoma,39,Male
+1973,Hodgkin lymphoma,43,Male
+1974,Hodgkin lymphoma,48,Male
+1975,Hodgkin lymphoma,49,Male
+1976,Hodgkin lymphoma,50,Male
+1977,Hodgkin lymphoma,46,Male
+1978,Hodgkin lymphoma,48,Male
+1979,Hodgkin lymphoma,38,Male
+1980,Hodgkin lymphoma,44,Male
+1981,Hodgkin lymphoma,37,Male
+1982,Hodgkin lymphoma,43,Male
+1983,Hodgkin lymphoma,46,Male
+1984,Hodgkin lymphoma,42,Male
+1985,Hodgkin lymphoma,39,Male
+1986,Hodgkin lymphoma,36,Male
+1987,Hodgkin lymphoma,37,Male
+1988,Hodgkin lymphoma,35,Male
+1989,Hodgkin lymphoma,38,Male
+1990,Hodgkin lymphoma,19,Male
+1991,Hodgkin lymphoma,41,Male
+1992,Hodgkin lymphoma,34,Male
+1993,Hodgkin lymphoma,31,Male
+1994,Hodgkin lymphoma,33,Male
+1995,Hodgkin lymphoma,53,Male
+1996,Hodgkin lymphoma,37,Male
+1997,Hodgkin lymphoma,32,Male
+1998,Hodgkin lymphoma,41,Male
+1999,Hodgkin lymphoma,37,Male
+2000,Hodgkin lymphoma,41,Male
+2001,Hodgkin lymphoma,37,Male
+2002,Hodgkin lymphoma,47,Male
+2003,Hodgkin lymphoma,49,Male
+2004,Hodgkin lymphoma,50,Male
+2005,Hodgkin lymphoma,58,Male
+2006,Hodgkin lymphoma,52,Male
+2007,Hodgkin lymphoma,48,Male
+2008,Hodgkin lymphoma,65,Male
+2009,Hodgkin lymphoma,57,Male
+2010,Hodgkin lymphoma,54,Male
+2011,Hodgkin lymphoma,59,Male
+2012,Hodgkin lymphoma,48,Male
+2013,Hodgkin lymphoma,66,Male
+2014,Hodgkin lymphoma,55,Male
+2015,Hodgkin lymphoma,57,Male
+2016,Hodgkin lymphoma,57,Male
+2017,Hodgkin lymphoma,60,Male
+1948,Non-Hodgkin lymphoma,36,Male
+1949,Non-Hodgkin lymphoma,53,Male
+1950,Non-Hodgkin lymphoma,42,Male
+1951,Non-Hodgkin lymphoma,69,Male
+1952,Non-Hodgkin lymphoma,46,Male
+1953,Non-Hodgkin lymphoma,57,Male
+1954,Non-Hodgkin lymphoma,59,Male
+1955,Non-Hodgkin lymphoma,44,Male
+1956,Non-Hodgkin lymphoma,60,Male
+1957,Non-Hodgkin lymphoma,55,Male
+1958,Non-Hodgkin lymphoma,60,Male
+1959,Non-Hodgkin lymphoma,70,Male
+1960,Non-Hodgkin lymphoma,61,Male
+1961,Non-Hodgkin lymphoma,69,Male
+1962,Non-Hodgkin lymphoma,62,Male
+1963,Non-Hodgkin lymphoma,69,Male
+1964,Non-Hodgkin lymphoma,67,Male
+1965,Non-Hodgkin lymphoma,70,Male
+1966,Non-Hodgkin lymphoma,77,Male
+1967,Non-Hodgkin lymphoma,75,Male
+1968,Non-Hodgkin lymphoma,67,Male
+1969,Non-Hodgkin lymphoma,86,Male
+1970,Non-Hodgkin lymphoma,85,Male
+1971,Non-Hodgkin lymphoma,110,Male
+1972,Non-Hodgkin lymphoma,91,Male
+1973,Non-Hodgkin lymphoma,105,Male
+1974,Non-Hodgkin lymphoma,95,Male
+1975,Non-Hodgkin lymphoma,125,Male
+1976,Non-Hodgkin lymphoma,103,Male
+1977,Non-Hodgkin lymphoma,118,Male
+1978,Non-Hodgkin lymphoma,100,Male
+1979,Non-Hodgkin lymphoma,100,Male
+1980,Non-Hodgkin lymphoma,131,Male
+1981,Non-Hodgkin lymphoma,126,Male
+1982,Non-Hodgkin lymphoma,148,Male
+1983,Non-Hodgkin lymphoma,135,Male
+1984,Non-Hodgkin lymphoma,141,Male
+1985,Non-Hodgkin lymphoma,171,Male
+1986,Non-Hodgkin lymphoma,155,Male
+1987,Non-Hodgkin lymphoma,185,Male
+1988,Non-Hodgkin lymphoma,175,Male
+1989,Non-Hodgkin lymphoma,207,Male
+1990,Non-Hodgkin lymphoma,209,Male
+1991,Non-Hodgkin lymphoma,203,Male
+1992,Non-Hodgkin lymphoma,213,Male
+1993,Non-Hodgkin lymphoma,225,Male
+1994,Non-Hodgkin lymphoma,259,Male
+1995,Non-Hodgkin lymphoma,276,Male
+1996,Non-Hodgkin lymphoma,290,Male
+1997,Non-Hodgkin lymphoma,290,Male
+1998,Non-Hodgkin lymphoma,312,Male
+1999,Non-Hodgkin lymphoma,322,Male
+2000,Non-Hodgkin lymphoma,293,Male
+2001,Non-Hodgkin lymphoma,329,Male
+2002,Non-Hodgkin lymphoma,294,Male
+2003,Non-Hodgkin lymphoma,350,Male
+2004,Non-Hodgkin lymphoma,347,Male
+2005,Non-Hodgkin lymphoma,364,Male
+2006,Non-Hodgkin lymphoma,397,Male
+2007,Non-Hodgkin lymphoma,376,Male
+2008,Non-Hodgkin lymphoma,420,Male
+2009,Non-Hodgkin lymphoma,436,Male
+2010,Non-Hodgkin lymphoma,444,Male
+2011,Non-Hodgkin lymphoma,382,Male
+2012,Non-Hodgkin lymphoma,438,Male
+2013,Non-Hodgkin lymphoma,458,Male
+2014,Non-Hodgkin lymphoma,448,Male
+2015,Non-Hodgkin lymphoma,470,Male
+2016,Non-Hodgkin lymphoma,503,Male
+2017,Non-Hodgkin lymphoma,531,Male
+1948,Myeloma,8,Male
+1949,Myeloma,2,Male
+1950,Myeloma,6,Male
+1951,Myeloma,7,Male
+1952,Myeloma,6,Male
+1953,Myeloma,11,Male
+1954,Myeloma,15,Male
+1955,Myeloma,16,Male
+1956,Myeloma,25,Male
+1957,Myeloma,26,Male
+1958,Myeloma,26,Male
+1959,Myeloma,24,Male
+1960,Myeloma,12,Male
+1961,Myeloma,20,Male
+1962,Myeloma,35,Male
+1963,Myeloma,28,Male
+1964,Myeloma,30,Male
+1965,Myeloma,28,Male
+1966,Myeloma,31,Male
+1967,Myeloma,23,Male
+1968,Myeloma,41,Male
+1969,Myeloma,54,Male
+1970,Myeloma,37,Male
+1971,Myeloma,29,Male
+1972,Myeloma,43,Male
+1973,Myeloma,61,Male
+1974,Myeloma,50,Male
+1975,Myeloma,61,Male
+1976,Myeloma,48,Male
+1977,Myeloma,64,Male
+1978,Myeloma,54,Male
+1979,Myeloma,44,Male
+1980,Myeloma,47,Male
+1981,Myeloma,62,Male
+1982,Myeloma,79,Male
+1983,Myeloma,66,Male
+1984,Myeloma,90,Male
+1985,Myeloma,93,Male
+1986,Myeloma,78,Male
+1987,Myeloma,80,Male
+1988,Myeloma,114,Male
+1989,Myeloma,66,Male
+1990,Myeloma,81,Male
+1991,Myeloma,86,Male
+1992,Myeloma,91,Male
+1993,Myeloma,91,Male
+1994,Myeloma,87,Male
+1995,Myeloma,109,Male
+1996,Myeloma,118,Male
+1997,Myeloma,112,Male
+1998,Myeloma,132,Male
+1999,Myeloma,136,Male
+2000,Myeloma,133,Male
+2001,Myeloma,146,Male
+2002,Myeloma,164,Male
+2003,Myeloma,118,Male
+2004,Myeloma,129,Male
+2005,Myeloma,138,Male
+2006,Myeloma,147,Male
+2007,Myeloma,154,Male
+2008,Myeloma,148,Male
+2009,Myeloma,162,Male
+2010,Myeloma,176,Male
+2011,Myeloma,181,Male
+2012,Myeloma,227,Male
+2013,Myeloma,234,Male
+2014,Myeloma,211,Male
+2015,Myeloma,236,Male
+2016,Myeloma,242,Male
+2017,Myeloma,237,Male
+1948,Leukaemia,65,Male
+1949,Leukaemia,44,Male
+1950,Leukaemia,60,Male
+1951,Leukaemia,51,Male
+1952,Leukaemia,53,Male
+1953,Leukaemia,65,Male
+1954,Leukaemia,67,Male
+1955,Leukaemia,81,Male
+1956,Leukaemia,84,Male
+1957,Leukaemia,74,Male
+1958,Leukaemia,90,Male
+1959,Leukaemia,78,Male
+1960,Leukaemia,93,Male
+1961,Leukaemia,101,Male
+1962,Leukaemia,99,Male
+1963,Leukaemia,111,Male
+1964,Leukaemia,105,Male
+1965,Leukaemia,111,Male
+1966,Leukaemia,98,Male
+1967,Leukaemia,102,Male
+1968,Leukaemia,94,Male
+1969,Leukaemia,113,Male
+1970,Leukaemia,105,Male
+1971,Leukaemia,142,Male
+1972,Leukaemia,121,Male
+1973,Leukaemia,132,Male
+1974,Leukaemia,138,Male
+1975,Leukaemia,139,Male
+1976,Leukaemia,145,Male
+1977,Leukaemia,144,Male
+1978,Leukaemia,144,Male
+1979,Leukaemia,126,Male
+1980,Leukaemia,145,Male
+1981,Leukaemia,162,Male
+1982,Leukaemia,143,Male
+1983,Leukaemia,174,Male
+1984,Leukaemia,149,Male
+1985,Leukaemia,148,Male
+1986,Leukaemia,179,Male
+1987,Leukaemia,196,Male
+1988,Leukaemia,211,Male
+1989,Leukaemia,209,Male
+1990,Leukaemia,202,Male
+1991,Leukaemia,209,Male
+1992,Leukaemia,219,Male
+1993,Leukaemia,230,Male
+1994,Leukaemia,251,Male
+1995,Leukaemia,253,Male
+1996,Leukaemia,299,Male
+1997,Leukaemia,321,Male
+1998,Leukaemia,361,Male
+1999,Leukaemia,316,Male
+2000,Leukaemia,369,Male
+2001,Leukaemia,371,Male
+2002,Leukaemia,405,Male
+2003,Leukaemia,417,Male
+2004,Leukaemia,358,Male
+2005,Leukaemia,341,Male
+2006,Leukaemia,303,Male
+2007,Leukaemia,317,Male
+2008,Leukaemia,349,Male
+2009,Leukaemia,338,Male
+2010,Leukaemia,368,Male
+2011,Leukaemia,343,Male
+2012,Leukaemia,366,Male
+2013,Leukaemia,408,Male
+2014,Leukaemia,410,Male
+2015,Leukaemia,437,Male
+2016,Leukaemia,446,Male
+2017,Leukaemia,455,Male
+1948,Lip Oral Cavity and Pharynx,50,Female
+1949,Lip Oral Cavity and Pharynx,36,Female
+1950,Lip Oral Cavity and Pharynx,43,Female
+1951,Lip Oral Cavity and Pharynx,41,Female
+1952,Lip Oral Cavity and Pharynx,49,Female
+1953,Lip Oral Cavity and Pharynx,54,Female
+1954,Lip Oral Cavity and Pharynx,58,Female
+1955,Lip Oral Cavity and Pharynx,55,Female
+1956,Lip Oral Cavity and Pharynx,58,Female
+1957,Lip Oral Cavity and Pharynx,52,Female
+1958,Lip Oral Cavity and Pharynx,46,Female
+1959,Lip Oral Cavity and Pharynx,29,Female
+1960,Lip Oral Cavity and Pharynx,43,Female
+1961,Lip Oral Cavity and Pharynx,33,Female
+1962,Lip Oral Cavity and Pharynx,32,Female
+1963,Lip Oral Cavity and Pharynx,32,Female
+1964,Lip Oral Cavity and Pharynx,35,Female
+1965,Lip Oral Cavity and Pharynx,32,Female
+1966,Lip Oral Cavity and Pharynx,42,Female
+1967,Lip Oral Cavity and Pharynx,50,Female
+1968,Lip Oral Cavity and Pharynx,51,Female
+1969,Lip Oral Cavity and Pharynx,39,Female
+1970,Lip Oral Cavity and Pharynx,40,Female
+1971,Lip Oral Cavity and Pharynx,59,Female
+1972,Lip Oral Cavity and Pharynx,54,Female
+1973,Lip Oral Cavity and Pharynx,63,Female
+1974,Lip Oral Cavity and Pharynx,70,Female
+1975,Lip Oral Cavity and Pharynx,55,Female
+1976,Lip Oral Cavity and Pharynx,57,Female
+1977,Lip Oral Cavity and Pharynx,59,Female
+1978,Lip Oral Cavity and Pharynx,65,Female
+1979,Lip Oral Cavity and Pharynx,69,Female
+1980,Lip Oral Cavity and Pharynx,83,Female
+1981,Lip Oral Cavity and Pharynx,58,Female
+1982,Lip Oral Cavity and Pharynx,78,Female
+1983,Lip Oral Cavity and Pharynx,86,Female
+1984,Lip Oral Cavity and Pharynx,94,Female
+1985,Lip Oral Cavity and Pharynx,93,Female
+1986,Lip Oral Cavity and Pharynx,102,Female
+1987,Lip Oral Cavity and Pharynx,90,Female
+1988,Lip Oral Cavity and Pharynx,110,Female
+1989,Lip Oral Cavity and Pharynx,97,Female
+1990,Lip Oral Cavity and Pharynx,106,Female
+1991,Lip Oral Cavity and Pharynx,76,Female
+1992,Lip Oral Cavity and Pharynx,98,Female
+1993,Lip Oral Cavity and Pharynx,70,Female
+1994,Lip Oral Cavity and Pharynx,80,Female
+1995,Lip Oral Cavity and Pharynx,79,Female
+1996,Lip Oral Cavity and Pharynx,87,Female
+1997,Lip Oral Cavity and Pharynx,112,Female
+1998,Lip Oral Cavity and Pharynx,97,Female
+1999,Lip Oral Cavity and Pharynx,108,Female
+2000,Lip Oral Cavity and Pharynx,88,Female
+2001,Lip Oral Cavity and Pharynx,98,Female
+2002,Lip Oral Cavity and Pharynx,98,Female
+2003,Lip Oral Cavity and Pharynx,117,Female
+2004,Lip Oral Cavity and Pharynx,103,Female
+2005,Lip Oral Cavity and Pharynx,88,Female
+2006,Lip Oral Cavity and Pharynx,115,Female
+2007,Lip Oral Cavity and Pharynx,135,Female
+2008,Lip Oral Cavity and Pharynx,115,Female
+2009,Lip Oral Cavity and Pharynx,110,Female
+2010,Lip Oral Cavity and Pharynx,127,Female
+2011,Lip Oral Cavity and Pharynx,125,Female
+2012,Lip Oral Cavity and Pharynx,146,Female
+2013,Lip Oral Cavity and Pharynx,166,Female
+2014,Lip Oral Cavity and Pharynx,149,Female
+2015,Lip Oral Cavity and Pharynx,151,Female
+2016,Lip Oral Cavity and Pharynx,175,Female
+2017,Lip Oral Cavity and Pharynx,185,Female
+1948,Oesophagus,9,Female
+1949,Oesophagus,15,Female
+1950,Oesophagus,12,Female
+1951,Oesophagus,25,Female
+1952,Oesophagus,20,Female
+1953,Oesophagus,25,Female
+1954,Oesophagus,24,Female
+1955,Oesophagus,30,Female
+1956,Oesophagus,16,Female
+1957,Oesophagus,21,Female
+1958,Oesophagus,32,Female
+1959,Oesophagus,20,Female
+1960,Oesophagus,26,Female
+1961,Oesophagus,33,Female
+1962,Oesophagus,24,Female
+1963,Oesophagus,35,Female
+1964,Oesophagus,34,Female
+1965,Oesophagus,29,Female
+1966,Oesophagus,31,Female
+1967,Oesophagus,40,Female
+1968,Oesophagus,34,Female
+1969,Oesophagus,30,Female
+1970,Oesophagus,42,Female
+1971,Oesophagus,28,Female
+1972,Oesophagus,50,Female
+1973,Oesophagus,38,Female
+1974,Oesophagus,46,Female
+1975,Oesophagus,53,Female
+1976,Oesophagus,48,Female
+1977,Oesophagus,39,Female
+1978,Oesophagus,51,Female
+1979,Oesophagus,57,Female
+1980,Oesophagus,45,Female
+1981,Oesophagus,57,Female
+1982,Oesophagus,51,Female
+1983,Oesophagus,64,Female
+1984,Oesophagus,56,Female
+1985,Oesophagus,50,Female
+1986,Oesophagus,69,Female
+1987,Oesophagus,65,Female
+1988,Oesophagus,63,Female
+1989,Oesophagus,64,Female
+1990,Oesophagus,64,Female
+1991,Oesophagus,84,Female
+1992,Oesophagus,76,Female
+1993,Oesophagus,72,Female
+1994,Oesophagus,85,Female
+1995,Oesophagus,64,Female
+1996,Oesophagus,68,Female
+1997,Oesophagus,68,Female
+1998,Oesophagus,58,Female
+1999,Oesophagus,74,Female
+2000,Oesophagus,81,Female
+2001,Oesophagus,76,Female
+2002,Oesophagus,82,Female
+2003,Oesophagus,100,Female
+2004,Oesophagus,72,Female
+2005,Oesophagus,72,Female
+2006,Oesophagus,104,Female
+2007,Oesophagus,87,Female
+2008,Oesophagus,90,Female
+2009,Oesophagus,86,Female
+2010,Oesophagus,96,Female
+2011,Oesophagus,81,Female
+2012,Oesophagus,96,Female
+2013,Oesophagus,93,Female
+2014,Oesophagus,81,Female
+2015,Oesophagus,96,Female
+2016,Oesophagus,85,Female
+2017,Oesophagus,100,Female
+1948,Stomach,77,Female
+1949,Stomach,97,Female
+1950,Stomach,113,Female
+1951,Stomach,92,Female
+1952,Stomach,112,Female
+1953,Stomach,114,Female
+1954,Stomach,136,Female
+1955,Stomach,112,Female
+1956,Stomach,104,Female
+1957,Stomach,115,Female
+1958,Stomach,119,Female
+1959,Stomach,115,Female
+1960,Stomach,114,Female
+1961,Stomach,126,Female
+1962,Stomach,128,Female
+1963,Stomach,112,Female
+1964,Stomach,131,Female
+1965,Stomach,130,Female
+1966,Stomach,122,Female
+1967,Stomach,114,Female
+1968,Stomach,122,Female
+1969,Stomach,114,Female
+1970,Stomach,111,Female
+1971,Stomach,129,Female
+1972,Stomach,154,Female
+1973,Stomach,141,Female
+1974,Stomach,124,Female
+1975,Stomach,134,Female
+1976,Stomach,152,Female
+1977,Stomach,162,Female
+1978,Stomach,138,Female
+1979,Stomach,144,Female
+1980,Stomach,149,Female
+1981,Stomach,161,Female
+1982,Stomach,188,Female
+1983,Stomach,159,Female
+1984,Stomach,144,Female
+1985,Stomach,174,Female
+1986,Stomach,121,Female
+1987,Stomach,148,Female
+1988,Stomach,155,Female
+1989,Stomach,135,Female
+1990,Stomach,159,Female
+1991,Stomach,120,Female
+1992,Stomach,148,Female
+1993,Stomach,128,Female
+1994,Stomach,145,Female
+1995,Stomach,135,Female
+1996,Stomach,148,Female
+1997,Stomach,160,Female
+1998,Stomach,169,Female
+1999,Stomach,136,Female
+2000,Stomach,144,Female
+2001,Stomach,154,Female
+2002,Stomach,144,Female
+2003,Stomach,142,Female
+2004,Stomach,158,Female
+2005,Stomach,142,Female
+2006,Stomach,133,Female
+2007,Stomach,143,Female
+2008,Stomach,131,Female
+2009,Stomach,129,Female
+2010,Stomach,136,Female
+2011,Stomach,145,Female
+2012,Stomach,142,Female
+2013,Stomach,141,Female
+2014,Stomach,146,Female
+2015,Stomach,151,Female
+2016,Stomach,144,Female
+2017,Stomach,126,Female
+1948,Colorectum and anus,203,Female
+1949,Colorectum and anus,186,Female
+1950,Colorectum and anus,206,Female
+1951,Colorectum and anus,218,Female
+1952,Colorectum and anus,238,Female
+1953,Colorectum and anus,247,Female
+1954,Colorectum and anus,240,Female
+1955,Colorectum and anus,287,Female
+1956,Colorectum and anus,270,Female
+1957,Colorectum and anus,326,Female
+1958,Colorectum and anus,275,Female
+1959,Colorectum and anus,311,Female
+1960,Colorectum and anus,317,Female
+1961,Colorectum and anus,357,Female
+1962,Colorectum and anus,329,Female
+1963,Colorectum and anus,398,Female
+1964,Colorectum and anus,380,Female
+1965,Colorectum and anus,404,Female
+1966,Colorectum and anus,410,Female
+1967,Colorectum and anus,450,Female
+1968,Colorectum and anus,491,Female
+1969,Colorectum and anus,492,Female
+1970,Colorectum and anus,556,Female
+1971,Colorectum and anus,614,Female
+1972,Colorectum and anus,632,Female
+1973,Colorectum and anus,638,Female
+1974,Colorectum and anus,707,Female
+1975,Colorectum and anus,744,Female
+1976,Colorectum and anus,699,Female
+1977,Colorectum and anus,770,Female
+1978,Colorectum and anus,808,Female
+1979,Colorectum and anus,805,Female
+1980,Colorectum and anus,851,Female
+1981,Colorectum and anus,883,Female
+1982,Colorectum and anus,881,Female
+1983,Colorectum and anus,907,Female
+1984,Colorectum and anus,939,Female
+1985,Colorectum and anus,931,Female
+1986,Colorectum and anus,984,Female
+1987,Colorectum and anus,1041,Female
+1988,Colorectum and anus,1026,Female
+1989,Colorectum and anus,977,Female
+1990,Colorectum and anus,986,Female
+1991,Colorectum and anus,1102,Female
+1992,Colorectum and anus,1026,Female
+1993,Colorectum and anus,997,Female
+1994,Colorectum and anus,1228,Female
+1995,Colorectum and anus,1201,Female
+1996,Colorectum and anus,1196,Female
+1997,Colorectum and anus,1147,Female
+1998,Colorectum and anus,1199,Female
+1999,Colorectum and anus,1252,Female
+2000,Colorectum and anus,1298,Female
+2001,Colorectum and anus,1316,Female
+2002,Colorectum and anus,1272,Female
+2003,Colorectum and anus,1333,Female
+2004,Colorectum and anus,1377,Female
+2005,Colorectum and anus,1393,Female
+2006,Colorectum and anus,1336,Female
+2007,Colorectum and anus,1365,Female
+2008,Colorectum and anus,1372,Female
+2009,Colorectum and anus,1377,Female
+2010,Colorectum and anus,1488,Female
+2011,Colorectum and anus,1407,Female
+2012,Colorectum and anus,1449,Female
+2013,Colorectum and anus,1460,Female
+2014,Colorectum and anus,1567,Female
+2015,Colorectum and anus,1519,Female
+2016,Colorectum and anus,1565,Female
+2017,Colorectum and anus,1455,Female
+1948,Liver and intrahepatic bile ducts,20,Female
+1949,Liver and intrahepatic bile ducts,19,Female
+1950,Liver and intrahepatic bile ducts,26,Female
+1951,Liver and intrahepatic bile ducts,29,Female
+1952,Liver and intrahepatic bile ducts,33,Female
+1953,Liver and intrahepatic bile ducts,31,Female
+1954,Liver and intrahepatic bile ducts,28,Female
+1955,Liver and intrahepatic bile ducts,38,Female
+1956,Liver and intrahepatic bile ducts,30,Female
+1957,Liver and intrahepatic bile ducts,36,Female
+1958,Liver and intrahepatic bile ducts,32,Female
+1959,Liver and intrahepatic bile ducts,38,Female
+1960,Liver and intrahepatic bile ducts,42,Female
+1961,Liver and intrahepatic bile ducts,40,Female
+1962,Liver and intrahepatic bile ducts,49,Female
+1963,Liver and intrahepatic bile ducts,45,Female
+1964,Liver and intrahepatic bile ducts,38,Female
+1965,Liver and intrahepatic bile ducts,39,Female
+1966,Liver and intrahepatic bile ducts,37,Female
+1967,Liver and intrahepatic bile ducts,41,Female
+1968,Liver and intrahepatic bile ducts,14,Female
+1969,Liver and intrahepatic bile ducts,9,Female
+1970,Liver and intrahepatic bile ducts,17,Female
+1971,Liver and intrahepatic bile ducts,18,Female
+1972,Liver and intrahepatic bile ducts,18,Female
+1973,Liver and intrahepatic bile ducts,12,Female
+1974,Liver and intrahepatic bile ducts,14,Female
+1975,Liver and intrahepatic bile ducts,26,Female
+1976,Liver and intrahepatic bile ducts,19,Female
+1977,Liver and intrahepatic bile ducts,16,Female
+1978,Liver and intrahepatic bile ducts,19,Female
+1979,Liver and intrahepatic bile ducts,27,Female
+1980,Liver and intrahepatic bile ducts,22,Female
+1981,Liver and intrahepatic bile ducts,27,Female
+1982,Liver and intrahepatic bile ducts,34,Female
+1983,Liver and intrahepatic bile ducts,25,Female
+1984,Liver and intrahepatic bile ducts,23,Female
+1985,Liver and intrahepatic bile ducts,14,Female
+1986,Liver and intrahepatic bile ducts,19,Female
+1987,Liver and intrahepatic bile ducts,35,Female
+1988,Liver and intrahepatic bile ducts,30,Female
+1989,Liver and intrahepatic bile ducts,35,Female
+1990,Liver and intrahepatic bile ducts,29,Female
+1991,Liver and intrahepatic bile ducts,46,Female
+1992,Liver and intrahepatic bile ducts,33,Female
+1993,Liver and intrahepatic bile ducts,33,Female
+1994,Liver and intrahepatic bile ducts,42,Female
+1995,Liver and intrahepatic bile ducts,35,Female
+1996,Liver and intrahepatic bile ducts,55,Female
+1997,Liver and intrahepatic bile ducts,47,Female
+1998,Liver and intrahepatic bile ducts,33,Female
+1999,Liver and intrahepatic bile ducts,39,Female
+2000,Liver and intrahepatic bile ducts,52,Female
+2001,Liver and intrahepatic bile ducts,57,Female
+2002,Liver and intrahepatic bile ducts,55,Female
+2003,Liver and intrahepatic bile ducts,56,Female
+2004,Liver and intrahepatic bile ducts,44,Female
+2005,Liver and intrahepatic bile ducts,76,Female
+2006,Liver and intrahepatic bile ducts,73,Female
+2007,Liver and intrahepatic bile ducts,76,Female
+2008,Liver and intrahepatic bile ducts,79,Female
+2009,Liver and intrahepatic bile ducts,85,Female
+2010,Liver and intrahepatic bile ducts,73,Female
+2011,Liver and intrahepatic bile ducts,98,Female
+2012,Liver and intrahepatic bile ducts,84,Female
+2013,Liver and intrahepatic bile ducts,85,Female
+2014,Liver and intrahepatic bile ducts,114,Female
+2015,Liver and intrahepatic bile ducts,112,Female
+2016,Liver and intrahepatic bile ducts,102,Female
+2017,Liver and intrahepatic bile ducts,119,Female
+1948,Pancreas,22,Female
+1949,Pancreas,41,Female
+1950,Pancreas,26,Female
+1951,Pancreas,35,Female
+1952,Pancreas,26,Female
+1953,Pancreas,36,Female
+1954,Pancreas,35,Female
+1955,Pancreas,45,Female
+1956,Pancreas,45,Female
+1957,Pancreas,48,Female
+1958,Pancreas,39,Female
+1959,Pancreas,42,Female
+1960,Pancreas,54,Female
+1961,Pancreas,57,Female
+1962,Pancreas,47,Female
+1963,Pancreas,72,Female
+1964,Pancreas,74,Female
+1965,Pancreas,62,Female
+1966,Pancreas,73,Female
+1967,Pancreas,69,Female
+1968,Pancreas,62,Female
+1969,Pancreas,62,Female
+1970,Pancreas,85,Female
+1971,Pancreas,68,Female
+1972,Pancreas,80,Female
+1973,Pancreas,81,Female
+1974,Pancreas,95,Female
+1975,Pancreas,111,Female
+1976,Pancreas,117,Female
+1977,Pancreas,112,Female
+1978,Pancreas,122,Female
+1979,Pancreas,109,Female
+1980,Pancreas,105,Female
+1981,Pancreas,104,Female
+1982,Pancreas,105,Female
+1983,Pancreas,115,Female
+1984,Pancreas,121,Female
+1985,Pancreas,157,Female
+1986,Pancreas,120,Female
+1987,Pancreas,131,Female
+1988,Pancreas,110,Female
+1989,Pancreas,131,Female
+1990,Pancreas,120,Female
+1991,Pancreas,157,Female
+1992,Pancreas,124,Female
+1993,Pancreas,134,Female
+1994,Pancreas,148,Female
+1995,Pancreas,160,Female
+1996,Pancreas,179,Female
+1997,Pancreas,162,Female
+1998,Pancreas,163,Female
+1999,Pancreas,139,Female
+2000,Pancreas,167,Female
+2001,Pancreas,150,Female
+2002,Pancreas,165,Female
+2003,Pancreas,177,Female
+2004,Pancreas,188,Female
+2005,Pancreas,210,Female
+2006,Pancreas,217,Female
+2007,Pancreas,203,Female
+2008,Pancreas,229,Female
+2009,Pancreas,242,Female
+2010,Pancreas,245,Female
+2011,Pancreas,231,Female
+2012,Pancreas,283,Female
+2013,Pancreas,255,Female
+2014,Pancreas,296,Female
+2015,Pancreas,293,Female
+2016,Pancreas,283,Female
+2017,Pancreas,284,Female
+1948,Lung & Trachea,20,Female
+1949,Lung & Trachea,16,Female
+1950,Lung & Trachea,20,Female
+1951,Lung & Trachea,29,Female
+1952,Lung & Trachea,28,Female
+1953,Lung & Trachea,31,Female
+1954,Lung & Trachea,25,Female
+1955,Lung & Trachea,46,Female
+1956,Lung & Trachea,49,Female
+1957,Lung & Trachea,43,Female
+1958,Lung & Trachea,49,Female
+1959,Lung & Trachea,47,Female
+1960,Lung & Trachea,57,Female
+1961,Lung & Trachea,72,Female
+1962,Lung & Trachea,70,Female
+1963,Lung & Trachea,77,Female
+1964,Lung & Trachea,87,Female
+1965,Lung & Trachea,77,Female
+1966,Lung & Trachea,113,Female
+1967,Lung & Trachea,95,Female
+1968,Lung & Trachea,121,Female
+1969,Lung & Trachea,128,Female
+1970,Lung & Trachea,145,Female
+1971,Lung & Trachea,158,Female
+1972,Lung & Trachea,190,Female
+1973,Lung & Trachea,198,Female
+1974,Lung & Trachea,226,Female
+1975,Lung & Trachea,237,Female
+1976,Lung & Trachea,245,Female
+1977,Lung & Trachea,272,Female
+1978,Lung & Trachea,293,Female
+1979,Lung & Trachea,296,Female
+1980,Lung & Trachea,315,Female
+1981,Lung & Trachea,323,Female
+1982,Lung & Trachea,340,Female
+1983,Lung & Trachea,331,Female
+1984,Lung & Trachea,392,Female
+1985,Lung & Trachea,366,Female
+1986,Lung & Trachea,387,Female
+1987,Lung & Trachea,437,Female
+1988,Lung & Trachea,478,Female
+1989,Lung & Trachea,486,Female
+1990,Lung & Trachea,475,Female
+1991,Lung & Trachea,482,Female
+1992,Lung & Trachea,516,Female
+1993,Lung & Trachea,526,Female
+1994,Lung & Trachea,586,Female
+1995,Lung & Trachea,535,Female
+1996,Lung & Trachea,604,Female
+1997,Lung & Trachea,596,Female
+1998,Lung & Trachea,543,Female
+1999,Lung & Trachea,607,Female
+2000,Lung & Trachea,679,Female
+2001,Lung & Trachea,646,Female
+2002,Lung & Trachea,693,Female
+2003,Lung & Trachea,782,Female
+2004,Lung & Trachea,760,Female
+2005,Lung & Trachea,721,Female
+2006,Lung & Trachea,782,Female
+2007,Lung & Trachea,800,Female
+2008,Lung & Trachea,892,Female
+2009,Lung & Trachea,917,Female
+2010,Lung & Trachea,909,Female
+2011,Lung & Trachea,985,Female
+2012,Lung & Trachea,988,Female
+2013,Lung & Trachea,1030,Female
+2014,Lung & Trachea,1084,Female
+2015,Lung & Trachea,1128,Female
+2016,Lung & Trachea,1124,Female
+2017,Lung & Trachea,1149,Female
+1948,Melanoma,31,Female
+1949,Melanoma,26,Female
+1950,Melanoma,15,Female
+1951,Melanoma,33,Female
+1952,Melanoma,42,Female
+1953,Melanoma,45,Female
+1954,Melanoma,44,Female
+1955,Melanoma,50,Female
+1956,Melanoma,71,Female
+1957,Melanoma,45,Female
+1958,Melanoma,58,Female
+1959,Melanoma,53,Female
+1960,Melanoma,79,Female
+1961,Melanoma,75,Female
+1962,Melanoma,78,Female
+1963,Melanoma,88,Female
+1964,Melanoma,80,Female
+1965,Melanoma,106,Female
+1966,Melanoma,115,Female
+1967,Melanoma,104,Female
+1968,Melanoma,123,Female
+1969,Melanoma,161,Female
+1970,Melanoma,142,Female
+1971,Melanoma,192,Female
+1972,Melanoma,215,Female
+1973,Melanoma,273,Female
+1974,Melanoma,263,Female
+1975,Melanoma,288,Female
+1976,Melanoma,315,Female
+1977,Melanoma,301,Female
+1978,Melanoma,327,Female
+1979,Melanoma,280,Female
+1980,Melanoma,354,Female
+1981,Melanoma,389,Female
+1982,Melanoma,419,Female
+1983,Melanoma,394,Female
+1984,Melanoma,429,Female
+1985,Melanoma,380,Female
+1986,Melanoma,426,Female
+1987,Melanoma,462,Female
+1988,Melanoma,600,Female
+1989,Melanoma,533,Female
+1990,Melanoma,463,Female
+1991,Melanoma,562,Female
+1992,Melanoma,541,Female
+1993,Melanoma,513,Female
+1994,Melanoma,731,Female
+1995,Melanoma,880,Female
+1996,Melanoma,773,Female
+1997,Melanoma,744,Female
+1998,Melanoma,753,Female
+1999,Melanoma,744,Female
+2000,Melanoma,857,Female
+2001,Melanoma,887,Female
+2002,Melanoma,901,Female
+2003,Melanoma,893,Female
+2004,Melanoma,945,Female
+2005,Melanoma,928,Female
+2006,Melanoma,944,Female
+2007,Melanoma,1055,Female
+2008,Melanoma,1073,Female
+2009,Melanoma,1015,Female
+2010,Melanoma,1105,Female
+2011,Melanoma,1006,Female
+2012,Melanoma,1103,Female
+2013,Melanoma,1144,Female
+2014,Melanoma,1043,Female
+2015,Melanoma,1066,Female
+2016,Melanoma,1139,Female
+2017,Melanoma,1140,Female
+1948,Kidney and other urinary,17,Female
+1949,Kidney and other urinary,18,Female
+1950,Kidney and other urinary,15,Female
+1951,Kidney and other urinary,24,Female
+1952,Kidney and other urinary,24,Female
+1953,Kidney and other urinary,26,Female
+1954,Kidney and other urinary,24,Female
+1955,Kidney and other urinary,25,Female
+1956,Kidney and other urinary,30,Female
+1957,Kidney and other urinary,28,Female
+1958,Kidney and other urinary,24,Female
+1959,Kidney and other urinary,32,Female
+1960,Kidney and other urinary,40,Female
+1961,Kidney and other urinary,20,Female
+1962,Kidney and other urinary,30,Female
+1963,Kidney and other urinary,26,Female
+1964,Kidney and other urinary,39,Female
+1965,Kidney and other urinary,36,Female
+1966,Kidney and other urinary,51,Female
+1967,Kidney and other urinary,38,Female
+1968,Kidney and other urinary,39,Female
+1969,Kidney and other urinary,54,Female
+1970,Kidney and other urinary,53,Female
+1971,Kidney and other urinary,56,Female
+1972,Kidney and other urinary,51,Female
+1973,Kidney and other urinary,43,Female
+1974,Kidney and other urinary,46,Female
+1975,Kidney and other urinary,56,Female
+1976,Kidney and other urinary,65,Female
+1977,Kidney and other urinary,64,Female
+1978,Kidney and other urinary,55,Female
+1979,Kidney and other urinary,62,Female
+1980,Kidney and other urinary,49,Female
+1981,Kidney and other urinary,65,Female
+1982,Kidney and other urinary,78,Female
+1983,Kidney and other urinary,79,Female
+1984,Kidney and other urinary,73,Female
+1985,Kidney and other urinary,81,Female
+1986,Kidney and other urinary,78,Female
+1987,Kidney and other urinary,79,Female
+1988,Kidney and other urinary,86,Female
+1989,Kidney and other urinary,86,Female
+1990,Kidney and other urinary,102,Female
+1991,Kidney and other urinary,112,Female
+1992,Kidney and other urinary,111,Female
+1993,Kidney and other urinary,100,Female
+1994,Kidney and other urinary,113,Female
+1995,Kidney and other urinary,121,Female
+1996,Kidney and other urinary,129,Female
+1997,Kidney and other urinary,161,Female
+1998,Kidney and other urinary,124,Female
+1999,Kidney and other urinary,152,Female
+2000,Kidney and other urinary,126,Female
+2001,Kidney and other urinary,145,Female
+2002,Kidney and other urinary,151,Female
+2003,Kidney and other urinary,154,Female
+2004,Kidney and other urinary,180,Female
+2005,Kidney and other urinary,171,Female
+2006,Kidney and other urinary,134,Female
+2007,Kidney and other urinary,177,Female
+2008,Kidney and other urinary,197,Female
+2009,Kidney and other urinary,192,Female
+2010,Kidney and other urinary,208,Female
+2011,Kidney and other urinary,199,Female
+2012,Kidney and other urinary,192,Female
+2013,Kidney and other urinary,201,Female
+2014,Kidney and other urinary,239,Female
+2015,Kidney and other urinary,210,Female
+2016,Kidney and other urinary,253,Female
+2017,Kidney and other urinary,232,Female
+1948,Bladder,16,Female
+1949,Bladder,21,Female
+1950,Bladder,16,Female
+1951,Bladder,20,Female
+1952,Bladder,18,Female
+1953,Bladder,22,Female
+1954,Bladder,21,Female
+1955,Bladder,28,Female
+1956,Bladder,24,Female
+1957,Bladder,25,Female
+1958,Bladder,21,Female
+1959,Bladder,28,Female
+1960,Bladder,28,Female
+1961,Bladder,35,Female
+1962,Bladder,31,Female
+1963,Bladder,26,Female
+1964,Bladder,34,Female
+1965,Bladder,28,Female
+1966,Bladder,34,Female
+1967,Bladder,50,Female
+1968,Bladder,45,Female
+1969,Bladder,39,Female
+1970,Bladder,51,Female
+1971,Bladder,48,Female
+1972,Bladder,64,Female
+1973,Bladder,52,Female
+1974,Bladder,60,Female
+1975,Bladder,81,Female
+1976,Bladder,76,Female
+1977,Bladder,74,Female
+1978,Bladder,61,Female
+1979,Bladder,78,Female
+1980,Bladder,72,Female
+1981,Bladder,85,Female
+1982,Bladder,80,Female
+1983,Bladder,80,Female
+1984,Bladder,75,Female
+1985,Bladder,86,Female
+1986,Bladder,94,Female
+1987,Bladder,262,Female
+1988,Bladder,100,Female
+1989,Bladder,61,Female
+1990,Bladder,92,Female
+1991,Bladder,117,Female
+1992,Bladder,113,Female
+1993,Bladder,109,Female
+1994,Bladder,150,Female
+1995,Bladder,140,Female
+1996,Bladder,140,Female
+1997,Bladder,138,Female
+1998,Bladder,151,Female
+1999,Bladder,148,Female
+2000,Bladder,166,Female
+2001,Bladder,146,Female
+2002,Bladder,147,Female
+2003,Bladder,136,Female
+2004,Bladder,141,Female
+2005,Bladder,75,Female
+2006,Bladder,78,Female
+2007,Bladder,97,Female
+2008,Bladder,115,Female
+2009,Bladder,111,Female
+2010,Bladder,103,Female
+2011,Bladder,92,Female
+2012,Bladder,91,Female
+2013,Bladder,99,Female
+2014,Bladder,116,Female
+2015,Bladder,115,Female
+2016,Bladder,106,Female
+2017,Bladder,115,Female
+1948,Brain,14,Female
+1949,Brain,19,Female
+1950,Brain,28,Female
+1951,Brain,22,Female
+1952,Brain,30,Female
+1953,Brain,36,Female
+1954,Brain,33,Female
+1955,Brain,29,Female
+1956,Brain,41,Female
+1957,Brain,45,Female
+1958,Brain,47,Female
+1959,Brain,39,Female
+1960,Brain,36,Female
+1961,Brain,36,Female
+1962,Brain,43,Female
+1963,Brain,62,Female
+1964,Brain,53,Female
+1965,Brain,51,Female
+1966,Brain,42,Female
+1967,Brain,52,Female
+1968,Brain,51,Female
+1969,Brain,47,Female
+1970,Brain,57,Female
+1971,Brain,43,Female
+1972,Brain,59,Female
+1973,Brain,66,Female
+1974,Brain,46,Female
+1975,Brain,81,Female
+1976,Brain,79,Female
+1977,Brain,64,Female
+1978,Brain,59,Female
+1979,Brain,64,Female
+1980,Brain,86,Female
+1981,Brain,91,Female
+1982,Brain,63,Female
+1983,Brain,88,Female
+1984,Brain,94,Female
+1985,Brain,87,Female
+1986,Brain,87,Female
+1987,Brain,103,Female
+1988,Brain,92,Female
+1989,Brain,81,Female
+1990,Brain,79,Female
+1991,Brain,100,Female
+1992,Brain,96,Female
+1993,Brain,100,Female
+1994,Brain,97,Female
+1995,Brain,104,Female
+1996,Brain,121,Female
+1997,Brain,92,Female
+1998,Brain,103,Female
+1999,Brain,98,Female
+2000,Brain,95,Female
+2001,Brain,111,Female
+2002,Brain,100,Female
+2003,Brain,116,Female
+2004,Brain,115,Female
+2005,Brain,97,Female
+2006,Brain,100,Female
+2007,Brain,130,Female
+2008,Brain,108,Female
+2009,Brain,116,Female
+2010,Brain,133,Female
+2011,Brain,114,Female
+2012,Brain,128,Female
+2013,Brain,140,Female
+2014,Brain,115,Female
+2015,Brain,144,Female
+2016,Brain,133,Female
+2017,Brain,148,Female
+1948,Thyroid,9,Female
+1949,Thyroid,12,Female
+1950,Thyroid,11,Female
+1951,Thyroid,11,Female
+1952,Thyroid,15,Female
+1953,Thyroid,12,Female
+1954,Thyroid,20,Female
+1955,Thyroid,20,Female
+1956,Thyroid,15,Female
+1957,Thyroid,22,Female
+1958,Thyroid,18,Female
+1959,Thyroid,26,Female
+1960,Thyroid,14,Female
+1961,Thyroid,15,Female
+1962,Thyroid,31,Female
+1963,Thyroid,30,Female
+1964,Thyroid,34,Female
+1965,Thyroid,27,Female
+1966,Thyroid,31,Female
+1967,Thyroid,26,Female
+1968,Thyroid,34,Female
+1969,Thyroid,24,Female
+1970,Thyroid,33,Female
+1971,Thyroid,34,Female
+1972,Thyroid,46,Female
+1973,Thyroid,46,Female
+1974,Thyroid,56,Female
+1975,Thyroid,64,Female
+1976,Thyroid,50,Female
+1977,Thyroid,44,Female
+1978,Thyroid,51,Female
+1979,Thyroid,40,Female
+1980,Thyroid,51,Female
+1981,Thyroid,63,Female
+1982,Thyroid,57,Female
+1983,Thyroid,56,Female
+1984,Thyroid,48,Female
+1985,Thyroid,58,Female
+1986,Thyroid,60,Female
+1987,Thyroid,26,Female
+1988,Thyroid,66,Female
+1989,Thyroid,77,Female
+1990,Thyroid,74,Female
+1991,Thyroid,71,Female
+1992,Thyroid,70,Female
+1993,Thyroid,60,Female
+1994,Thyroid,66,Female
+1995,Thyroid,78,Female
+1996,Thyroid,82,Female
+1997,Thyroid,116,Female
+1998,Thyroid,117,Female
+1999,Thyroid,138,Female
+2000,Thyroid,117,Female
+2001,Thyroid,111,Female
+2002,Thyroid,116,Female
+2003,Thyroid,130,Female
+2004,Thyroid,134,Female
+2005,Thyroid,115,Female
+2006,Thyroid,167,Female
+2007,Thyroid,189,Female
+2008,Thyroid,184,Female
+2009,Thyroid,152,Female
+2010,Thyroid,188,Female
+2011,Thyroid,190,Female
+2012,Thyroid,210,Female
+2013,Thyroid,214,Female
+2014,Thyroid,207,Female
+2015,Thyroid,214,Female
+2016,Thyroid,260,Female
+2017,Thyroid,223,Female
+1948,Hodgkin lymphoma,7,Female
+1949,Hodgkin lymphoma,15,Female
+1950,Hodgkin lymphoma,14,Female
+1951,Hodgkin lymphoma,11,Female
+1952,Hodgkin lymphoma,14,Female
+1953,Hodgkin lymphoma,13,Female
+1954,Hodgkin lymphoma,7,Female
+1955,Hodgkin lymphoma,14,Female
+1956,Hodgkin lymphoma,10,Female
+1957,Hodgkin lymphoma,15,Female
+1958,Hodgkin lymphoma,16,Female
+1959,Hodgkin lymphoma,17,Female
+1960,Hodgkin lymphoma,17,Female
+1961,Hodgkin lymphoma,24,Female
+1962,Hodgkin lymphoma,13,Female
+1963,Hodgkin lymphoma,25,Female
+1964,Hodgkin lymphoma,23,Female
+1965,Hodgkin lymphoma,30,Female
+1966,Hodgkin lymphoma,18,Female
+1967,Hodgkin lymphoma,21,Female
+1968,Hodgkin lymphoma,32,Female
+1969,Hodgkin lymphoma,24,Female
+1970,Hodgkin lymphoma,17,Female
+1971,Hodgkin lymphoma,20,Female
+1972,Hodgkin lymphoma,41,Female
+1973,Hodgkin lymphoma,34,Female
+1974,Hodgkin lymphoma,35,Female
+1975,Hodgkin lymphoma,24,Female
+1976,Hodgkin lymphoma,31,Female
+1977,Hodgkin lymphoma,28,Female
+1978,Hodgkin lymphoma,34,Female
+1979,Hodgkin lymphoma,40,Female
+1980,Hodgkin lymphoma,31,Female
+1981,Hodgkin lymphoma,22,Female
+1982,Hodgkin lymphoma,40,Female
+1983,Hodgkin lymphoma,38,Female
+1984,Hodgkin lymphoma,29,Female
+1985,Hodgkin lymphoma,36,Female
+1986,Hodgkin lymphoma,24,Female
+1987,Hodgkin lymphoma,40,Female
+1988,Hodgkin lymphoma,22,Female
+1989,Hodgkin lymphoma,24,Female
+1990,Hodgkin lymphoma,16,Female
+1991,Hodgkin lymphoma,35,Female
+1992,Hodgkin lymphoma,21,Female
+1993,Hodgkin lymphoma,23,Female
+1994,Hodgkin lymphoma,21,Female
+1995,Hodgkin lymphoma,19,Female
+1996,Hodgkin lymphoma,32,Female
+1997,Hodgkin lymphoma,27,Female
+1998,Hodgkin lymphoma,27,Female
+1999,Hodgkin lymphoma,29,Female
+2000,Hodgkin lymphoma,34,Female
+2001,Hodgkin lymphoma,49,Female
+2002,Hodgkin lymphoma,42,Female
+2003,Hodgkin lymphoma,27,Female
+2004,Hodgkin lymphoma,31,Female
+2005,Hodgkin lymphoma,37,Female
+2006,Hodgkin lymphoma,34,Female
+2007,Hodgkin lymphoma,40,Female
+2008,Hodgkin lymphoma,44,Female
+2009,Hodgkin lymphoma,46,Female
+2010,Hodgkin lymphoma,46,Female
+2011,Hodgkin lymphoma,41,Female
+2012,Hodgkin lymphoma,42,Female
+2013,Hodgkin lymphoma,51,Female
+2014,Hodgkin lymphoma,50,Female
+2015,Hodgkin lymphoma,45,Female
+2016,Hodgkin lymphoma,39,Female
+2017,Hodgkin lymphoma,53,Female
+1948,Non-Hodgkin lymphoma,30,Female
+1949,Non-Hodgkin lymphoma,24,Female
+1950,Non-Hodgkin lymphoma,29,Female
+1951,Non-Hodgkin lymphoma,36,Female
+1952,Non-Hodgkin lymphoma,36,Female
+1953,Non-Hodgkin lymphoma,18,Female
+1954,Non-Hodgkin lymphoma,39,Female
+1955,Non-Hodgkin lymphoma,39,Female
+1956,Non-Hodgkin lymphoma,33,Female
+1957,Non-Hodgkin lymphoma,47,Female
+1958,Non-Hodgkin lymphoma,30,Female
+1959,Non-Hodgkin lymphoma,51,Female
+1960,Non-Hodgkin lymphoma,39,Female
+1961,Non-Hodgkin lymphoma,69,Female
+1962,Non-Hodgkin lymphoma,46,Female
+1963,Non-Hodgkin lymphoma,52,Female
+1964,Non-Hodgkin lymphoma,49,Female
+1965,Non-Hodgkin lymphoma,57,Female
+1966,Non-Hodgkin lymphoma,60,Female
+1967,Non-Hodgkin lymphoma,76,Female
+1968,Non-Hodgkin lymphoma,81,Female
+1969,Non-Hodgkin lymphoma,79,Female
+1970,Non-Hodgkin lymphoma,78,Female
+1971,Non-Hodgkin lymphoma,65,Female
+1972,Non-Hodgkin lymphoma,77,Female
+1973,Non-Hodgkin lymphoma,87,Female
+1974,Non-Hodgkin lymphoma,82,Female
+1975,Non-Hodgkin lymphoma,102,Female
+1976,Non-Hodgkin lymphoma,95,Female
+1977,Non-Hodgkin lymphoma,97,Female
+1978,Non-Hodgkin lymphoma,102,Female
+1979,Non-Hodgkin lymphoma,87,Female
+1980,Non-Hodgkin lymphoma,113,Female
+1981,Non-Hodgkin lymphoma,115,Female
+1982,Non-Hodgkin lymphoma,102,Female
+1983,Non-Hodgkin lymphoma,125,Female
+1984,Non-Hodgkin lymphoma,117,Female
+1985,Non-Hodgkin lymphoma,137,Female
+1986,Non-Hodgkin lymphoma,123,Female
+1987,Non-Hodgkin lymphoma,146,Female
+1988,Non-Hodgkin lymphoma,166,Female
+1989,Non-Hodgkin lymphoma,165,Female
+1990,Non-Hodgkin lymphoma,184,Female
+1991,Non-Hodgkin lymphoma,178,Female
+1992,Non-Hodgkin lymphoma,186,Female
+1993,Non-Hodgkin lymphoma,196,Female
+1994,Non-Hodgkin lymphoma,202,Female
+1995,Non-Hodgkin lymphoma,231,Female
+1996,Non-Hodgkin lymphoma,272,Female
+1997,Non-Hodgkin lymphoma,283,Female
+1998,Non-Hodgkin lymphoma,305,Female
+1999,Non-Hodgkin lymphoma,245,Female
+2000,Non-Hodgkin lymphoma,259,Female
+2001,Non-Hodgkin lymphoma,296,Female
+2002,Non-Hodgkin lymphoma,339,Female
+2003,Non-Hodgkin lymphoma,273,Female
+2004,Non-Hodgkin lymphoma,292,Female
+2005,Non-Hodgkin lymphoma,304,Female
+2006,Non-Hodgkin lymphoma,301,Female
+2007,Non-Hodgkin lymphoma,330,Female
+2008,Non-Hodgkin lymphoma,353,Female
+2009,Non-Hodgkin lymphoma,328,Female
+2010,Non-Hodgkin lymphoma,345,Female
+2011,Non-Hodgkin lymphoma,347,Female
+2012,Non-Hodgkin lymphoma,317,Female
+2013,Non-Hodgkin lymphoma,329,Female
+2014,Non-Hodgkin lymphoma,330,Female
+2015,Non-Hodgkin lymphoma,378,Female
+2016,Non-Hodgkin lymphoma,428,Female
+2017,Non-Hodgkin lymphoma,383,Female
+1948,Myeloma,4,Female
+1949,Myeloma,6,Female
+1950,Myeloma,3,Female
+1951,Myeloma,6,Female
+1952,Myeloma,10,Female
+1953,Myeloma,10,Female
+1954,Myeloma,10,Female
+1955,Myeloma,15,Female
+1956,Myeloma,14,Female
+1957,Myeloma,9,Female
+1958,Myeloma,20,Female
+1959,Myeloma,17,Female
+1960,Myeloma,22,Female
+1961,Myeloma,25,Female
+1962,Myeloma,23,Female
+1963,Myeloma,23,Female
+1964,Myeloma,17,Female
+1965,Myeloma,31,Female
+1966,Myeloma,26,Female
+1967,Myeloma,30,Female
+1968,Myeloma,28,Female
+1969,Myeloma,47,Female
+1970,Myeloma,31,Female
+1971,Myeloma,42,Female
+1972,Myeloma,47,Female
+1973,Myeloma,49,Female
+1974,Myeloma,44,Female
+1975,Myeloma,41,Female
+1976,Myeloma,36,Female
+1977,Myeloma,43,Female
+1978,Myeloma,61,Female
+1979,Myeloma,50,Female
+1980,Myeloma,37,Female
+1981,Myeloma,42,Female
+1982,Myeloma,52,Female
+1983,Myeloma,63,Female
+1984,Myeloma,64,Female
+1985,Myeloma,61,Female
+1986,Myeloma,68,Female
+1987,Myeloma,76,Female
+1988,Myeloma,90,Female
+1989,Myeloma,67,Female
+1990,Myeloma,62,Female
+1991,Myeloma,74,Female
+1992,Myeloma,70,Female
+1993,Myeloma,94,Female
+1994,Myeloma,88,Female
+1995,Myeloma,89,Female
+1996,Myeloma,100,Female
+1997,Myeloma,106,Female
+1998,Myeloma,104,Female
+1999,Myeloma,90,Female
+2000,Myeloma,100,Female
+2001,Myeloma,109,Female
+2002,Myeloma,111,Female
+2003,Myeloma,106,Female
+2004,Myeloma,101,Female
+2005,Myeloma,101,Female
+2006,Myeloma,116,Female
+2007,Myeloma,112,Female
+2008,Myeloma,117,Female
+2009,Myeloma,131,Female
+2010,Myeloma,140,Female
+2011,Myeloma,116,Female
+2012,Myeloma,138,Female
+2013,Myeloma,133,Female
+2014,Myeloma,174,Female
+2015,Myeloma,157,Female
+2016,Myeloma,168,Female
+2017,Myeloma,173,Female
+1948,Leukaemia,32,Female
+1949,Leukaemia,39,Female
+1950,Leukaemia,37,Female
+1951,Leukaemia,39,Female
+1952,Leukaemia,28,Female
+1953,Leukaemia,58,Female
+1954,Leukaemia,63,Female
+1955,Leukaemia,67,Female
+1956,Leukaemia,62,Female
+1957,Leukaemia,73,Female
+1958,Leukaemia,75,Female
+1959,Leukaemia,75,Female
+1960,Leukaemia,75,Female
+1961,Leukaemia,64,Female
+1962,Leukaemia,73,Female
+1963,Leukaemia,66,Female
+1964,Leukaemia,78,Female
+1965,Leukaemia,92,Female
+1966,Leukaemia,85,Female
+1967,Leukaemia,88,Female
+1968,Leukaemia,81,Female
+1969,Leukaemia,81,Female
+1970,Leukaemia,76,Female
+1971,Leukaemia,77,Female
+1972,Leukaemia,117,Female
+1973,Leukaemia,91,Female
+1974,Leukaemia,95,Female
+1975,Leukaemia,94,Female
+1976,Leukaemia,117,Female
+1977,Leukaemia,94,Female
+1978,Leukaemia,101,Female
+1979,Leukaemia,99,Female
+1980,Leukaemia,93,Female
+1981,Leukaemia,115,Female
+1982,Leukaemia,113,Female
+1983,Leukaemia,124,Female
+1984,Leukaemia,120,Female
+1985,Leukaemia,146,Female
+1986,Leukaemia,119,Female
+1987,Leukaemia,151,Female
+1988,Leukaemia,149,Female
+1989,Leukaemia,161,Female
+1990,Leukaemia,166,Female
+1991,Leukaemia,157,Female
+1992,Leukaemia,168,Female
+1993,Leukaemia,184,Female
+1994,Leukaemia,208,Female
+1995,Leukaemia,177,Female
+1996,Leukaemia,244,Female
+1997,Leukaemia,252,Female
+1998,Leukaemia,243,Female
+1999,Leukaemia,208,Female
+2000,Leukaemia,238,Female
+2001,Leukaemia,272,Female
+2002,Leukaemia,309,Female
+2003,Leukaemia,321,Female
+2004,Leukaemia,295,Female
+2005,Leukaemia,251,Female
+2006,Leukaemia,241,Female
+2007,Leukaemia,252,Female
+2008,Leukaemia,257,Female
+2009,Leukaemia,257,Female
+2010,Leukaemia,244,Female
+2011,Leukaemia,250,Female
+2012,Leukaemia,250,Female
+2013,Leukaemia,262,Female
+2014,Leukaemia,252,Female
+2015,Leukaemia,281,Female
+2016,Leukaemia,248,Female
+2017,Leukaemia,280,Female

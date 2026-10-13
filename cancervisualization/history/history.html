@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Know Cancer - Mohio Ki te Mate Pukupuku o Aotearoa</title>
+    <!--using css--->
+    <link rel="stylesheet" href="style/stylesHistory.css" />
+    <!--using Google font--->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+      rel="stylesheet"
+    />
+    <!--D3--->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+  <body>
+    <div id="header"></div>
+
+    <section class="graphArea">
+      <div class="graph-left">
+        <div class="leftGraph">
+          <svg
+            id="barChasing"
+            style="width: 700px; height: 500px; border-radius: 6px"
+          ></svg>
+          <script src="js/barRace.js"></script>
+        </div>
+      </div>
+
+      <div class="graph-right">
+        <div class="rightGraph-rate">
+          <div>
+            <svg id="lineChart" width="613" height="428"></svg>
+            <script src="js/lineAppear.js"></script>
+            <script src="js/lineDataGender.js"></script>
+          </div>
+
+          <img
+            id="backButton"
+            src="img/button.png"
+            alt="Click Me"
+            style="
+              cursor: pointer;
+              width: 40px;
+              position: absolute;
+              top: 0px;
+              left: 498px;
+              display: none;
+            "
+          />
+
+          <div style="width: fit-content; height: min-content; color: #222222">
+            <p
+              style="
+                font-size: 20px;
+                font-weight: bold;
+                position: absolute;
+                top: -19px;
+                left: 30px;
+              "
+            >
+              Rate Overview
+            </p>
+            <p
+              style="
+                font-size: 12px;
+                font-weight: bold;
+                position: absolute;
+                top: -5px;
+                left: 175px;
+              "
+            >
+              (per 100K)
+            </p>
+            <p
+              id="rateCancerName"
+              style="
+                font-size: 15px;
+                font-weight: bold;
+                align-items: center;
+                position: absolute;
+                top: 10px;
+                left: 30px;
+                visibility: hidden;
+              "
+            >
+              Cancer Name
+            </p>
+          </div>
+        </div>
+        <div class="gender-stats">
+          <div class="male">
+            <div
+              style="
+                width: min-content;
+                position: relative;
+                left: 2%;
+                bottom: -23%;
+              "
+            >
+              <img src="img/male.png" style="width: 75px" />
+            </div>
+            <div
+              class="gender-words"
+              style="position: absolute; top: 7%; right: 54%"
+            >
+              <p id="male1948">2,038 in 1948</p>
+              <p id="male2017">13,073 in 2017</p>
+            </div>
+          </div>
+          <div class="female">
+            <div
+              style="
+                width: min-content;
+                position: relative;
+                right: -78%;
+                top: 4%;
+              "
+            >
+              <img src="img/female.png" style="width: 55px" />
+            </div>
+            <div
+              class="gender-words"
+              style="position: absolute; top: 7%; left: 8%"
+            >
+              <p id="female1948">1,436 in 1948</p>
+              <p id="female2017">11,509 in 2017</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="wikiCancerAll" class="wikiCancer">
+      <div id="humanImage" class="wikiImage">
+        <img
+          id="humanBody"
+          src="img/organs/humanBody.png"
+          style="width: 200px"
+        />
+        <img
+          id="Lung & Trachea"
+          src="img/organs/Lung & Trachea.png"
+          class="wikiOrgan"
+          style="width: 79px; top: 70px; left: 60px"
+        />
+        <img
+          id="Bladder"
+          src="img/organs/Bladder.png"
+          class="wikiOrgan"
+          style="width: 50px; top: 255px; left: 75px"
+        />
+        <img
+          id="Brain"
+          src="img/organs/Brain.png"
+          class="wikiOrgan"
+          style="width: 43px; top: 4px; left: 79px"
+        />
+        <img
+          id="Colorectum and anus"
+          src="img/organs/Colorectum and anus.png"
+          class="wikiOrgan"
+          style="width: 69px; top: 223px; left: 63px"
+        />
+        <img
+          id="Kidney and other urinary"
+          src="img/organs/Kidney and other urinary.png"
+          class="wikiOrgan"
+          style="width: 57px; top: 181px; left: 71px"
+        />
+        <img
+          id="Lip Oral Cavity and Pharynx"
+          src="img/organs/Lip Oral Cavity and Pharynx.png"
+          class="wikiOrgan"
+          style="width: 43px; top: 55px; left: 78px"
+        />
+        <img
+          id="Liver and intrahepatic bile ducts"
+          src="img/organs/Liver and intrahepatic bile ducts.png"
+          class="wikiOrgan"
+          style="width: 57px; top: 155px; left: 62px"
+        />
+        <img
+          id="Oesophagus"
+          src="img/organs/Oesophagus.png"
+          class="wikiOrgan"
+          style="width: 8px; top: 146px; left: 104px"
+        />
+        <img
+          id="Pancreas"
+          src="img/organs/Pancreas.png"
+          class="wikiOrgan"
+          style="width: 50px; top: 162px; left: 80px"
+        />
+        <img
+          id="Stomach"
+          src="img/organs/Stomach.png"
+          class="wikiOrgan"
+          style="width: 51px; top: 158px; left: 82px"
+        />
+        <img
+          id="Thyroid"
+          src="img/organs/Thyroid.png"
+          class="wikiOrgan"
+          style="width: 20px; top: 64px; left: 90px"
+        />
+        <img
+          id="Melanoma"
+          src="img/organs/Melanoma.png"
+          class="wikiOrgan"
+          style="width: 200px; top: 0px; left: 0px"
+        />
+        <img
+          id="Hodgkin lymphoma"
+          src="img/organs/Hodgkin lymphoma.png"
+          class="wikiOrgan"
+          style="width: 200px; top: 0px; left: 0px"
+        />
+        <img
+          id="Non-Hodgkin lymphoma"
+          src="img/organs/Non-Hodgkin lymphoma.png"
+          class="wikiOrgan"
+          style="width: 200px; top: 0px; left: 0px"
+        />
+        <img
+          id="Myeloma"
+          src="img/organs/Myeloma.png"
+          class="wikiOrgan"
+          style="width: 200px; top: 0px; left: 0px"
+        />
+        <img
+          id="Leukaemia"
+          src="img/organs/Leukaemia.png"
+          class="wikiOrgan"
+          style="width: 200px; top: 0px; left: 0px"
+        />
+      </div>
+
+      <script src="js/globalControl.js"></script>
+
+      <div class="wikiCancerContent">
+        <p id="wikiCancerName" style="font-size: 20px; font-weight: bold">
+          Cancer
+        </p>
+        <p id="wikiCancerBrife" style="position: relative; top: -10px">
+          Arises from genetic changes leading to uncontrolled cell growth and
+          tumor formation, often triggered by a combination of environmental
+          factors, lifestyle choices, and inherited genetic mutations.
+        </p>
+        <p
+          id="wikiCancerCauses"
+          style="
+            font-size: 16px;
+            font-weight: 800;
+            position: relative;
+            top: -10px;
+          "
+        >
+          Causes and Risk Factors:
+        </p>
+        <div
+          id="factorX"
+          style="width: 95%; position: relative; top: -15px; left: 20px"
+        >
+          <span id="factor01" class="wikiFactor">• Genetic Changes: </span>
+          <span id="factor02">
+            DNA Mutations, Inherited Mutations, Acquired Mutations
+          </span>
+          <br />
+          <span id="factor11" class="wikiFactor">• Carcinogens: </span>
+          <span id="factor12"
+            >Exposure to substances known as carcinogens, which can be physical,
+            chemical, or biological, can increase the risk of cancer.
+          </span>
+          <br />
+          <span id="factor21" class="wikiFactor">• Lifestyle Choices: </span>
+          <span id="factor22"
+            >Smoking, Diet, Obesity, Lack of Physical Activity, Alcohol
+            Consumption, Sun Exposure</span
+          >
+          <br />
+          <span id="factor31" class="wikiFactor">• Infections: </span>
+          <span id="factor32"
+            >Certain infections, like those caused by the Human Papillomavirus
+            (HPV) or Hepatitis B and C viruses, can increase the risk of
+            specific cancers.</span
+          >
+          <br />
+          <span id="factor41" class="wikiFactor">• Age: </span>
+          <span id="factor42"
+            >The risk of developing cancer increases with age</span
+          >
+          <br />
+        </div>
+      </div>
+    </section>
+
+    <div id="footer"></div>
+    <script>
+      async function loadContent(id, file) {
+        const response = await fetch(file);
+        const content = await response.text();
+        document.getElementById(id).innerHTML = content;
+      }
+
+      loadContent("header", "header.html");
+      loadContent("footer", "footer.html");
+    </script>
+  </body>
+</html>

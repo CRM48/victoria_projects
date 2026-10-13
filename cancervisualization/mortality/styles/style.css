@@ -1,0 +1,333 @@
+header {
+    width: 95%;
+    font-family: "Inter", sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: absolute;
+    top: 10px;
+    left: 0;
+    z-index: 10;
+}
+
+.logo {
+    margin-left: 10%;
+    height: 80px;
+}
+
+header div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+nav {
+    display: flex;
+    gap: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #1b1b1b;
+    font-weight: bold;
+    position: relative;
+    padding: 8px 12px;
+    border-radius: 8px;
+    margin-left: 20px;
+}
+
+nav a:hover {
+    background-color: #78d0c0;
+}
+
+body {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom, #c7f6ed, #a1f098);
+    overflow: hidden;
+}
+
+main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    margin-top: 40px;
+    background: white;
+    padding: 40px;
+    border-radius: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    width: 88%;
+}
+
+.title {
+    width: 100%;
+    font-size: 30px;
+    text-align: center;
+    margin-top: -10px;
+}
+
+.cards-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+    width: 100%;
+}
+
+.card-container {
+    width: 300px;
+}
+
+.card {
+    width: 100%;
+    height: 490px;
+    position: relative;
+    flex-wrap: wrap;
+    cursor: pointer;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    will-change: transform;
+}
+
+.card-inner {
+    width: 100%;
+    height: 100%;
+    transform-style: preserve-3d;
+    transition: transform 0.6s ease-in-out;
+}
+
+.card:hover {
+    transform: scale(1.05);
+}
+
+.card:hover .card-inner {
+    transform: rotateY(180deg);
+}
+
+.card-front,
+.card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    border-radius: 18px;
+}
+
+.card-front {
+    background: white;
+    display: grid;
+    grid-template-columns: 300px;
+    grid-template-rows: 180px 100px 210px;
+    grid-template-areas: "image" "text" "des";
+    box-shadow: 0px 0px 5px #000000;
+    text-align: center;
+}
+
+.card-back {
+    background: rgb(248, 249, 250);
+    transform: rotateY(180deg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0px 0px 5px #000000;
+    text-align: center;
+}
+
+.card-text {
+    font-size: 13px;
+    grid-area: text;
+    margin: 55px 20px;
+}
+
+.card-des-text {
+    font-size: 17px;
+    margin: 15px;
+}
+
+.card-des {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(250, 238, 206);
+    align-content: center;
+    margin-top: 20px;
+}
+
+.card-des1 {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(226, 252, 218);
+    align-content: center;
+    margin-top: 20px;
+}
+
+.card-des2 {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(237, 209, 249);
+    align-content: center;
+    margin-top: 20px;
+}
+
+.card-des3 {
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    background: rgb(206, 235, 250);
+    align-content: center;
+    margin-top: 20px;
+}
+
+.card-image {
+    grid-area: image;
+    background: url("/mortality/images/img1.jpg");
+    width: 100%;
+    height: 230px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+
+.card-image1 {
+    grid-area: image;
+    background: url("/mortality/images/img2.jpg");
+    width: 100%;
+    height: 230px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+
+.card-image2 {
+    grid-area: image;
+    background: url("/mortality/images/img3.png");
+    width: 100%;
+    height: 230px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+
+.card-image3 {
+    grid-area: image;
+    background: url("/mortality/images/img4.jpg");
+    width: 100%;
+    height: 230px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-size: contain;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-repeat: no-repeat;
+}
+
+
+.cancer-list {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+}
+
+.cancer-list li {
+    margin: 10px 0;
+    background-color: rgba(252, 219, 181, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.cancer-list1 {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+
+}
+
+.cancer-list1 li {
+    margin: 10px 0;
+    background-color: rgba(208, 231, 179, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.cancer-list2 {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+
+}
+
+.cancer-list2 li {
+    margin: 10px 0;
+    background-color: rgba(237, 181, 252, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.cancer-list3 {
+    list-style-type: none;
+    padding: 20px;
+    margin: 0px;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    font-size: 16px;
+
+}
+
+.cancer-list3 li {
+    margin: 10px 0;
+    background-color: rgba(181, 201, 252, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 23px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}

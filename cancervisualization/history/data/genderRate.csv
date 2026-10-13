@@ -1,0 +1,3362 @@
+year,cancer,rate,gender
+1948,Lip Oral Cavity and Pharynx,22.3476573869924,Male
+1949,Lip Oral Cavity and Pharynx,21.3808453769963,Male
+1950,Lip Oral Cavity and Pharynx,19.1688290552453,Male
+1951,Lip Oral Cavity and Pharynx,17.3936542799558,Male
+1952,Lip Oral Cavity and Pharynx,19.9612260956051,Male
+1953,Lip Oral Cavity and Pharynx,17.4855376635619,Male
+1954,Lip Oral Cavity and Pharynx,17.0899269609579,Male
+1955,Lip Oral Cavity and Pharynx,17.0299872491282,Male
+1956,Lip Oral Cavity and Pharynx,17.0110513680316,Male
+1957,Lip Oral Cavity and Pharynx,16.2003760993123,Male
+1958,Lip Oral Cavity and Pharynx,12.5861654779474,Male
+1959,Lip Oral Cavity and Pharynx,7.79516843818233,Male
+1960,Lip Oral Cavity and Pharynx,8.73713778686186,Male
+1961,Lip Oral Cavity and Pharynx,9.32520059653767,Male
+1962,Lip Oral Cavity and Pharynx,7.22715573228085,Male
+1963,Lip Oral Cavity and Pharynx,7.90665737876374,Male
+1964,Lip Oral Cavity and Pharynx,7.85993635784393,Male
+1965,Lip Oral Cavity and Pharynx,7.05416301121277,Male
+1966,Lip Oral Cavity and Pharynx,7.65662116711479,Male
+1967,Lip Oral Cavity and Pharynx,10.0361576785074,Male
+1968,Lip Oral Cavity and Pharynx,9.14217603422374,Male
+1969,Lip Oral Cavity and Pharynx,9.15493560646535,Male
+1970,Lip Oral Cavity and Pharynx,10.0706220349188,Male
+1971,Lip Oral Cavity and Pharynx,9.19375301587132,Male
+1972,Lip Oral Cavity and Pharynx,7.79471113465356,Male
+1973,Lip Oral Cavity and Pharynx,7.64132684696109,Male
+1974,Lip Oral Cavity and Pharynx,8.60265917534759,Male
+1975,Lip Oral Cavity and Pharynx,7.17768017759157,Male
+1976,Lip Oral Cavity and Pharynx,8.93469558452245,Male
+1977,Lip Oral Cavity and Pharynx,10.7657271227508,Male
+1978,Lip Oral Cavity and Pharynx,10.5291321308813,Male
+1979,Lip Oral Cavity and Pharynx,12.0592494260327,Male
+1980,Lip Oral Cavity and Pharynx,11.6651711051812,Male
+1981,Lip Oral Cavity and Pharynx,11.1492893421762,Male
+1982,Lip Oral Cavity and Pharynx,13.2969413722616,Male
+1983,Lip Oral Cavity and Pharynx,11.6707923516236,Male
+1984,Lip Oral Cavity and Pharynx,11.6925942921925,Male
+1985,Lip Oral Cavity and Pharynx,10.7424977912551,Male
+1986,Lip Oral Cavity and Pharynx,11.1695472723183,Male
+1987,Lip Oral Cavity and Pharynx,11.6546346293714,Male
+1988,Lip Oral Cavity and Pharynx,11.4691961427603,Male
+1989,Lip Oral Cavity and Pharynx,12.5211429121937,Male
+1990,Lip Oral Cavity and Pharynx,11.0635267183936,Male
+1991,Lip Oral Cavity and Pharynx,10.2553527839069,Male
+1992,Lip Oral Cavity and Pharynx,11.9453431034767,Male
+1993,Lip Oral Cavity and Pharynx,9.87691738740458,Male
+1994,Lip Oral Cavity and Pharynx,9.55742102435275,Male
+1995,Lip Oral Cavity and Pharynx,9.20362283018591,Male
+1996,Lip Oral Cavity and Pharynx,8,Male
+1997,Lip Oral Cavity and Pharynx,8.5,Male
+1998,Lip Oral Cavity and Pharynx,9.3,Male
+1999,Lip Oral Cavity and Pharynx,9.3,Male
+2000,Lip Oral Cavity and Pharynx,8.5,Male
+2001,Lip Oral Cavity and Pharynx,8.1,Male
+2002,Lip Oral Cavity and Pharynx,7.2,Male
+2003,Lip Oral Cavity and Pharynx,8.5,Male
+2004,Lip Oral Cavity and Pharynx,8.3,Male
+2005,Lip Oral Cavity and Pharynx,7.9,Male
+2006,Lip Oral Cavity and Pharynx,9.5,Male
+2007,Lip Oral Cavity and Pharynx,8.6,Male
+2008,Lip Oral Cavity and Pharynx,8.9,Male
+2009,Lip Oral Cavity and Pharynx,8.7,Male
+2010,Lip Oral Cavity and Pharynx,10.7,Male
+2011,Lip Oral Cavity and Pharynx,9,Male
+2012,Lip Oral Cavity and Pharynx,9.4,Male
+2013,Lip Oral Cavity and Pharynx,9.1,Male
+2014,Lip Oral Cavity and Pharynx,9.6,Male
+2015,Lip Oral Cavity and Pharynx,11.6,Male
+2016,Lip Oral Cavity and Pharynx,10.8,Male
+2017,Lip Oral Cavity and Pharynx,11.1,Male
+1948,Oesophagus,4.69371827179,Male
+1949,Oesophagus,4.08207632684906,Male
+1950,Oesophagus,3.46110532256085,Male
+1951,Oesophagus,3.84260757587429,Male
+1952,Oesophagus,5.58307195924384,Male
+1953,Oesophagus,4.38493872777334,Male
+1954,Oesophagus,3.99933497632312,Male
+1955,Oesophagus,3.79316256454855,Male
+1956,Oesophagus,3.25684907116552,Male
+1957,Oesophagus,3.97881643565557,Male
+1958,Oesophagus,4.64756179161765,Male
+1959,Oesophagus,3.51174093087282,Male
+1960,Oesophagus,3.86387539439453,Male
+1961,Oesophagus,4.18672330775934,Male
+1962,Oesophagus,4.07360400893676,Male
+1963,Oesophagus,4.34426362993533,Male
+1964,Oesophagus,4.84259018434741,Male
+1965,Oesophagus,4.42083770103097,Male
+1966,Oesophagus,5.40110171220634,Male
+1967,Oesophagus,4.92127117163079,Male
+1968,Oesophagus,3.56429825741164,Male
+1969,Oesophagus,4.75845161182654,Male
+1970,Oesophagus,4.17693872395858,Male
+1971,Oesophagus,4.44086132634233,Male
+1972,Oesophagus,5.60901247076176,Male
+1973,Oesophagus,5.83887917090213,Male
+1974,Oesophagus,5.3484625691664,Male
+1975,Oesophagus,6.47714864420161,Male
+1976,Oesophagus,5.52247904782097,Male
+1977,Oesophagus,7.15899584387556,Male
+1978,Oesophagus,4.80412245395854,Male
+1979,Oesophagus,5.25821897595032,Male
+1980,Oesophagus,5.49006319244034,Male
+1981,Oesophagus,6.49246012724337,Male
+1982,Oesophagus,6.30744548104255,Male
+1983,Oesophagus,5.89796382554711,Male
+1984,Oesophagus,5.23275763685959,Male
+1985,Oesophagus,6.72492620360214,Male
+1986,Oesophagus,4.74075326436584,Male
+1987,Oesophagus,7.14300861361297,Male
+1988,Oesophagus,5.85237591435626,Male
+1989,Oesophagus,6.80193308083628,Male
+1990,Oesophagus,7.55314016730748,Male
+1991,Oesophagus,6.96231526344001,Male
+1992,Oesophagus,6.20648490975901,Male
+1993,Oesophagus,7.03699736716437,Male
+1994,Oesophagus,6.37966207233537,Male
+1995,Oesophagus,7.16226008513203,Male
+1996,Oesophagus,5.7,Male
+1997,Oesophagus,6.1,Male
+1998,Oesophagus,4.7,Male
+1999,Oesophagus,6.4,Male
+2000,Oesophagus,6.5,Male
+2001,Oesophagus,6.2,Male
+2002,Oesophagus,6.3,Male
+2003,Oesophagus,6.5,Male
+2004,Oesophagus,7,Male
+2005,Oesophagus,5.6,Male
+2006,Oesophagus,6,Male
+2007,Oesophagus,6.9,Male
+2008,Oesophagus,6.6,Male
+2009,Oesophagus,5.8,Male
+2010,Oesophagus,6.7,Male
+2011,Oesophagus,5.9,Male
+2012,Oesophagus,6.6,Male
+2013,Oesophagus,6.6,Male
+2014,Oesophagus,5.6,Male
+2015,Oesophagus,6,Male
+2016,Oesophagus,4.8,Male
+2017,Oesophagus,5.3,Male
+1948,Stomach,24.686317006723,Male
+1949,Stomach,23.6919919384657,Male
+1950,Stomach,24.9512443757522,Male
+1951,Stomach,20.6901992334359,Male
+1952,Stomach,20.6298808838748,Male
+1953,Stomach,21.003668609934,Male
+1954,Stomach,20.710576396451,Male
+1955,Stomach,18.0673876975869,Male
+1956,Stomach,20.6340092136409,Male
+1957,Stomach,18.9305498637023,Male
+1958,Stomach,17.9391592764135,Male
+1959,Stomach,21.217076313489,Male
+1960,Stomach,19.4296971889119,Male
+1961,Stomach,20.354447431373,Male
+1962,Stomach,18.1048669602791,Male
+1963,Stomach,18.6303962159321,Male
+1964,Stomach,18.8266532947985,Male
+1965,Stomach,19.0127691965116,Male
+1966,Stomach,18.0031401456932,Male
+1967,Stomach,18.5804645602112,Male
+1968,Stomach,18.6822530531885,Male
+1969,Stomach,18.1131508447354,Male
+1970,Stomach,20.6980039061635,Male
+1971,Stomach,15.8056230325085,Male
+1972,Stomach,18.921934831158,Male
+1973,Stomach,15.6459816355103,Male
+1974,Stomach,14.9677478072691,Male
+1975,Stomach,18.6557508645934,Male
+1976,Stomach,22.1017393821965,Male
+1977,Stomach,16.0817350474619,Male
+1978,Stomach,16.8699501309753,Male
+1979,Stomach,15.9533283463802,Male
+1980,Stomach,17.5285152778579,Male
+1981,Stomach,17.979700555936,Male
+1982,Stomach,16.4033828527173,Male
+1983,Stomach,14.6148175325593,Male
+1984,Stomach,14.0677722471535,Male
+1985,Stomach,17.4617348476953,Male
+1986,Stomach,14.8073059011543,Male
+1987,Stomach,14.4189929449746,Male
+1988,Stomach,13.4688945642831,Male
+1989,Stomach,13.7203156443797,Male
+1990,Stomach,13.0191798304361,Male
+1991,Stomach,13.1111658400706,Male
+1992,Stomach,13.2108107213615,Male
+1993,Stomach,12.0206004666015,Male
+1994,Stomach,11.4448886588418,Male
+1995,Stomach,11.6668978988944,Male
+1996,Stomach,12.1,Male
+1997,Stomach,10.9,Male
+1998,Stomach,11.5,Male
+1999,Stomach,11.3,Male
+2000,Stomach,9.6,Male
+2001,Stomach,9.7,Male
+2002,Stomach,11,Male
+2003,Stomach,10.1,Male
+2004,Stomach,8.6,Male
+2005,Stomach,7.9,Male
+2006,Stomach,8.7,Male
+2007,Stomach,8.5,Male
+2008,Stomach,8.7,Male
+2009,Stomach,8.3,Male
+2010,Stomach,8,Male
+2011,Stomach,8.1,Male
+2012,Stomach,7.5,Male
+2013,Stomach,7.3,Male
+2014,Stomach,7.5,Male
+2015,Stomach,6.8,Male
+2016,Stomach,7.7,Male
+2017,Stomach,7.8,Male
+1948,Colorectum and anus,26.6709038384877,Male
+1949,Colorectum and anus,22.7361115939219,Male
+1950,Colorectum and anus,21.4825436299663,Male
+1951,Colorectum and anus,23.762294586114,Male
+1952,Colorectum and anus,23.3174621052386,Male
+1953,Colorectum and anus,24.7676561051774,Male
+1954,Colorectum and anus,25.7442943850487,Male
+1955,Colorectum and anus,27.5615964418991,Male
+1956,Colorectum and anus,27.2661092723417,Male
+1957,Colorectum and anus,26.8764243601048,Male
+1958,Colorectum and anus,25.5514429470813,Male
+1959,Colorectum and anus,29.6435258762918,Male
+1960,Colorectum and anus,30.0925060052456,Male
+1961,Colorectum and anus,30.6699567798858,Male
+1962,Colorectum and anus,31.4358266773212,Male
+1963,Colorectum and anus,30.9434776939313,Male
+1964,Colorectum and anus,33.9207157100498,Male
+1965,Colorectum and anus,37.9794335549676,Male
+1966,Colorectum and anus,34.2487868399909,Male
+1967,Colorectum and anus,34.9967996946899,Male
+1968,Colorectum and anus,41.3278587675856,Male
+1969,Colorectum and anus,37.6406735216232,Male
+1970,Colorectum and anus,46.0106891586532,Male
+1971,Colorectum and anus,43.0574646479039,Male
+1972,Colorectum and anus,43.8798522525821,Male
+1973,Colorectum and anus,44.2715167000819,Male
+1974,Colorectum and anus,46.806876202155,Male
+1975,Colorectum and anus,45.7054760737076,Male
+1976,Colorectum and anus,47.727172035861,Male
+1977,Colorectum and anus,47.633038160512,Male
+1978,Colorectum and anus,47.0535395126341,Male
+1979,Colorectum and anus,49.8088118798946,Male
+1980,Colorectum and anus,48.1907886380805,Male
+1981,Colorectum and anus,51.7047078350131,Male
+1982,Colorectum and anus,53.8084772341731,Male
+1983,Colorectum and anus,57.026624006718,Male
+1984,Colorectum and anus,57.8611487494737,Male
+1985,Colorectum and anus,56.5121526234698,Male
+1986,Colorectum and anus,56.7114159884036,Male
+1987,Colorectum and anus,56.6390272043472,Male
+1988,Colorectum and anus,60.8736701445313,Male
+1989,Colorectum and anus,56.729608160211,Male
+1990,Colorectum and anus,58.1196677911573,Male
+1991,Colorectum and anus,55.9929864976747,Male
+1992,Colorectum and anus,56.0821327173038,Male
+1993,Colorectum and anus,56.3422128689518,Male
+1994,Colorectum and anus,64.5552627708704,Male
+1995,Colorectum and anus,60.6842777455009,Male
+1996,Colorectum and anus,60.3,Male
+1997,Colorectum and anus,55.5,Male
+1998,Colorectum and anus,56.8,Male
+1999,Colorectum and anus,59.2,Male
+2000,Colorectum and anus,54.6,Male
+2001,Colorectum and anus,56.5,Male
+2002,Colorectum and anus,55.7,Male
+2003,Colorectum and anus,54.7,Male
+2004,Colorectum and anus,53.9,Male
+2005,Colorectum and anus,50.7,Male
+2006,Colorectum and anus,55,Male
+2007,Colorectum and anus,52.1,Male
+2008,Colorectum and anus,50.3,Male
+2009,Colorectum and anus,50.2,Male
+2010,Colorectum and anus,50,Male
+2011,Colorectum and anus,52.5,Male
+2012,Colorectum and anus,49.3,Male
+2013,Colorectum and anus,49.3,Male
+2014,Colorectum and anus,51.8,Male
+2015,Colorectum and anus,47.4,Male
+2016,Colorectum and anus,46.2,Male
+2017,Colorectum and anus,44.9,Male
+1948,Liver and intrahepatic bile ducts,1.83055441692153,Male
+1949,Liver and intrahepatic bile ducts,2.00413450676646,Male
+1950,Liver and intrahepatic bile ducts,2.73286960849846,Male
+1951,Liver and intrahepatic bile ducts,1.3388428941252,Male
+1952,Liver and intrahepatic bile ducts,2.58203076766954,Male
+1953,Liver and intrahepatic bile ducts,2.81102861716953,Male
+1954,Liver and intrahepatic bile ducts,2.49441892820763,Male
+1955,Liver and intrahepatic bile ducts,2.57862901580435,Male
+1956,Liver and intrahepatic bile ducts,3.22031495303294,Male
+1957,Liver and intrahepatic bile ducts,2.93066058665141,Male
+1958,Liver and intrahepatic bile ducts,3.04231945700269,Male
+1959,Liver and intrahepatic bile ducts,2.67705330490875,Male
+1960,Liver and intrahepatic bile ducts,3.02673980754695,Male
+1961,Liver and intrahepatic bile ducts,3.18065535061619,Male
+1962,Liver and intrahepatic bile ducts,3.83439906509882,Male
+1963,Liver and intrahepatic bile ducts,4.03077305905332,Male
+1964,Liver and intrahepatic bile ducts,2.71528406774154,Male
+1965,Liver and intrahepatic bile ducts,4.22182567506195,Male
+1966,Liver and intrahepatic bile ducts,3.0595955472227,Male
+1967,Liver and intrahepatic bile ducts,3.63019612295411,Male
+1968,Liver and intrahepatic bile ducts,2.38668531503884,Male
+1969,Liver and intrahepatic bile ducts,1.84295748729924,Male
+1970,Liver and intrahepatic bile ducts,2.4169883030547,Male
+1971,Liver and intrahepatic bile ducts,2.84652400548982,Male
+1972,Liver and intrahepatic bile ducts,1.79335016236205,Male
+1973,Liver and intrahepatic bile ducts,2.69178117548593,Male
+1974,Liver and intrahepatic bile ducts,2.7159993433883,Male
+1975,Liver and intrahepatic bile ducts,2.45769900729257,Male
+1976,Liver and intrahepatic bile ducts,2.29009646290078,Male
+1977,Liver and intrahepatic bile ducts,2.82139602054895,Male
+1978,Liver and intrahepatic bile ducts,3.09657091339551,Male
+1979,Liver and intrahepatic bile ducts,3.76515956696659,Male
+1980,Liver and intrahepatic bile ducts,3.18392668284921,Male
+1981,Liver and intrahepatic bile ducts,3.45786606270553,Male
+1982,Liver and intrahepatic bile ducts,2.54992772069704,Male
+1983,Liver and intrahepatic bile ducts,3.2040329608092,Male
+1984,Liver and intrahepatic bile ducts,2.77310266842882,Male
+1985,Liver and intrahepatic bile ducts,2.50431099741864,Male
+1986,Liver and intrahepatic bile ducts,3.05003777602728,Male
+1987,Liver and intrahepatic bile ducts,3.51884440249968,Male
+1988,Liver and intrahepatic bile ducts,3.99115715905101,Male
+1989,Liver and intrahepatic bile ducts,3.55788864347733,Male
+1990,Liver and intrahepatic bile ducts,3.29063981175513,Male
+1991,Liver and intrahepatic bile ducts,3.37965344767529,Male
+1992,Liver and intrahepatic bile ducts,3.52844323288364,Male
+1993,Liver and intrahepatic bile ducts,4.38200330810975,Male
+1994,Liver and intrahepatic bile ducts,4.25344448066721,Male
+1995,Liver and intrahepatic bile ducts,4.03929530970925,Male
+1996,Liver and intrahepatic bile ducts,4.1,Male
+1997,Liver and intrahepatic bile ducts,4.7,Male
+1998,Liver and intrahepatic bile ducts,4.9,Male
+1999,Liver and intrahepatic bile ducts,4.8,Male
+2000,Liver and intrahepatic bile ducts,4,Male
+2001,Liver and intrahepatic bile ducts,4.2,Male
+2002,Liver and intrahepatic bile ducts,4.8,Male
+2003,Liver and intrahepatic bile ducts,5.5,Male
+2004,Liver and intrahepatic bile ducts,5,Male
+2005,Liver and intrahepatic bile ducts,6,Male
+2006,Liver and intrahepatic bile ducts,6.1,Male
+2007,Liver and intrahepatic bile ducts,6.2,Male
+2008,Liver and intrahepatic bile ducts,5.8,Male
+2009,Liver and intrahepatic bile ducts,6.3,Male
+2010,Liver and intrahepatic bile ducts,6.7,Male
+2011,Liver and intrahepatic bile ducts,7.8,Male
+2012,Liver and intrahepatic bile ducts,7.5,Male
+2013,Liver and intrahepatic bile ducts,6.6,Male
+2014,Liver and intrahepatic bile ducts,7.4,Male
+2015,Liver and intrahepatic bile ducts,7.7,Male
+2016,Liver and intrahepatic bile ducts,7.3,Male
+2017,Liver and intrahepatic bile ducts,7.1,Male
+1948,Pancreas,5.66777554574493,Male
+1949,Pancreas,5.55384653769927,Male
+1950,Pancreas,7.37968942220661,Male
+1951,Pancreas,7.52679972552333,Male
+1952,Pancreas,6.01831949276387,Male
+1953,Pancreas,5.41656002532503,Male
+1954,Pancreas,6.97530280860397,Male
+1955,Pancreas,6.85124085402573,Male
+1956,Pancreas,5.04049992663981,Male
+1957,Pancreas,8.25197124985428,Male
+1958,Pancreas,7.60138335681748,Male
+1959,Pancreas,6.92176571021728,Male
+1960,Pancreas,7.58027676845386,Male
+1961,Pancreas,8.42835236435164,Male
+1962,Pancreas,9.26640438457146,Male
+1963,Pancreas,9.78645387023559,Male
+1964,Pancreas,8.66597973377202,Male
+1965,Pancreas,8.23905575577483,Male
+1966,Pancreas,8.34868169023965,Male
+1967,Pancreas,7.73074933483036,Male
+1968,Pancreas,7.40221493287103,Male
+1969,Pancreas,7.35630024388421,Male
+1970,Pancreas,10.3483016164921,Male
+1971,Pancreas,8.52520759406702,Male
+1972,Pancreas,10.4555350647455,Male
+1973,Pancreas,8.29713413874487,Male
+1974,Pancreas,10.4360550014018,Male
+1975,Pancreas,11.3297943773537,Male
+1976,Pancreas,8.89711953336271,Male
+1977,Pancreas,9.31206191923122,Male
+1978,Pancreas,9.70909452005573,Male
+1979,Pancreas,8.80982932655999,Male
+1980,Pancreas,9.53267894313261,Male
+1981,Pancreas,9.03041663032251,Male
+1982,Pancreas,7.98449292334549,Male
+1983,Pancreas,9.17923673207377,Male
+1984,Pancreas,8.39408766190403,Male
+1985,Pancreas,7.7541023298074,Male
+1986,Pancreas,7.26119898598037,Male
+1987,Pancreas,7.83898350351961,Male
+1988,Pancreas,10.2310082179492,Male
+1989,Pancreas,7.23790829096746,Male
+1990,Pancreas,9.9683654986304,Male
+1991,Pancreas,7.33819110889715,Male
+1992,Pancreas,8.05318912198396,Male
+1993,Pancreas,7.91373219206647,Male
+1994,Pancreas,8.51319903095068,Male
+1995,Pancreas,6.93927452787157,Male
+1996,Pancreas,7,Male
+1997,Pancreas,7.2,Male
+1998,Pancreas,7.8,Male
+1999,Pancreas,7.6,Male
+2000,Pancreas,6.8,Male
+2001,Pancreas,6.9,Male
+2002,Pancreas,6.6,Male
+2003,Pancreas,7.1,Male
+2004,Pancreas,7.2,Male
+2005,Pancreas,7.5,Male
+2006,Pancreas,6.6,Male
+2007,Pancreas,8,Male
+2008,Pancreas,7.3,Male
+2009,Pancreas,7.8,Male
+2010,Pancreas,8.6,Male
+2011,Pancreas,7.1,Male
+2012,Pancreas,8.3,Male
+2013,Pancreas,7.7,Male
+2014,Pancreas,8.2,Male
+2015,Pancreas,8.6,Male
+2016,Pancreas,8.6,Male
+2017,Pancreas,7.6,Male
+1948,Lung & Trachea,14.4035917136784,Male
+1949,Lung & Trachea,14.035539189724,Male
+1950,Lung & Trachea,15.8815455359792,Male
+1951,Lung & Trachea,17.5176722580133,Male
+1952,Lung & Trachea,19.8257003322586,Male
+1953,Lung & Trachea,24.0719518438318,Male
+1954,Lung & Trachea,25.1674803968877,Male
+1955,Lung & Trachea,25.4824804240774,Male
+1956,Lung & Trachea,28.7234289319473,Male
+1957,Lung & Trachea,31.7964214283873,Male
+1958,Lung & Trachea,32.1281679449002,Male
+1959,Lung & Trachea,31.5278463807849,Male
+1960,Lung & Trachea,33.8282595698688,Male
+1961,Lung & Trachea,37.7072094679352,Male
+1962,Lung & Trachea,40.4278786091317,Male
+1963,Lung & Trachea,40.624144494819,Male
+1964,Lung & Trachea,42.0484112243809,Male
+1965,Lung & Trachea,45.1110548229983,Male
+1966,Lung & Trachea,49.3315309314541,Male
+1967,Lung & Trachea,46.7226789697897,Male
+1968,Lung & Trachea,56.0929600732745,Male
+1969,Lung & Trachea,52.1729495267004,Male
+1970,Lung & Trachea,54.6432980850225,Male
+1971,Lung & Trachea,52.9374350863283,Male
+1972,Lung & Trachea,55.4382240926352,Male
+1973,Lung & Trachea,57.0816462287596,Male
+1974,Lung & Trachea,60.3660417175402,Male
+1975,Lung & Trachea,64.4785337318262,Male
+1976,Lung & Trachea,62.5285387850787,Male
+1977,Lung & Trachea,60.7041807435629,Male
+1978,Lung & Trachea,64.9023639580346,Male
+1979,Lung & Trachea,63.5417539370159,Male
+1980,Lung & Trachea,63.2676277270143,Male
+1981,Lung & Trachea,59.2176850261108,Male
+1982,Lung & Trachea,62.686888015107,Male
+1983,Lung & Trachea,66.597651121839,Male
+1984,Lung & Trachea,63.9814982566757,Male
+1985,Lung & Trachea,59.1280164505262,Male
+1986,Lung & Trachea,58.365565080435,Male
+1987,Lung & Trachea,56.9536423221589,Male
+1988,Lung & Trachea,60.3394871068623,Male
+1989,Lung & Trachea,59.053545012966,Male
+1990,Lung & Trachea,54.2019518644699,Male
+1991,Lung & Trachea,51.885804894647,Male
+1992,Lung & Trachea,52.3949164977578,Male
+1993,Lung & Trachea,51.491861088897,Male
+1994,Lung & Trachea,54.4945510551722,Male
+1995,Lung & Trachea,48.2873299215731,Male
+1996,Lung & Trachea,46.9,Male
+1997,Lung & Trachea,42.6,Male
+1998,Lung & Trachea,43.4,Male
+1999,Lung & Trachea,43.1,Male
+2000,Lung & Trachea,41.9,Male
+2001,Lung & Trachea,37.2,Male
+2002,Lung & Trachea,38.4,Male
+2003,Lung & Trachea,41.4,Male
+2004,Lung & Trachea,42.1,Male
+2005,Lung & Trachea,36.3,Male
+2006,Lung & Trachea,34.7,Male
+2007,Lung & Trachea,36.8,Male
+2008,Lung & Trachea,34.5,Male
+2009,Lung & Trachea,37.2,Male
+2010,Lung & Trachea,34.4,Male
+2011,Lung & Trachea,33.5,Male
+2012,Lung & Trachea,33.2,Male
+2013,Lung & Trachea,31.1,Male
+2014,Lung & Trachea,34.6,Male
+2015,Lung & Trachea,31.7,Male
+2016,Lung & Trachea,31.4,Male
+2017,Lung & Trachea,29,Male
+1948,Melanoma,2.39053296270963,Male
+1949,Melanoma,1.20621799812404,Male
+1950,Melanoma,2.46816061505204,Male
+1951,Melanoma,3.46011245344414,Male
+1952,Melanoma,2.17500637827355,Male
+1953,Melanoma,2.94081415336222,Male
+1954,Melanoma,3.28718942724419,Male
+1955,Melanoma,3.12539318547831,Male
+1956,Melanoma,2.93252311418577,Male
+1957,Melanoma,3.10867222607902,Male
+1958,Melanoma,3.42529905713112,Male
+1959,Melanoma,4.70656802650053,Male
+1960,Melanoma,2.87017734666105,Male
+1961,Melanoma,4.03656639232107,Male
+1962,Melanoma,5.22861245097808,Male
+1963,Melanoma,4.52826644735035,Male
+1964,Melanoma,4.87879152613194,Male
+1965,Melanoma,5.79936451624174,Male
+1966,Melanoma,5.62184295631751,Male
+1967,Melanoma,5.62797098574334,Male
+1968,Melanoma,6.05678286989279,Male
+1969,Melanoma,7.24075633887068,Male
+1970,Melanoma,7.86018798107416,Male
+1971,Melanoma,9.00937506415003,Male
+1972,Melanoma,9.90078703435521,Male
+1973,Melanoma,11.4762397334393,Male
+1974,Melanoma,12.7461004549292,Male
+1975,Melanoma,15.0586812871027,Male
+1976,Melanoma,14.0300357517755,Male
+1977,Melanoma,14.3877635522365,Male
+1978,Melanoma,15.2872045304415,Male
+1979,Melanoma,14.4323106935036,Male
+1980,Melanoma,17.1334075443706,Male
+1981,Melanoma,16.677927196143,Male
+1982,Melanoma,20.3961482414052,Male
+1983,Melanoma,18.6009302295219,Male
+1984,Melanoma,21.3700571202006,Male
+1985,Melanoma,17.6025166987441,Male
+1986,Melanoma,18.9662533841886,Male
+1987,Melanoma,21.07825962905,Male
+1988,Melanoma,26.5517601598486,Male
+1989,Melanoma,27.4045079476528,Male
+1990,Melanoma,24.0693798921556,Male
+1991,Melanoma,23.208264422097,Male
+1992,Melanoma,27.0646510447686,Male
+1993,Melanoma,27.9386968414733,Male
+1994,Melanoma,40.3257544455057,Male
+1995,Melanoma,45.9474770123934,Male
+1996,Melanoma,36.9,Male
+1997,Melanoma,36.1,Male
+1998,Melanoma,38.4,Male
+1999,Melanoma,38.3,Male
+2000,Melanoma,38.8,Male
+2001,Melanoma,38.6,Male
+2002,Melanoma,40.5,Male
+2003,Melanoma,40.2,Male
+2004,Melanoma,38.8,Male
+2005,Melanoma,44.7,Male
+2006,Melanoma,41.5,Male
+2007,Melanoma,42.5,Male
+2008,Melanoma,43.3,Male
+2009,Melanoma,43,Male
+2010,Melanoma,43.7,Male
+2011,Melanoma,40.6,Male
+2012,Melanoma,40.5,Male
+2013,Melanoma,39.3,Male
+2014,Melanoma,39.2,Male
+2015,Melanoma,40.8,Male
+2016,Melanoma,42,Male
+2017,Melanoma,40.2,Male
+1948,Kidney and other urinary,2.86154301366427,Male
+1949,Kidney and other urinary,2.39107236851938,Male
+1950,Kidney and other urinary,2.79683916681307,Male
+1951,Kidney and other urinary,4.77242743358077,Male
+1952,Kidney and other urinary,3.54641993942557,Male
+1953,Kidney and other urinary,3.40522588168929,Male
+1954,Kidney and other urinary,3.61506221622373,Male
+1955,Kidney and other urinary,4.24107552143159,Male
+1956,Kidney and other urinary,4.48403742835571,Male
+1957,Kidney and other urinary,4.12623686626405,Male
+1958,Kidney and other urinary,4.89052211071076,Male
+1959,Kidney and other urinary,3.94529914200554,Male
+1960,Kidney and other urinary,4.74535692920819,Male
+1961,Kidney and other urinary,5.16423871384175,Male
+1962,Kidney and other urinary,4.96955197516224,Male
+1963,Kidney and other urinary,5.87150411908164,Male
+1964,Kidney and other urinary,5.05899338393605,Male
+1965,Kidney and other urinary,5.98415768647058,Male
+1966,Kidney and other urinary,7.06311385385761,Male
+1967,Kidney and other urinary,6.08962307605386,Male
+1968,Kidney and other urinary,6.38488741382942,Male
+1969,Kidney and other urinary,5.85544521039647,Male
+1970,Kidney and other urinary,5.97343850400076,Male
+1971,Kidney and other urinary,6.51431301016319,Male
+1972,Kidney and other urinary,6.78957841197578,Male
+1973,Kidney and other urinary,6.17379645528206,Male
+1974,Kidney and other urinary,6.94927057323144,Male
+1975,Kidney and other urinary,8.11097695198066,Male
+1976,Kidney and other urinary,5.94337305721458,Male
+1977,Kidney and other urinary,7.4480657152438,Male
+1978,Kidney and other urinary,8.82851369992755,Male
+1979,Kidney and other urinary,7.0618431767901,Male
+1980,Kidney and other urinary,8.154100398686,Male
+1981,Kidney and other urinary,8.366787356165,Male
+1982,Kidney and other urinary,9.48412319410664,Male
+1983,Kidney and other urinary,9.41653872869076,Male
+1984,Kidney and other urinary,7.97553293439199,Male
+1985,Kidney and other urinary,8.47251179356852,Male
+1986,Kidney and other urinary,7.6819157244345,Male
+1987,Kidney and other urinary,9.16064828035595,Male
+1988,Kidney and other urinary,8.06039653963207,Male
+1989,Kidney and other urinary,7.89088870257537,Male
+1990,Kidney and other urinary,7.04221043800849,Male
+1991,Kidney and other urinary,9.13841459998488,Male
+1992,Kidney and other urinary,8.23501686650099,Male
+1993,Kidney and other urinary,10.3035867417041,Male
+1994,Kidney and other urinary,10.7361392169836,Male
+1995,Kidney and other urinary,9.50890342604566,Male
+1996,Kidney and other urinary,10.3,Male
+1997,Kidney and other urinary,11.1,Male
+1998,Kidney and other urinary,10.4,Male
+1999,Kidney and other urinary,10.8,Male
+2000,Kidney and other urinary,10.2,Male
+2001,Kidney and other urinary,10.7,Male
+2002,Kidney and other urinary,9.8,Male
+2003,Kidney and other urinary,10.7,Male
+2004,Kidney and other urinary,12.2,Male
+2005,Kidney and other urinary,10.2,Male
+2006,Kidney and other urinary,11.3,Male
+2007,Kidney and other urinary,12.5,Male
+2008,Kidney and other urinary,13,Male
+2009,Kidney and other urinary,11.9,Male
+2010,Kidney and other urinary,13.4,Male
+2011,Kidney and other urinary,12.6,Male
+2012,Kidney and other urinary,13,Male
+2013,Kidney and other urinary,13.5,Male
+2014,Kidney and other urinary,13.8,Male
+2015,Kidney and other urinary,13.7,Male
+2016,Kidney and other urinary,11.6,Male
+2017,Kidney and other urinary,12.5,Male
+1948,Bladder,6.3510092373141,Male
+1949,Bladder,6.73000999111816,Male
+1950,Bladder,6.95868764387754,Male
+1951,Bladder,5.94137939357987,Male
+1952,Bladder,5.66348020652259,Male
+1953,Bladder,6.50804059171943,Male
+1954,Bladder,6.12895423535452,Male
+1955,Bladder,6.50237579937598,Male
+1956,Bladder,7.02926739875574,Male
+1957,Bladder,8.96544780979229,Male
+1958,Bladder,6.8896522467479,Male
+1959,Bladder,8.1818062793163,Male
+1960,Bladder,7.64902209618276,Male
+1961,Bladder,10.806216700975,Male
+1962,Bladder,9.60718700464821,Male
+1963,Bladder,11.7529558421572,Male
+1964,Bladder,11.7098351326262,Male
+1965,Bladder,10.4171302310627,Male
+1966,Bladder,9.46075797111023,Male
+1967,Bladder,9.95465317127094,Male
+1968,Bladder,11.5280203449695,Male
+1969,Bladder,12.0159593908086,Male
+1970,Bladder,10.1900525367034,Male
+1971,Bladder,14.2395133124625,Male
+1972,Bladder,11.6517005116016,Male
+1973,Bladder,13.1970670860172,Male
+1974,Bladder,14.6213280578991,Male
+1975,Bladder,16.9034748851024,Male
+1976,Bladder,15.4259429061978,Male
+1977,Bladder,14.9197365732743,Male
+1978,Bladder,15.1166874535592,Male
+1979,Bladder,14.9944891753765,Male
+1980,Bladder,16.586232192307,Male
+1981,Bladder,16.0992132572274,Male
+1982,Bladder,16.1568416815452,Male
+1983,Bladder,16.5141772733786,Male
+1984,Bladder,15.4801434375912,Male
+1985,Bladder,10.6333017212708,Male
+1986,Bladder,15.8919777245169,Male
+1987,Bladder,15.1389150902005,Male
+1988,Bladder,17.9419212822341,Male
+1989,Bladder,12.3694180920504,Male
+1990,Bladder,15.5470979374051,Male
+1991,Bladder,15.5696007747321,Male
+1992,Bladder,14.138218432463,Male
+1993,Bladder,17.0670750613878,Male
+1994,Bladder,21.1408273684689,Male
+1995,Bladder,18.3822569107356,Male
+1996,Bladder,19.1,Male
+1997,Bladder,17.1,Male
+1998,Bladder,19.3,Male
+1999,Bladder,18.1,Male
+2000,Bladder,16.6,Male
+2001,Bladder,18,Male
+2002,Bladder,15.7,Male
+2003,Bladder,16.5,Male
+2004,Bladder,15.7,Male
+2005,Bladder,9.1,Male
+2006,Bladder,8.6,Male
+2007,Bladder,9.5,Male
+2008,Bladder,8.2,Male
+2009,Bladder,8.2,Male
+2010,Bladder,8.9,Male
+2011,Bladder,7.3,Male
+2012,Bladder,7.1,Male
+2013,Bladder,7.9,Male
+2014,Bladder,9.1,Male
+2015,Bladder,8.1,Male
+2016,Bladder,8.1,Male
+2017,Bladder,7.7,Male
+1948,Brain,2.99384730739206,Male
+1949,Brain,3.86381972816087,Male
+1950,Brain,2.91260104259736,Male
+1951,Brain,4.39052071057893,Male
+1952,Brain,3.8679820799689,Male
+1953,Brain,3.45740797927044,Male
+1954,Brain,4.65804468844283,Male
+1955,Brain,5.44954939250531,Male
+1956,Brain,3.9039163366304,Male
+1957,Brain,4.6437122755538,Male
+1958,Brain,4.53262222274114,Male
+1959,Brain,5.86290029077534,Male
+1960,Brain,4.49448508819839,Male
+1961,Brain,5.17018783684428,Male
+1962,Brain,5.2813094677261,Male
+1963,Brain,6.36352267496463,Male
+1964,Brain,5.4506853552692,Male
+1965,Brain,5.24693160619813,Male
+1966,Brain,5.87124135376443,Male
+1967,Brain,4.90267871133227,Male
+1968,Brain,5.72264170279649,Male
+1969,Brain,5.32273635052833,Male
+1970,Brain,4.96547422483835,Male
+1971,Brain,6.57134033469229,Male
+1972,Brain,6.18880915435797,Male
+1973,Brain,6.41822106000911,Male
+1974,Brain,5.08168289281468,Male
+1975,Brain,5.64953685766627,Male
+1976,Brain,5.21472742048411,Male
+1977,Brain,6.05468044377069,Male
+1978,Brain,6.94253323197768,Male
+1979,Brain,8.1924642135452,Male
+1980,Brain,6.59235527408281,Male
+1981,Brain,7.08723719130389,Male
+1982,Brain,6.72854859592743,Male
+1983,Brain,6.96290590141074,Male
+1984,Brain,8.18364017663331,Male
+1985,Brain,5.98097579875667,Male
+1986,Brain,8.07123580873101,Male
+1987,Brain,6.21341404359298,Male
+1988,Brain,7.00497481081364,Male
+1989,Brain,6.57242987136408,Male
+1990,Brain,6.93141614546265,Male
+1991,Brain,7.50365108255782,Male
+1992,Brain,7.62415020655528,Male
+1993,Brain,6.58792573589212,Male
+1994,Brain,6.67886484462782,Male
+1995,Brain,5.54170743546249,Male
+1996,Brain,8.4,Male
+1997,Brain,7.2,Male
+1998,Brain,7.5,Male
+1999,Brain,6.7,Male
+2000,Brain,7.5,Male
+2001,Brain,6.8,Male
+2002,Brain,8,Male
+2003,Brain,6.1,Male
+2004,Brain,6.3,Male
+2005,Brain,6.8,Male
+2006,Brain,6.7,Male
+2007,Brain,5.5,Male
+2008,Brain,5.5,Male
+2009,Brain,6.4,Male
+2010,Brain,7.2,Male
+2011,Brain,6.9,Male
+2012,Brain,6.8,Male
+2013,Brain,6.7,Male
+2014,Brain,6.5,Male
+2015,Brain,6,Male
+2016,Brain,6.9,Male
+2017,Brain,6.3,Male
+1948,Thyroid,0.765686688422043,Male
+1949,Thyroid,0.610651800238529,Male
+1950,Thyroid,0.847699156103815,Male
+1951,Thyroid,0.781861678481949,Male
+1952,Thyroid,1.00302315917379,Male
+1953,Thyroid,0.493710478465615,Male
+1954,Thyroid,0.581996987151908,Male
+1955,Thyroid,0.487217083939143,Male
+1956,Thyroid,0.721797051008803,Male
+1957,Thyroid,0.595909186473121,Male
+1958,Thyroid,1.30754596742358,Male
+1959,Thyroid,0.550228437480016,Male
+1960,Thyroid,0.947761156669759,Male
+1961,Thyroid,0.730718013302026,Male
+1962,Thyroid,0.803873369437617,Male
+1963,Thyroid,0.702796641495206,Male
+1964,Thyroid,1.04500377684597,Male
+1965,Thyroid,0.866440411203658,Male
+1966,Thyroid,0.68577538454522,Male
+1967,Thyroid,0.584826307284938,Male
+1968,Thyroid,1.24940750491364,Male
+1969,Thyroid,1.42127809365943,Male
+1970,Thyroid,1.11656103015612,Male
+1971,Thyroid,0.790397232987308,Male
+1972,Thyroid,1.42714957108958,Male
+1973,Thyroid,1.32178852254261,Male
+1974,Thyroid,1.5751661077727,Male
+1975,Thyroid,1.1383833369513,Male
+1976,Thyroid,1.18975706056539,Male
+1977,Thyroid,1.18827858296859,Male
+1978,Thyroid,0.867292960685373,Male
+1979,Thyroid,1.22999161528165,Male
+1980,Thyroid,1.46073815853835,Male
+1981,Thyroid,1.00751809863141,Male
+1982,Thyroid,1.37793562492831,Male
+1983,Thyroid,1.18016431727423,Male
+1984,Thyroid,1.61343790477128,Male
+1985,Thyroid,0.935813458711252,Male
+1986,Thyroid,1.26168175972621,Male
+1987,Thyroid,1.53580858795694,Male
+1988,Thyroid,1.42186831025303,Male
+1989,Thyroid,1.12168762690725,Male
+1990,Thyroid,1.10885759559715,Male
+1991,Thyroid,1.53984524573019,Male
+1992,Thyroid,1.670117619296,Male
+1993,Thyroid,1.5567971783563,Male
+1994,Thyroid,1.42114609511451,Male
+1995,Thyroid,2.13975893572795,Male
+1996,Thyroid,1.8,Male
+1997,Thyroid,2.6,Male
+1998,Thyroid,1.6,Male
+1999,Thyroid,1.7,Male
+2000,Thyroid,2.2,Male
+2001,Thyroid,1.5,Male
+2002,Thyroid,1.7,Male
+2003,Thyroid,2.5,Male
+2004,Thyroid,2.5,Male
+2005,Thyroid,2.2,Male
+2006,Thyroid,2.7,Male
+2007,Thyroid,2.7,Male
+2008,Thyroid,2,Male
+2009,Thyroid,2.9,Male
+2010,Thyroid,2.9,Male
+2011,Thyroid,2.9,Male
+2012,Thyroid,2.5,Male
+2013,Thyroid,3,Male
+2014,Thyroid,3.5,Male
+2015,Thyroid,3.5,Male
+2016,Thyroid,3.5,Male
+2017,Thyroid,3.6,Male
+1948,Hodgkin lymphoma,1.71244062229831,Male
+1949,Hodgkin lymphoma,1.88477381976845,Male
+1950,Hodgkin lymphoma,3.19166636623262,Male
+1951,Hodgkin lymphoma,2.04071977825356,Male
+1952,Hodgkin lymphoma,1.7871635901644,Male
+1953,Hodgkin lymphoma,2.46189239640184,Male
+1954,Hodgkin lymphoma,2.66355452648331,Male
+1955,Hodgkin lymphoma,2.29314667272428,Male
+1956,Hodgkin lymphoma,2.29094982048995,Male
+1957,Hodgkin lymphoma,1.40731286129845,Male
+1958,Hodgkin lymphoma,1.48970267120129,Male
+1959,Hodgkin lymphoma,1.91654895887969,Male
+1960,Hodgkin lymphoma,1.98432610929238,Male
+1961,Hodgkin lymphoma,2.70007713702621,Male
+1962,Hodgkin lymphoma,2.92451795527439,Male
+1963,Hodgkin lymphoma,2.9790062271529,Male
+1964,Hodgkin lymphoma,2.88679252575253,Male
+1965,Hodgkin lymphoma,3.68493781673355,Male
+1966,Hodgkin lymphoma,3.15031765704497,Male
+1967,Hodgkin lymphoma,3.36764018145567,Male
+1968,Hodgkin lymphoma,3.07821891624753,Male
+1969,Hodgkin lymphoma,3.12166212601007,Male
+1970,Hodgkin lymphoma,2.41150358714262,Male
+1971,Hodgkin lymphoma,3.32028369530852,Male
+1972,Hodgkin lymphoma,2.93996818196714,Male
+1973,Hodgkin lymphoma,3.09494629375418,Male
+1974,Hodgkin lymphoma,3.39185117296,Male
+1975,Hodgkin lymphoma,3.37555309967994,Male
+1976,Hodgkin lymphoma,3.37536734096471,Male
+1977,Hodgkin lymphoma,3.01010364026937,Male
+1978,Hodgkin lymphoma,3.13029718846711,Male
+1979,Hodgkin lymphoma,2.46257654074861,Male
+1980,Hodgkin lymphoma,2.88691516099879,Male
+1981,Hodgkin lymphoma,2.35566377276698,Male
+1982,Hodgkin lymphoma,2.77200686723935,Male
+1983,Hodgkin lymphoma,2.9496082211371,Male
+1984,Hodgkin lymphoma,2.51261728501048,Male
+1985,Hodgkin lymphoma,2.44013448369502,Male
+1986,Hodgkin lymphoma,2.16110957051101,Male
+1987,Hodgkin lymphoma,2.22948724633687,Male
+1988,Hodgkin lymphoma,2.09133468519757,Male
+1989,Hodgkin lymphoma,2.24811159525195,Male
+1990,Hodgkin lymphoma,1.10333144550351,Male
+1991,Hodgkin lymphoma,2.40532779774731,Male
+1992,Hodgkin lymphoma,1.96554443057687,Male
+1993,Hodgkin lymphoma,1.76635613137726,Male
+1994,Hodgkin lymphoma,1.8486390537237,Male
+1995,Hodgkin lymphoma,2.93161922464737,Male
+1996,Hodgkin lymphoma,1.9,Male
+1997,Hodgkin lymphoma,1.7,Male
+1998,Hodgkin lymphoma,2.2,Male
+1999,Hodgkin lymphoma,1.9,Male
+2000,Hodgkin lymphoma,2.2,Male
+2001,Hodgkin lymphoma,1.9,Male
+2002,Hodgkin lymphoma,2.3,Male
+2003,Hodgkin lymphoma,2.4,Male
+2004,Hodgkin lymphoma,2.2,Male
+2005,Hodgkin lymphoma,2.7,Male
+2006,Hodgkin lymphoma,2.5,Male
+2007,Hodgkin lymphoma,2.2,Male
+2008,Hodgkin lymphoma,3.1,Male
+2009,Hodgkin lymphoma,2.5,Male
+2010,Hodgkin lymphoma,2.5,Male
+2011,Hodgkin lymphoma,2.6,Male
+2012,Hodgkin lymphoma,2,Male
+2013,Hodgkin lymphoma,2.9,Male
+2014,Hodgkin lymphoma,2.3,Male
+2015,Hodgkin lymphoma,2.5,Male
+2016,Hodgkin lymphoma,2.2,Male
+2017,Hodgkin lymphoma,2.2,Male
+1948,Non-Hodgkin lymphoma,4.01130098973137,Male
+1949,Non-Hodgkin lymphoma,5.49854285866081,Male
+1950,Non-Hodgkin lymphoma,4.48699717970343,Male
+1951,Non-Hodgkin lymphoma,6.97864210024534,Male
+1952,Non-Hodgkin lymphoma,4.76505120820175,Male
+1953,Non-Hodgkin lymphoma,5.51120231843254,Male
+1954,Non-Hodgkin lymphoma,5.66267119751148,Male
+1955,Non-Hodgkin lymphoma,4.21793626534191,Male
+1956,Non-Hodgkin lymphoma,5.41671018340146,Male
+1957,Non-Hodgkin lymphoma,5.08763496944736,Male
+1958,Non-Hodgkin lymphoma,5.35208279345454,Male
+1959,Non-Hodgkin lymphoma,6.14384119716077,Male
+1960,Non-Hodgkin lymphoma,5.57454027179595,Male
+1961,Non-Hodgkin lymphoma,6.0714967593906,Male
+1962,Non-Hodgkin lymphoma,5.50692831957087,Male
+1963,Non-Hodgkin lymphoma,5.94126378051706,Male
+1964,Non-Hodgkin lymphoma,5.4915828963071,Male
+1965,Non-Hodgkin lymphoma,5.78868712688977,Male
+1966,Non-Hodgkin lymphoma,6.32833097597991,Male
+1967,Non-Hodgkin lymphoma,6.05525970086217,Male
+1968,Non-Hodgkin lymphoma,5.50054295128389,Male
+1969,Non-Hodgkin lymphoma,6.68079449301345,Male
+1970,Non-Hodgkin lymphoma,6.57814522219188,Male
+1971,Non-Hodgkin lymphoma,8.35767434077632,Male
+1972,Non-Hodgkin lymphoma,6.7041343975153,Male
+1973,Non-Hodgkin lymphoma,7.55910330256103,Male
+1974,Non-Hodgkin lymphoma,6.67425850038372,Male
+1975,Non-Hodgkin lymphoma,9.03688921513919,Male
+1976,Non-Hodgkin lymphoma,7.06691248707032,Male
+1977,Non-Hodgkin lymphoma,7.85723375935112,Male
+1978,Non-Hodgkin lymphoma,6.61580167144965,Male
+1979,Non-Hodgkin lymphoma,6.45857944929365,Male
+1980,Non-Hodgkin lymphoma,8.56724105504653,Male
+1981,Non-Hodgkin lymphoma,8.31597010782904,Male
+1982,Non-Hodgkin lymphoma,9.70136555557181,Male
+1983,Non-Hodgkin lymphoma,8.37748617600185,Male
+1984,Non-Hodgkin lymphoma,8.72562308186402,Male
+1985,Non-Hodgkin lymphoma,10.5661624500923,Male
+1986,Non-Hodgkin lymphoma,9.24303677304722,Male
+1987,Non-Hodgkin lymphoma,11.0213576564323,Male
+1988,Non-Hodgkin lymphoma,10.30230249194,Male
+1989,Non-Hodgkin lymphoma,12.0365760777312,Male
+1990,Non-Hodgkin lymphoma,12.0493841668732,Male
+1991,Non-Hodgkin lymphoma,11.4530671163805,Male
+1992,Non-Hodgkin lymphoma,11.5637273390636,Male
+1993,Non-Hodgkin lymphoma,12.1816401368549,Male
+1994,Non-Hodgkin lymphoma,13.8322763739434,Male
+1995,Non-Hodgkin lymphoma,14.4063862906585,Male
+1996,Non-Hodgkin lymphoma,14.1,Male
+1997,Non-Hodgkin lymphoma,13.8,Male
+1998,Non-Hodgkin lymphoma,14.7,Male
+1999,Non-Hodgkin lymphoma,14.9,Male
+2000,Non-Hodgkin lymphoma,13.1,Male
+2001,Non-Hodgkin lymphoma,14.3,Male
+2002,Non-Hodgkin lymphoma,12.5,Male
+2003,Non-Hodgkin lymphoma,14.7,Male
+2004,Non-Hodgkin lymphoma,14.2,Male
+2005,Non-Hodgkin lymphoma,14.5,Male
+2006,Non-Hodgkin lymphoma,15.7,Male
+2007,Non-Hodgkin lymphoma,14.1,Male
+2008,Non-Hodgkin lymphoma,15.6,Male
+2009,Non-Hodgkin lymphoma,15.9,Male
+2010,Non-Hodgkin lymphoma,15.6,Male
+2011,Non-Hodgkin lymphoma,13,Male
+2012,Non-Hodgkin lymphoma,14.3,Male
+2013,Non-Hodgkin lymphoma,14.6,Male
+2014,Non-Hodgkin lymphoma,14.4,Male
+2015,Non-Hodgkin lymphoma,14.6,Male
+2016,Non-Hodgkin lymphoma,15.4,Male
+2017,Non-Hodgkin lymphoma,15.4,Male
+1948,Myeloma,0.878105010310451,Male
+1949,Myeloma,0.213125030717701,Male
+1950,Myeloma,0.608827630099656,Male
+1951,Myeloma,0.695420201571312,Male
+1952,Myeloma,0.604750169035804,Male
+1953,Myeloma,1.05207915897399,Male
+1954,Myeloma,1.46576511471583,Male
+1955,Myeloma,1.4843947116296,Male
+1956,Myeloma,2.38160716284072,Male
+1957,Myeloma,2.41157015365652,Male
+1958,Myeloma,2.32274325185085,Male
+1959,Myeloma,1.98378155129882,Male
+1960,Myeloma,1.12578937575283,Male
+1961,Myeloma,1.72780440930424,Male
+1962,Myeloma,3.04031980766267,Male
+1963,Myeloma,2.519737369,Male
+1964,Myeloma,2.56221030727502,Male
+1965,Myeloma,2.2624779958443,Male
+1966,Myeloma,2.60842978064172,Male
+1967,Myeloma,1.95763917526041,Male
+1968,Myeloma,3.37441825347601,Male
+1969,Myeloma,4.08133095650618,Male
+1970,Myeloma,2.92513619811989,Male
+1971,Myeloma,2.10304133323547,Male
+1972,Myeloma,3.31641837521644,Male
+1973,Myeloma,4.53475587596228,Male
+1974,Myeloma,3.89381344045655,Male
+1975,Myeloma,4.4913561728109,Male
+1976,Myeloma,3.45587350969466,Male
+1977,Myeloma,4.65194596945454,Male
+1978,Myeloma,3.79970787927029,Male
+1979,Myeloma,3.20149424764463,Male
+1980,Myeloma,3.17982450700194,Male
+1981,Myeloma,4.16951272558299,Male
+1982,Myeloma,5.11170230040916,Male
+1983,Myeloma,4.19660864161564,Male
+1984,Myeloma,5.71280589056683,Male
+1985,Myeloma,5.73292075281424,Male
+1986,Myeloma,4.75437006360205,Male
+1987,Myeloma,4.63004498166931,Male
+1988,Myeloma,6.74480577188633,Male
+1989,Myeloma,3.80661159161836,Male
+1990,Myeloma,4.47648058278679,Male
+1991,Myeloma,4.78655558199421,Male
+1992,Myeloma,4.83556438692849,Male
+1993,Myeloma,4.77469995185718,Male
+1994,Myeloma,4.52458212420152,Male
+1995,Myeloma,5.47955979416778,Male
+1996,Myeloma,5.6,Male
+1997,Myeloma,5.2,Male
+1998,Myeloma,6,Male
+1999,Myeloma,6.1,Male
+2000,Myeloma,5.8,Male
+2001,Myeloma,6.2,Male
+2002,Myeloma,6.7,Male
+2003,Myeloma,4.7,Male
+2004,Myeloma,5.1,Male
+2005,Myeloma,5.3,Male
+2006,Myeloma,5.5,Male
+2007,Myeloma,5.5,Male
+2008,Myeloma,5.2,Male
+2009,Myeloma,5.6,Male
+2010,Myeloma,5.8,Male
+2011,Myeloma,5.7,Male
+2012,Myeloma,7.2,Male
+2013,Myeloma,7.1,Male
+2014,Myeloma,6.3,Male
+2015,Myeloma,6.8,Male
+2016,Myeloma,6.7,Male
+2017,Myeloma,6.2,Male
+1948,Leukaemia,6.7326210784201,Male
+1949,Leukaemia,4.60833863511961,Male
+1950,Leukaemia,6.08280630539159,Male
+1951,Leukaemia,5.20289617657894,Male
+1952,Leukaemia,5.0995411510562,Male
+1953,Leukaemia,6.04046469698066,Male
+1954,Leukaemia,6.30804562083132,Male
+1955,Leukaemia,7.38258837961054,Male
+1956,Leukaemia,7.59438873340892,Male
+1957,Leukaemia,6.79128430221424,Male
+1958,Leukaemia,7.79797601256102,Male
+1959,Leukaemia,6.79840308471378,Male
+1960,Leukaemia,8.48914244671522,Male
+1961,Leukaemia,8.63339922434581,Male
+1962,Leukaemia,8.25833587457388,Male
+1963,Leukaemia,9.20311824993809,Male
+1964,Leukaemia,8.57284077468801,Male
+1965,Leukaemia,8.89795883673922,Male
+1966,Leukaemia,7.65687124883493,Male
+1967,Leukaemia,8.02866135289355,Male
+1968,Leukaemia,7.13153173671798,Male
+1969,Leukaemia,8.77116728944214,Male
+1970,Leukaemia,7.88988668755907,Male
+1971,Leukaemia,10.639887409278,Male
+1972,Leukaemia,8.76837528462555,Male
+1973,Leukaemia,9.44513069996342,Male
+1974,Leukaemia,9.67293339278548,Male
+1975,Leukaemia,9.86754365433249,Male
+1976,Leukaemia,10.3998185296021,Male
+1977,Leukaemia,10.2074884949245,Male
+1978,Leukaemia,9.92101318043269,Male
+1979,Leukaemia,8.68887665476015,Male
+1980,Leukaemia,10.0636896472836,Male
+1981,Leukaemia,11.2114951742323,Male
+1982,Leukaemia,9.11042657193718,Male
+1983,Leukaemia,11.347987006211,Male
+1984,Leukaemia,9.54190900579432,Male
+1985,Leukaemia,9.09698118343584,Male
+1986,Leukaemia,10.6340284195219,Male
+1987,Leukaemia,11.7495991549164,Male
+1988,Leukaemia,12.4640766135372,Male
+1989,Leukaemia,12.3049695053451,Male
+1990,Leukaemia,11.5687965501186,Male
+1991,Leukaemia,11.7103930921868,Male
+1992,Leukaemia,12.0614077152371,Male
+1993,Leukaemia,12.5419410125338,Male
+1994,Leukaemia,13.134906614439,Male
+1995,Leukaemia,13.2205945303296,Male
+1996,Leukaemia,14.8,Male
+1997,Leukaemia,15.5,Male
+1998,Leukaemia,16.8,Male
+1999,Leukaemia,14.8,Male
+2000,Leukaemia,16.9,Male
+2001,Leukaemia,16.7,Male
+2002,Leukaemia,17.5,Male
+2003,Leukaemia,17.3,Male
+2004,Leukaemia,14.6,Male
+2005,Leukaemia,13.7,Male
+2006,Leukaemia,12.3,Male
+2007,Leukaemia,12.2,Male
+2008,Leukaemia,13.3,Male
+2009,Leukaemia,12.8,Male
+2010,Leukaemia,13.4,Male
+2011,Leukaemia,12.1,Male
+2012,Leukaemia,12.6,Male
+2013,Leukaemia,13.9,Male
+2014,Leukaemia,13.7,Male
+2015,Leukaemia,13.8,Male
+2016,Leukaemia,13.9,Male
+2017,Leukaemia,13.5,Male
+1948,Lip Oral Cavity and Pharynx,5.22509351754992,Female
+1949,Lip Oral Cavity and Pharynx,3.49448191325036,Female
+1950,Lip Oral Cavity and Pharynx,4.45429271853046,Female
+1951,Lip Oral Cavity and Pharynx,3.84136881559139,Female
+1952,Lip Oral Cavity and Pharynx,4.80632588628519,Female
+1953,Lip Oral Cavity and Pharynx,4.97759043190505,Female
+1954,Lip Oral Cavity and Pharynx,5.44106883231937,Female
+1955,Lip Oral Cavity and Pharynx,5.03102555508085,Female
+1956,Lip Oral Cavity and Pharynx,4.94920719269624,Female
+1957,Lip Oral Cavity and Pharynx,4.39835370267663,Female
+1958,Lip Oral Cavity and Pharynx,3.70903458541523,Female
+1959,Lip Oral Cavity and Pharynx,2.35650266489545,Female
+1960,Lip Oral Cavity and Pharynx,3.43662140546333,Female
+1961,Lip Oral Cavity and Pharynx,2.70117393487655,Female
+1962,Lip Oral Cavity and Pharynx,2.40942161629971,Female
+1963,Lip Oral Cavity and Pharynx,2.43422565480371,Female
+1964,Lip Oral Cavity and Pharynx,2.58549476585001,Female
+1965,Lip Oral Cavity and Pharynx,2.34815886642766,Female
+1966,Lip Oral Cavity and Pharynx,2.94842361963543,Female
+1967,Lip Oral Cavity and Pharynx,3.59124373737143,Female
+1968,Lip Oral Cavity and Pharynx,3.52600842327516,Female
+1969,Lip Oral Cavity and Pharynx,2.65124022285054,Female
+1970,Lip Oral Cavity and Pharynx,2.67599835619585,Female
+1971,Lip Oral Cavity and Pharynx,3.88651015051191,Female
+1972,Lip Oral Cavity and Pharynx,3.23154278723844,Female
+1973,Lip Oral Cavity and Pharynx,3.94176960227463,Female
+1974,Lip Oral Cavity and Pharynx,4.34012984041968,Female
+1975,Lip Oral Cavity and Pharynx,3.19330222630766,Female
+1976,Lip Oral Cavity and Pharynx,3.43141907517225,Female
+1977,Lip Oral Cavity and Pharynx,3.32045305993847,Female
+1978,Lip Oral Cavity and Pharynx,3.83784854457704,Female
+1979,Lip Oral Cavity and Pharynx,4.11453927202569,Female
+1980,Lip Oral Cavity and Pharynx,4.68329997010977,Female
+1981,Lip Oral Cavity and Pharynx,3.2160387865411,Female
+1982,Lip Oral Cavity and Pharynx,4.18498687888528,Female
+1983,Lip Oral Cavity and Pharynx,4.61690808471906,Female
+1984,Lip Oral Cavity and Pharynx,4.997427644816,Female
+1985,Lip Oral Cavity and Pharynx,4.52957780932662,Female
+1986,Lip Oral Cavity and Pharynx,5.17799433447629,Female
+1987,Lip Oral Cavity and Pharynx,4.34900045998677,Female
+1988,Lip Oral Cavity and Pharynx,5.36398340534978,Female
+1989,Lip Oral Cavity and Pharynx,4.6242397117575,Female
+1990,Lip Oral Cavity and Pharynx,5.06023810275399,Female
+1991,Lip Oral Cavity and Pharynx,3.47908002926187,Female
+1992,Lip Oral Cavity and Pharynx,4.21670507482929,Female
+1993,Lip Oral Cavity and Pharynx,3.26749827514087,Female
+1994,Lip Oral Cavity and Pharynx,3.31178404364612,Female
+1995,Lip Oral Cavity and Pharynx,3.55039412865543,Female
+1996,Lip Oral Cavity and Pharynx,3.6,Female
+1997,Lip Oral Cavity and Pharynx,4.3,Female
+1998,Lip Oral Cavity and Pharynx,3.7,Female
+1999,Lip Oral Cavity and Pharynx,4.2,Female
+2000,Lip Oral Cavity and Pharynx,3.4,Female
+2001,Lip Oral Cavity and Pharynx,3.7,Female
+2002,Lip Oral Cavity and Pharynx,3.5,Female
+2003,Lip Oral Cavity and Pharynx,4.2,Female
+2004,Lip Oral Cavity and Pharynx,3.8,Female
+2005,Lip Oral Cavity and Pharynx,3,Female
+2006,Lip Oral Cavity and Pharynx,3.9,Female
+2007,Lip Oral Cavity and Pharynx,4.5,Female
+2008,Lip Oral Cavity and Pharynx,3.7,Female
+2009,Lip Oral Cavity and Pharynx,3.5,Female
+2010,Lip Oral Cavity and Pharynx,4,Female
+2011,Lip Oral Cavity and Pharynx,3.8,Female
+2012,Lip Oral Cavity and Pharynx,4.4,Female
+2013,Lip Oral Cavity and Pharynx,4.7,Female
+2014,Lip Oral Cavity and Pharynx,4.2,Female
+2015,Lip Oral Cavity and Pharynx,4.3,Female
+2016,Lip Oral Cavity and Pharynx,4.7,Female
+2017,Lip Oral Cavity and Pharynx,5.1,Female
+1948,Oesophagus,0.982226681766534,Female
+1949,Oesophagus,1.53977622243668,Female
+1950,Oesophagus,1.10414014618335,Female
+1951,Oesophagus,2.33673499679083,Female
+1952,Oesophagus,1.88848928808771,Female
+1953,Oesophagus,2.2881634986047,Female
+1954,Oesophagus,2.10627254123424,Female
+1955,Oesophagus,2.65674298485321,Female
+1956,Oesophagus,1.26085125531614,Female
+1957,Oesophagus,1.63219627703236,Female
+1958,Oesophagus,2.57765664303542,Female
+1959,Oesophagus,1.57889032227132,Female
+1960,Oesophagus,2.11311873071627,Female
+1961,Oesophagus,2.46390562802486,Female
+1962,Oesophagus,1.78496972758037,Female
+1963,Oesophagus,2.50770803417331,Female
+1964,Oesophagus,2.42529852158901,Female
+1965,Oesophagus,1.9429216204667,Female
+1966,Oesophagus,2.08681650297375,Female
+1967,Oesophagus,2.6206448362687,Female
+1968,Oesophagus,2.19819327514212,Female
+1969,Oesophagus,1.92681846955016,Female
+1970,Oesophagus,2.67783765013039,Female
+1971,Oesophagus,1.70502543755653,Female
+1972,Oesophagus,2.94573763218874,Female
+1973,Oesophagus,2.21375375584702,Female
+1974,Oesophagus,2.67836328482819,Female
+1975,Oesophagus,2.94052089035764,Female
+1976,Oesophagus,2.54821056513486,Female
+1977,Oesophagus,2.0523548687156,Female
+1978,Oesophagus,2.71281072585612,Female
+1979,Oesophagus,2.83552808060287,Female
+1980,Oesophagus,2.41456500237466,Female
+1981,Oesophagus,2.73500765340768,Female
+1982,Oesophagus,2.43431654362685,Female
+1983,Oesophagus,3.07373797534394,Female
+1984,Oesophagus,2.57620117952355,Female
+1985,Oesophagus,2.17299324256349,Female
+1986,Oesophagus,3.09232612577821,Female
+1987,Oesophagus,2.72811722323174,Female
+1988,Oesophagus,2.57984240358785,Female
+1989,Oesophagus,2.82457961714433,Female
+1990,Oesophagus,2.57240851058503,Female
+1991,Oesophagus,3.45837069177282,Female
+1992,Oesophagus,2.95792321653507,Female
+1993,Oesophagus,2.71144854315343,Female
+1994,Oesophagus,3.08728401521123,Female
+1995,Oesophagus,2.27659656601109,Female
+1996,Oesophagus,2.4,Female
+1997,Oesophagus,2.2,Female
+1998,Oesophagus,1.9,Female
+1999,Oesophagus,2.4,Female
+2000,Oesophagus,2.5,Female
+2001,Oesophagus,2.3,Female
+2002,Oesophagus,2.6,Female
+2003,Oesophagus,3,Female
+2004,Oesophagus,2.1,Female
+2005,Oesophagus,2.1,Female
+2006,Oesophagus,2.9,Female
+2007,Oesophagus,2.2,Female
+2008,Oesophagus,2.5,Female
+2009,Oesophagus,2.3,Female
+2010,Oesophagus,2.5,Female
+2011,Oesophagus,2.1,Female
+2012,Oesophagus,2.4,Female
+2013,Oesophagus,2.3,Female
+2014,Oesophagus,1.9,Female
+2015,Oesophagus,2.2,Female
+2016,Oesophagus,1.9,Female
+2017,Oesophagus,2.3,Female
+1948,Stomach,7.93656902044945,Female
+1949,Stomach,9.6450759162309,Female
+1950,Stomach,11.1082207699573,Female
+1951,Stomach,8.66494748625828,Female
+1952,Stomach,10.4005339729449,Female
+1953,Stomach,10.3770781824144,Female
+1954,Stomach,11.9669596439387,Female
+1955,Stomach,9.62627173753805,Female
+1956,Stomach,8.65923558413685,Female
+1957,Stomach,9.36895614512973,Female
+1958,Stomach,9.29013950207128,Female
+1959,Stomach,8.94641727081272,Female
+1960,Stomach,8.77002660126976,Female
+1961,Stomach,9.28708424997866,Female
+1962,Stomach,9.3472921360945,Female
+1963,Stomach,8.04991204499159,Female
+1964,Stomach,9.05118035171703,Female
+1965,Stomach,9.02273286639315,Female
+1966,Stomach,8.28134216677769,Female
+1967,Stomach,7.46571870684575,Female
+1968,Stomach,7.90741261545656,Female
+1969,Stomach,7.16601527133679,Female
+1970,Stomach,7.18338827076171,Female
+1971,Stomach,8.08401396107985,Female
+1972,Stomach,9.3411405691272,Female
+1973,Stomach,8.47733656001892,Female
+1974,Stomach,7.04761785459488,Female
+1975,Stomach,7.58904081871372,Female
+1976,Stomach,8.47091844335013,Female
+1977,Stomach,8.74839572243258,Female
+1978,Stomach,7.48745067785899,Female
+1979,Stomach,7.64483491883928,Female
+1980,Stomach,7.91481443019925,Female
+1981,Stomach,8.08312333725047,Female
+1982,Stomach,9.17246794796762,Female
+1983,Stomach,7.71420924366115,Female
+1984,Stomach,6.8701006558661,Female
+1985,Stomach,7.85265058499235,Female
+1986,Stomach,5.21476577266823,Female
+1987,Stomach,6.62767022126356,Female
+1988,Stomach,6.6733796530824,Female
+1989,Stomach,6.10229614837197,Female
+1990,Stomach,6.97857624350274,Female
+1991,Stomach,5.07006645583206,Female
+1992,Stomach,6.1042774000534,Female
+1993,Stomach,4.93380882497227,Female
+1994,Stomach,5.62898737224439,Female
+1995,Stomach,5.18872544166354,Female
+1996,Stomach,5.3,Female
+1997,Stomach,5.5,Female
+1998,Stomach,6,Female
+1999,Stomach,4.7,Female
+2000,Stomach,5.1,Female
+2001,Stomach,5.2,Female
+2002,Stomach,5,Female
+2003,Stomach,4.6,Female
+2004,Stomach,4.9,Female
+2005,Stomach,4.5,Female
+2006,Stomach,4.3,Female
+2007,Stomach,4.6,Female
+2008,Stomach,3.9,Female
+2009,Stomach,3.8,Female
+2010,Stomach,4.1,Female
+2011,Stomach,4.3,Female
+2012,Stomach,4.1,Female
+2013,Stomach,4,Female
+2014,Stomach,4.1,Female
+2015,Stomach,4,Female
+2016,Stomach,3.6,Female
+2017,Stomach,3.1,Female
+1948,Colorectum and anus,21.141874175995,Female
+1949,Colorectum and anus,18.9808353320619,Female
+1950,Colorectum and anus,20.564905035772,Female
+1951,Colorectum and anus,21.2530297518703,Female
+1952,Colorectum and anus,22.4637045444983,Female
+1953,Colorectum and anus,22.9925979667752,Female
+1954,Colorectum and anus,21.518368337824,Female
+1955,Colorectum and anus,25.7682987136448,Female
+1956,Colorectum and anus,23.3321799000016,Female
+1957,Colorectum and anus,27.5800805152558,Female
+1958,Colorectum and anus,23.031958048064,Female
+1959,Colorectum and anus,25.0599148901036,Female
+1960,Colorectum and anus,25.3419534021221,Female
+1961,Colorectum and anus,28.5216048033901,Female
+1962,Colorectum and anus,25.3842447874028,Female
+1963,Colorectum and anus,29.7938058919461,Female
+1964,Colorectum and anus,28.1523705147702,Female
+1965,Colorectum and anus,29.3160282398111,Female
+1966,Colorectum and anus,29.2252724743912,Female
+1967,Colorectum and anus,31.4020545552406,Female
+1968,Colorectum and anus,33.7743899001633,Female
+1969,Colorectum and anus,33.0761728108598,Female
+1970,Colorectum and anus,36.1926483358085,Female
+1971,Colorectum and anus,40.3377782980614,Female
+1972,Colorectum and anus,39.928701482494,Female
+1973,Colorectum and anus,39.6304567436475,Female
+1974,Colorectum and anus,43.4976142507842,Female
+1975,Colorectum and anus,43.9192234840463,Female
+1976,Colorectum and anus,41.0974838121365,Female
+1977,Colorectum and anus,44.499549920992,Female
+1978,Colorectum and anus,45.9499949216333,Female
+1979,Colorectum and anus,45.0311347576894,Female
+1980,Colorectum and anus,47.2512368523552,Female
+1981,Colorectum and anus,46.6333778475704,Female
+1982,Colorectum and anus,45.7224093084522,Female
+1983,Colorectum and anus,46.3079602971327,Female
+1984,Colorectum and anus,47.20429659386,Female
+1985,Colorectum and anus,45.8102331989013,Female
+1986,Colorectum and anus,47.0637225758331,Female
+1987,Colorectum and anus,49.1006648611774,Female
+1988,Colorectum and anus,47.7047467973379,Female
+1989,Colorectum and anus,45.2191573577551,Female
+1990,Colorectum and anus,44.0910718602691,Female
+1991,Colorectum and anus,47.8170753474983,Female
+1992,Colorectum and anus,44.0995705736061,Female
+1993,Colorectum and anus,42.3134975907991,Female
+1994,Colorectum and anus,51.4049716774635,Female
+1995,Colorectum and anus,49.2671093386887,Female
+1996,Colorectum and anus,46.5,Female
+1997,Colorectum and anus,43.8,Female
+1998,Colorectum and anus,44.8,Female
+1999,Colorectum and anus,45.5,Female
+2000,Colorectum and anus,46.4,Female
+2001,Colorectum and anus,45.3,Female
+2002,Colorectum and anus,42.7,Female
+2003,Colorectum and anus,43.6,Female
+2004,Colorectum and anus,44.6,Female
+2005,Colorectum and anus,43.9,Female
+2006,Colorectum and anus,41,Female
+2007,Colorectum and anus,40.7,Female
+2008,Colorectum and anus,40.2,Female
+2009,Colorectum and anus,39.6,Female
+2010,Colorectum and anus,41.5,Female
+2011,Colorectum and anus,37.8,Female
+2012,Colorectum and anus,38.7,Female
+2013,Colorectum and anus,38,Female
+2014,Colorectum and anus,40.1,Female
+2015,Colorectum and anus,37.5,Female
+2016,Colorectum and anus,38.1,Female
+2017,Colorectum and anus,35.3,Female
+1948,Liver and intrahepatic bile ducts,2.07519543098562,Female
+1949,Liver and intrahepatic bile ducts,2.00485948544998,Female
+1950,Liver and intrahepatic bile ducts,2.50645370613515,Female
+1951,Liver and intrahepatic bile ducts,2.67828178604044,Female
+1952,Liver and intrahepatic bile ducts,3.07623246761362,Female
+1953,Liver and intrahepatic bile ducts,2.88749812769495,Female
+1954,Liver and intrahepatic bile ducts,2.49688317751241,Female
+1955,Liver and intrahepatic bile ducts,3.15240196952426,Female
+1956,Liver and intrahepatic bile ducts,2.54757153096572,Female
+1957,Liver and intrahepatic bile ducts,2.94167159536113,Female
+1958,Liver and intrahepatic bile ducts,2.64174581699401,Female
+1959,Liver and intrahepatic bile ducts,2.98347935972835,Female
+1960,Liver and intrahepatic bile ducts,3.13817616819296,Female
+1961,Liver and intrahepatic bile ducts,2.93220328318181,Female
+1962,Liver and intrahepatic bile ducts,3.55640889652421,Female
+1963,Liver and intrahepatic bile ducts,3.15653581729003,Female
+1964,Liver and intrahepatic bile ducts,2.68272214895189,Female
+1965,Liver and intrahepatic bile ducts,2.80826117910776,Female
+1966,Liver and intrahepatic bile ducts,2.52507640678205,Female
+1967,Liver and intrahepatic bile ducts,2.74282617233739,Female
+1968,Liver and intrahepatic bile ducts,0.992631696123709,Female
+1969,Liver and intrahepatic bile ducts,0.577885127797727,Female
+1970,Liver and intrahepatic bile ducts,1.12384923073299,Female
+1971,Liver and intrahepatic bile ducts,1.18206217630046,Female
+1972,Liver and intrahepatic bile ducts,1.15920714339096,Female
+1973,Liver and intrahepatic bile ducts,0.755035177136853,Female
+1974,Liver and intrahepatic bile ducts,0.874767899146613,Female
+1975,Liver and intrahepatic bile ducts,1.50167310112692,Female
+1976,Liver and intrahepatic bile ducts,1.09716897414614,Female
+1977,Liver and intrahepatic bile ducts,0.883443027790306,Female
+1978,Liver and intrahepatic bile ducts,1.09057929005914,Female
+1979,Liver and intrahepatic bile ducts,1.49489394690571,Female
+1980,Liver and intrahepatic bile ducts,1.16390868926862,Female
+1981,Liver and intrahepatic bile ducts,1.50519407061718,Female
+1982,Liver and intrahepatic bile ducts,1.77973875993254,Female
+1983,Liver and intrahepatic bile ducts,1.397924291611,Female
+1984,Liver and intrahepatic bile ducts,1.13318949143613,Female
+1985,Liver and intrahepatic bile ducts,0.675566979451252,Female
+1986,Liver and intrahepatic bile ducts,0.926564585238334,Female
+1987,Liver and intrahepatic bile ducts,1.67962680467257,Female
+1988,Liver and intrahepatic bile ducts,1.4326695580479,Female
+1989,Liver and intrahepatic bile ducts,1.70103776006133,Female
+1990,Liver and intrahepatic bile ducts,1.33523468936336,Female
+1991,Liver and intrahepatic bile ducts,1.97668245228309,Female
+1992,Liver and intrahepatic bile ducts,1.40211723266323,Female
+1993,Liver and intrahepatic bile ducts,1.4907764314345,Female
+1994,Liver and intrahepatic bile ducts,1.57313215756947,Female
+1995,Liver and intrahepatic bile ducts,1.48889640725537,Female
+1996,Liver and intrahepatic bile ducts,2.1,Female
+1997,Liver and intrahepatic bile ducts,2,Female
+1998,Liver and intrahepatic bile ducts,1.2,Female
+1999,Liver and intrahepatic bile ducts,1.4,Female
+2000,Liver and intrahepatic bile ducts,2,Female
+2001,Liver and intrahepatic bile ducts,2,Female
+2002,Liver and intrahepatic bile ducts,1.8,Female
+2003,Liver and intrahepatic bile ducts,1.9,Female
+2004,Liver and intrahepatic bile ducts,1.5,Female
+2005,Liver and intrahepatic bile ducts,2.5,Female
+2006,Liver and intrahepatic bile ducts,2.4,Female
+2007,Liver and intrahepatic bile ducts,2.3,Female
+2008,Liver and intrahepatic bile ducts,2.3,Female
+2009,Liver and intrahepatic bile ducts,2.3,Female
+2010,Liver and intrahepatic bile ducts,2.1,Female
+2011,Liver and intrahepatic bile ducts,2.7,Female
+2012,Liver and intrahepatic bile ducts,2.5,Female
+2013,Liver and intrahepatic bile ducts,2.4,Female
+2014,Liver and intrahepatic bile ducts,2.9,Female
+2015,Liver and intrahepatic bile ducts,2.7,Female
+2016,Liver and intrahepatic bile ducts,2.5,Female
+2017,Liver and intrahepatic bile ducts,2.8,Female
+1948,Pancreas,2.32803809678129,Female
+1949,Pancreas,4.2883210470943,Female
+1950,Pancreas,2.37522878291938,Female
+1951,Pancreas,3.33803254571702,Female
+1952,Pancreas,2.39438878827826,Female
+1953,Pancreas,3.22969402141087,Female
+1954,Pancreas,3.20177606288473,Female
+1955,Pancreas,3.86702240268038,Female
+1956,Pancreas,3.68202561577959,Female
+1957,Pancreas,3.99493139959956,Female
+1958,Pancreas,3.09807757527607,Female
+1959,Pancreas,3.30723466160751,Female
+1960,Pancreas,4.29959288000036,Female
+1961,Pancreas,4.29537685592521,Female
+1962,Pancreas,3.65193371065489,Female
+1963,Pancreas,5.13287409929079,Female
+1964,Pancreas,5.26702237143143,Female
+1965,Pancreas,4.28684515834153,Female
+1966,Pancreas,4.9658006187024,Female
+1967,Pancreas,4.63109648235207,Female
+1968,Pancreas,4.02279189256701,Female
+1969,Pancreas,4.03732428842558,Female
+1970,Pancreas,5.36665798285821,Female
+1971,Pancreas,4.19563948355586,Female
+1972,Pancreas,4.92179369574803,Female
+1973,Pancreas,4.8402863824982,Female
+1974,Pancreas,5.55093255606015,Female
+1975,Pancreas,6.26179424069336,Female
+1976,Pancreas,6.64501430719834,Female
+1977,Pancreas,6.15062542143594,Female
+1978,Pancreas,6.67161526907837,Female
+1979,Pancreas,5.80919802865556,Female
+1980,Pancreas,5.47073311064406,Female
+1981,Pancreas,5.3394516932581,Female
+1982,Pancreas,5.13553186524094,Female
+1983,Pancreas,5.40081781846667,Female
+1984,Pancreas,5.54946305549286,Female
+1985,Pancreas,7.00902147436473,Female
+1986,Pancreas,5.45605843196581,Female
+1987,Pancreas,5.67874015221017,Female
+1988,Pancreas,4.83291916201555,Female
+1989,Pancreas,5.68171875596564,Female
+1990,Pancreas,5.16908438577801,Female
+1991,Pancreas,6.52520196140091,Female
+1992,Pancreas,4.85505123189713,Female
+1993,Pancreas,5.39959972337338,Female
+1994,Pancreas,5.80017522308059,Female
+1995,Pancreas,6.14639073246962,Female
+1996,Pancreas,6.7,Female
+1997,Pancreas,5.6,Female
+1998,Pancreas,5.8,Female
+1999,Pancreas,4.8,Female
+2000,Pancreas,5.7,Female
+2001,Pancreas,4.8,Female
+2002,Pancreas,5.1,Female
+2003,Pancreas,5.3,Female
+2004,Pancreas,5.8,Female
+2005,Pancreas,6.4,Female
+2006,Pancreas,6.1,Female
+2007,Pancreas,5.9,Female
+2008,Pancreas,6.6,Female
+2009,Pancreas,6.6,Female
+2010,Pancreas,6.6,Female
+2011,Pancreas,6.3,Female
+2012,Pancreas,7.2,Female
+2013,Pancreas,6.5,Female
+2014,Pancreas,7.2,Female
+2015,Pancreas,7,Female
+2016,Pancreas,6.6,Female
+2017,Pancreas,6.6,Female
+1948,Lung & Trachea,1.95201107972126,Female
+1949,Lung & Trachea,1.49547697255806,Female
+1950,Lung & Trachea,2.08489351674603,Female
+1951,Lung & Trachea,2.73525590048695,Female
+1952,Lung & Trachea,2.72404968347773,Female
+1953,Lung & Trachea,2.83831304940814,Female
+1954,Lung & Trachea,2.24128481193693,Female
+1955,Lung & Trachea,3.93586469628734,Female
+1956,Lung & Trachea,4.35195017964635,Female
+1957,Lung & Trachea,3.57968232926966,Female
+1958,Lung & Trachea,3.97890766418098,Female
+1959,Lung & Trachea,3.82427816012659,Female
+1960,Lung & Trachea,4.49456811827272,Female
+1961,Lung & Trachea,5.73366685068919,Female
+1962,Lung & Trachea,5.40500055595988,Female
+1963,Lung & Trachea,5.82303866154743,Female
+1964,Lung & Trachea,6.56671629313607,Female
+1965,Lung & Trachea,5.70473491046438,Female
+1966,Lung & Trachea,8.18860635102373,Female
+1967,Lung & Trachea,6.64171488730207,Female
+1968,Lung & Trachea,8.28273286795598,Female
+1969,Lung & Trachea,8.87872150513976,Female
+1970,Lung & Trachea,9.56591518785399,Female
+1971,Lung & Trachea,10.489375347441,Female
+1972,Lung & Trachea,12.1038919606688,Female
+1973,Lung & Trachea,12.4413365476259,Female
+1974,Lung & Trachea,14.0901999812509,Female
+1975,Lung & Trachea,14.4040249510387,Female
+1976,Lung & Trachea,14.6266692186189,Female
+1977,Lung & Trachea,15.911329185233,Female
+1978,Lung & Trachea,16.808834425443,Female
+1979,Lung & Trachea,16.9189313453415,Female
+1980,Lung & Trachea,17.4331672471761,Female
+1981,Lung & Trachea,17.2545865235784,Female
+1982,Lung & Trachea,17.8131355431578,Female
+1983,Lung & Trachea,17.0020571813519,Female
+1984,Lung & Trachea,20.2244092663915,Female
+1985,Lung & Trachea,18.4218143286603,Female
+1986,Lung & Trachea,19.1271775481305,Female
+1987,Lung & Trachea,21.009517297465,Female
+1988,Lung & Trachea,23.2729064778938,Female
+1989,Lung & Trachea,23.4199486633537,Female
+1990,Lung & Trachea,22.3449764563931,Female
+1991,Lung & Trachea,22.2734289148575,Female
+1992,Lung & Trachea,23.2383656332359,Female
+1993,Lung & Trachea,23.5863252365515,Female
+1994,Lung & Trachea,25.0371993883018,Female
+1995,Lung & Trachea,22.8367586944221,Female
+1996,Lung & Trachea,24.7,Female
+1997,Lung & Trachea,24.2,Female
+1998,Lung & Trachea,21.3,Female
+1999,Lung & Trachea,23,Female
+2000,Lung & Trachea,25.5,Female
+2001,Lung & Trachea,23.8,Female
+2002,Lung & Trachea,24.5,Female
+2003,Lung & Trachea,28.2,Female
+2004,Lung & Trachea,26.1,Female
+2005,Lung & Trachea,24.3,Female
+2006,Lung & Trachea,25.6,Female
+2007,Lung & Trachea,25.4,Female
+2008,Lung & Trachea,27.7,Female
+2009,Lung & Trachea,27.5,Female
+2010,Lung & Trachea,26.2,Female
+2011,Lung & Trachea,28,Female
+2012,Lung & Trachea,27.4,Female
+2013,Lung & Trachea,27.7,Female
+2014,Lung & Trachea,28.2,Female
+2015,Lung & Trachea,29,Female
+2016,Lung & Trachea,27.5,Female
+2017,Lung & Trachea,27.5,Female
+1948,Melanoma,3.39086388884104,Female
+1949,Melanoma,2.79106304230057,Female
+1950,Melanoma,1.51984768278306,Female
+1951,Melanoma,3.59137923632958,Female
+1952,Melanoma,4.3065015268555,Female
+1953,Melanoma,4.59628691336336,Female
+1954,Melanoma,4.28918744051027,Female
+1955,Melanoma,4.91525969827137,Female
+1956,Melanoma,6.72486296976873,Female
+1957,Melanoma,4.14391916849249,Female
+1958,Melanoma,5.4581405493975,Female
+1959,Melanoma,4.65418275541494,Female
+1960,Melanoma,6.99937126352917,Female
+1961,Melanoma,6.47821857664011,Female
+1962,Melanoma,6.72877312731308,Female
+1963,Melanoma,7.30805758100298,Female
+1964,Melanoma,6.62597726153586,Female
+1965,Melanoma,8.59005644817004,Female
+1966,Melanoma,9.16794976794813,Female
+1967,Melanoma,8.19264775062965,Female
+1968,Melanoma,9.30494157504947,Female
+1969,Melanoma,12.3337565555069,Female
+1970,Melanoma,10.8672009294663,Female
+1971,Melanoma,14.5498153219803,Female
+1972,Melanoma,15.9975894102863,Female
+1973,Melanoma,19.4985126437442,Female
+1974,Melanoma,18.3787567759912,Female
+1975,Melanoma,19.406405558712,Female
+1976,Melanoma,20.999460335303,Female
+1977,Melanoma,20.3581779546373,Female
+1978,Melanoma,21.5437030349887,Female
+1979,Melanoma,18.5427847685377,Female
+1980,Melanoma,23.0432697288729,Female
+1981,Melanoma,24.2117272114907,Female
+1982,Melanoma,25.9763050583306,Female
+1983,Melanoma,24.0077027597015,Female
+1984,Melanoma,25.2003551197738,Female
+1985,Melanoma,21.3794289449016,Female
+1986,Melanoma,24.296729900645,Female
+1987,Melanoma,25.4908662392595,Female
+1988,Melanoma,32.8998181059837,Female
+1989,Melanoma,29.2808888811538,Female
+1990,Melanoma,24.5599872913259,Female
+1991,Melanoma,29.1047446024044,Female
+1992,Melanoma,27.4299770375915,Female
+1993,Melanoma,25.7271274147841,Female
+1994,Melanoma,36.0786251960438,Female
+1995,Melanoma,42.6725351005673,Female
+1996,Melanoma,34.8,Female
+1997,Melanoma,32.3,Female
+1998,Melanoma,32,Female
+1999,Melanoma,31.4,Female
+2000,Melanoma,35.7,Female
+2001,Melanoma,35.9,Female
+2002,Melanoma,36.6,Female
+2003,Melanoma,35.1,Female
+2004,Melanoma,35.6,Female
+2005,Melanoma,34.6,Female
+2006,Melanoma,33.6,Female
+2007,Melanoma,36.6,Female
+2008,Melanoma,37.2,Female
+2009,Melanoma,33.7,Female
+2010,Melanoma,36.2,Female
+2011,Melanoma,33.1,Female
+2012,Melanoma,34,Female
+2013,Melanoma,35.9,Female
+2014,Melanoma,31.2,Female
+2015,Melanoma,31,Female
+2016,Melanoma,31.5,Female
+2017,Melanoma,30.8,Female
+1948,Kidney and other urinary,1.79352220210458,Female
+1949,Kidney and other urinary,1.90637114276489,Female
+1950,Kidney and other urinary,1.40035928369513,Female
+1951,Kidney and other urinary,2.37010895438476,Female
+1952,Kidney and other urinary,2.14626587316,Female
+1953,Kidney and other urinary,2.45601109122338,Female
+1954,Kidney and other urinary,2.06367226480399,Female
+1955,Kidney and other urinary,2.14940399486365,Female
+1956,Kidney and other urinary,2.50375868122076,Female
+1957,Kidney and other urinary,2.42582166507036,Female
+1958,Kidney and other urinary,1.98631206880385,Female
+1959,Kidney and other urinary,2.58917528510961,Female
+1960,Kidney and other urinary,3.04339474017124,Female
+1961,Kidney and other urinary,1.44626858480959,Female
+1962,Kidney and other urinary,2.24241252198201,Female
+1963,Kidney and other urinary,1.98261966247178,Female
+1964,Kidney and other urinary,2.75117341440912,Female
+1965,Kidney and other urinary,2.58324812925864,Female
+1966,Kidney and other urinary,3.50321554254127,Female
+1967,Kidney and other urinary,2.63801055161188,Female
+1968,Kidney and other urinary,2.60619110865088,Female
+1969,Kidney and other urinary,3.61861705325384,Female
+1970,Kidney and other urinary,3.51257310005365,Female
+1971,Kidney and other urinary,3.59874222016785,Female
+1972,Kidney and other urinary,3.25652677554443,Female
+1973,Kidney and other urinary,2.62954443942106,Female
+1974,Kidney and other urinary,2.94105750564505,Female
+1975,Kidney and other urinary,3.34196825044811,Female
+1976,Kidney and other urinary,3.83108897583543,Female
+1977,Kidney and other urinary,3.72416137827297,Female
+1978,Kidney and other urinary,3.07115494594844,Female
+1979,Kidney and other urinary,3.65384503963095,Female
+1980,Kidney and other urinary,2.6959903140447,Female
+1981,Kidney and other urinary,3.55950363864452,Female
+1982,Kidney and other urinary,4.26051654145684,Female
+1983,Kidney and other urinary,4.2507683002913,Female
+1984,Kidney and other urinary,3.83408365762367,Female
+1985,Kidney and other urinary,3.97042085834351,Female
+1986,Kidney and other urinary,4.05746280393488,Female
+1987,Kidney and other urinary,4.00890159775346,Female
+1988,Kidney and other urinary,4.06486043388012,Female
+1989,Kidney and other urinary,4.03059072804545,Female
+1990,Kidney and other urinary,4.79907352398894,Female
+1991,Kidney and other urinary,5.20792517721331,Female
+1992,Kidney and other urinary,5.1468465356849,Female
+1993,Kidney and other urinary,4.46200336232794,Female
+1994,Kidney and other urinary,4.87961250457283,Female
+1995,Kidney and other urinary,5.31401058807416,Female
+1996,Kidney and other urinary,5.3,Female
+1997,Kidney and other urinary,6.5,Female
+1998,Kidney and other urinary,4.7,Female
+1999,Kidney and other urinary,6.1,Female
+2000,Kidney and other urinary,4.8,Female
+2001,Kidney and other urinary,5.8,Female
+2002,Kidney and other urinary,5.6,Female
+2003,Kidney and other urinary,5.7,Female
+2004,Kidney and other urinary,6.4,Female
+2005,Kidney and other urinary,5.6,Female
+2006,Kidney and other urinary,4.6,Female
+2007,Kidney and other urinary,5.7,Female
+2008,Kidney and other urinary,6.3,Female
+2009,Kidney and other urinary,6.1,Female
+2010,Kidney and other urinary,6.3,Female
+2011,Kidney and other urinary,6,Female
+2012,Kidney and other urinary,5.6,Female
+2013,Kidney and other urinary,5.8,Female
+2014,Kidney and other urinary,6.8,Female
+2015,Kidney and other urinary,5.8,Female
+2016,Kidney and other urinary,6.7,Female
+2017,Kidney and other urinary,6.1,Female
+1948,Bladder,1.61034366131872,Female
+1949,Bladder,2.12184594854265,Female
+1950,Bladder,1.45819164088524,Female
+1951,Bladder,1.86581327589658,Female
+1952,Bladder,1.63577741771076,Female
+1953,Bladder,1.88363032598248,Female
+1954,Bladder,1.85216935435359,Female
+1955,Bladder,2.50711010518479,Female
+1956,Bladder,1.98566867687771,Female
+1957,Bladder,2.0434950023452,Female
+1958,Bladder,1.6846074102921,Female
+1959,Bladder,2.22599476869354,Female
+1960,Bladder,2.09011283074141,Female
+1961,Bladder,2.45862559025144,Female
+1962,Bladder,2.23571346500431,Female
+1963,Bladder,1.85104864318235,Female
+1964,Bladder,2.46181646567877,Female
+1965,Bladder,1.86257797157872,Female
+1966,Bladder,2.27476194510704,Female
+1967,Bladder,3.32514404405597,Female
+1968,Bladder,2.99282709882512,Female
+1969,Bladder,2.45988805112881,Female
+1970,Bladder,3.33090125887923,Female
+1971,Bladder,3.01089039460779,Female
+1972,Bladder,3.77034043365561,Female
+1973,Bladder,3.08826071798078,Female
+1974,Bladder,3.38920505117744,Female
+1975,Bladder,4.63910910659629,Female
+1976,Bladder,4.18048890845085,Female
+1977,Bladder,4.16226327521105,Female
+1978,Bladder,3.3761510056843,Female
+1979,Bladder,4.09837456202715,Female
+1980,Bladder,3.75335212398499,Female
+1981,Bladder,4.29223726353815,Female
+1982,Bladder,3.98284846915304,Female
+1983,Bladder,3.82771479113813,Female
+1984,Bladder,3.60797022334381,Female
+1985,Bladder,3.89628737984735,Female
+1986,Bladder,4.33988037756511,Female
+1987,Bladder,3.8778652081937,Female
+1988,Bladder,4.23918775242043,Female
+1989,Bladder,2.84044847473424,Female
+1990,Bladder,4.05565744253234,Female
+1991,Bladder,4.78762858597796,Female
+1992,Bladder,4.64586409699055,Female
+1993,Bladder,4.39250082983559,Female
+1994,Bladder,6.1125995412171,Female
+1995,Bladder,5.38515685637046,Female
+1996,Bladder,5,Female
+1997,Bladder,4.8,Female
+1998,Bladder,5.2,Female
+1999,Bladder,5,Female
+2000,Bladder,5.7,Female
+2001,Bladder,4.8,Female
+2002,Bladder,4.4,Female
+2003,Bladder,4.4,Female
+2004,Bladder,4.4,Female
+2005,Bladder,2,Female
+2006,Bladder,2.2,Female
+2007,Bladder,2.7,Female
+2008,Bladder,3.1,Female
+2009,Bladder,2.9,Female
+2010,Bladder,2.6,Female
+2011,Bladder,2.3,Female
+2012,Bladder,2.1,Female
+2013,Bladder,2.4,Female
+2014,Bladder,2.7,Female
+2015,Bladder,2.5,Female
+2016,Bladder,2.3,Female
+2017,Bladder,2.5,Female
+1948,Brain,1.5756060902978,Female
+1949,Brain,2.0128327102557,Female
+1950,Brain,3.01371992457962,Female
+1951,Brain,2.27165813149938,Female
+1952,Brain,3.02082691033096,Female
+1953,Brain,3.47873513747504,Female
+1954,Brain,3.18364484287168,Female
+1955,Brain,2.66578623390976,Female
+1956,Brain,3.71746071840165,Female
+1957,Brain,3.99170844549296,Female
+1958,Brain,4.05448076153794,Female
+1959,Brain,3.31088364403551,Female
+1960,Brain,3.01494028119771,Female
+1961,Brain,2.92492702319095,Female
+1962,Brain,3.41230305250697,Female
+1963,Brain,4.78550765279336,Female
+1964,Brain,4.07755797601549,Female
+1965,Brain,4.00975299639137,Female
+1966,Brain,3.17126855659725,Female
+1967,Brain,3.69171909152109,Female
+1968,Brain,3.74892375196943,Female
+1969,Brain,3.25610061060858,Female
+1970,Brain,4.06211090874509,Female
+1971,Brain,2.94142667992107,Female
+1972,Brain,4.03376614793362,Female
+1973,Brain,4.46519103116774,Female
+1974,Brain,2.94799162090986,Female
+1975,Brain,5.1475834374861,Female
+1976,Brain,4.91959015400192,Female
+1977,Brain,3.96485121954232,Female
+1978,Brain,3.61573762954496,Female
+1979,Brain,4.12523847535961,Female
+1980,Brain,5.19210355887571,Female
+1981,Brain,5.60244779956268,Female
+1982,Brain,3.82472193219726,Female
+1983,Brain,4.95752029241143,Female
+1984,Brain,5.30027808936202,Female
+1985,Brain,5.08786907985786,Female
+1986,Brain,4.94805872242738,Female
+1987,Brain,5.00443271511708,Female
+1988,Brain,5.13806300137751,Female
+1989,Brain,4.67506106993682,Female
+1990,Brain,4.2022957638333,Female
+1991,Brain,5.29410409106086,Female
+1992,Brain,5.07612784582922,Female
+1993,Brain,5.19915450348893,Female
+1994,Brain,4.81059452721836,Female
+1995,Brain,4.99558305906048,Female
+1996,Brain,5.5,Female
+1997,Brain,4.1,Female
+1998,Brain,4.4,Female
+1999,Brain,4.3,Female
+2000,Brain,4.1,Female
+2001,Brain,4.8,Female
+2002,Brain,4.2,Female
+2003,Brain,4.7,Female
+2004,Brain,4.6,Female
+2005,Brain,3.8,Female
+2006,Brain,3.8,Female
+2007,Brain,4.9,Female
+2008,Brain,4,Female
+2009,Brain,4,Female
+2010,Brain,4.6,Female
+2011,Brain,3.8,Female
+2012,Brain,4.3,Female
+2013,Brain,4.8,Female
+2014,Brain,3.7,Female
+2015,Brain,4.5,Female
+2016,Brain,4.2,Female
+2017,Brain,4.7,Female
+1948,Thyroid,0.86739716533812,Female
+1949,Thyroid,1.23117751942022,Female
+1950,Thyroid,1.0910397319479,Female
+1951,Thyroid,1.09124668392307,Female
+1952,Thyroid,1.36139305321506,Female
+1953,Thyroid,1.07092668203517,Female
+1954,Thyroid,1.88832085427925,Female
+1955,Thyroid,1.83572915811413,Female
+1956,Thyroid,1.33224110873835,Female
+1957,Thyroid,1.97734901762502,Female
+1958,Thyroid,1.50278141099723,Female
+1959,Thyroid,2.31089742906785,Female
+1960,Thyroid,1.14270796047568,Female
+1961,Thyroid,1.24168965326107,Female
+1962,Thyroid,2.45269585298767,Female
+1963,Thyroid,2.32612568836469,Female
+1964,Thyroid,2.67706466101378,Female
+1965,Thyroid,2.18612403366124,Female
+1966,Thyroid,2.43463065198089,Female
+1967,Thyroid,1.96788923285976,Female
+1968,Thyroid,2.55384816021302,Female
+1969,Thyroid,1.68221429084956,Female
+1970,Thyroid,2.44998999051285,Female
+1971,Thyroid,2.45556551528483,Female
+1972,Thyroid,3.28788185514778,Female
+1973,Thyroid,3.16279788130544,Female
+1974,Thyroid,3.71192642556816,Female
+1975,Thyroid,4.29049143302643,Female
+1976,Thyroid,3.14649523495532,Female
+1977,Thyroid,3.03790718347742,Female
+1978,Thyroid,3.0963909437614,Female
+1979,Thyroid,2.54101882794219,Female
+1980,Thyroid,3.16836967341765,Female
+1981,Thyroid,3.94091038803461,Female
+1982,Thyroid,3.53397098547082,Female
+1983,Thyroid,3.40816511711734,Female
+1984,Thyroid,2.84299513080994,Female
+1985,Thyroid,3.39566308198926,Female
+1986,Thyroid,3.56834865830668,Female
+1987,Thyroid,3.57233996580023,Female
+1988,Thyroid,3.60796367923887,Female
+1989,Thyroid,4.30999208246001,Female
+1990,Thyroid,4.11659975165491,Female
+1991,Thyroid,3.86510608113578,Female
+1992,Thyroid,3.71619367273421,Female
+1993,Thyroid,3.06914678081044,Female
+1994,Thyroid,3.44005780070692,Female
+1995,Thyroid,3.8378010872513,Female
+1996,Thyroid,3.9,Female
+1997,Thyroid,5.4,Female
+1998,Thyroid,5.5,Female
+1999,Thyroid,6.6,Female
+2000,Thyroid,5.4,Female
+2001,Thyroid,4.9,Female
+2002,Thyroid,5.1,Female
+2003,Thyroid,5.5,Female
+2004,Thyroid,5.7,Female
+2005,Thyroid,4.8,Female
+2006,Thyroid,6.7,Female
+2007,Thyroid,7.6,Female
+2008,Thyroid,7.5,Female
+2009,Thyroid,5.9,Female
+2010,Thyroid,7.4,Female
+2011,Thyroid,7.2,Female
+2012,Thyroid,8,Female
+2013,Thyroid,8.3,Female
+2014,Thyroid,7.8,Female
+2015,Thyroid,7.9,Female
+2016,Thyroid,9.1,Female
+2017,Thyroid,7.8,Female
+1948,Hodgkin lymphoma,0.782895755391109,Female
+1949,Hodgkin lymphoma,1.66053904852956,Female
+1950,Hodgkin lymphoma,1.49911322693248,Female
+1951,Hodgkin lymphoma,1.17739700450478,Female
+1952,Hodgkin lymphoma,1.39672897096613,Female
+1953,Hodgkin lymphoma,1.37971481368696,Female
+1954,Hodgkin lymphoma,0.717009394043948,Female
+1955,Hodgkin lymphoma,1.33693768712457,Female
+1956,Hodgkin lymphoma,0.956140976606669,Female
+1957,Hodgkin lymphoma,1.41082188356996,Female
+1958,Hodgkin lymphoma,1.46906185617425,Female
+1959,Hodgkin lymphoma,1.38893928179224,Female
+1960,Hodgkin lymphoma,1.37890492610411,Female
+1961,Hodgkin lymphoma,2.05304617199541,Female
+1962,Hodgkin lymphoma,1.10849141246531,Female
+1963,Hodgkin lymphoma,2.09029257824511,Female
+1964,Hodgkin lymphoma,1.72097444518973,Female
+1965,Hodgkin lymphoma,2.35875135100722,Female
+1966,Hodgkin lymphoma,1.41295573020151,Female
+1967,Hodgkin lymphoma,1.5016829547762,Female
+1968,Hodgkin lymphoma,2.31368878749693,Female
+1969,Hodgkin lymphoma,1.73535138668817,Female
+1970,Hodgkin lymphoma,1.2448373562756,Female
+1971,Hodgkin lymphoma,1.31882052096228,Female
+1972,Hodgkin lymphoma,2.87912592612049,Female
+1973,Hodgkin lymphoma,2.30861069461317,Female
+1974,Hodgkin lymphoma,2.32101695453873,Female
+1975,Hodgkin lymphoma,1.51577514833308,Female
+1976,Hodgkin lymphoma,1.98144145618271,Female
+1977,Hodgkin lymphoma,1.76026870511178,Female
+1978,Hodgkin lymphoma,2.2112296853783,Female
+1979,Hodgkin lymphoma,2.44722345905551,Female
+1980,Hodgkin lymphoma,1.84903845040382,Female
+1981,Hodgkin lymphoma,1.45796066408974,Female
+1982,Hodgkin lymphoma,2.25039389802506,Female
+1983,Hodgkin lymphoma,2.04981871982475,Female
+1984,Hodgkin lymphoma,1.60784900272255,Female
+1985,Hodgkin lymphoma,2.07884063054996,Female
+1986,Hodgkin lymphoma,1.22438875525672,Female
+1987,Hodgkin lymphoma,2.20410606881763,Female
+1988,Hodgkin lymphoma,1.21584701928775,Female
+1989,Hodgkin lymphoma,1.29219053532023,Female
+1990,Hodgkin lymphoma,0.853066932494573,Female
+1991,Hodgkin lymphoma,1.90407022710648,Female
+1992,Hodgkin lymphoma,1.20431112414195,Female
+1993,Hodgkin lymphoma,1.27791974267334,Female
+1994,Hodgkin lymphoma,1.08714645263929,Female
+1995,Hodgkin lymphoma,0.990084667874237,Female
+1996,Hodgkin lymphoma,1.7,Female
+1997,Hodgkin lymphoma,1.4,Female
+1998,Hodgkin lymphoma,1.3,Female
+1999,Hodgkin lymphoma,1.4,Female
+2000,Hodgkin lymphoma,1.7,Female
+2001,Hodgkin lymphoma,2.4,Female
+2002,Hodgkin lymphoma,2,Female
+2003,Hodgkin lymphoma,1.3,Female
+2004,Hodgkin lymphoma,1.5,Female
+2005,Hodgkin lymphoma,1.7,Female
+2006,Hodgkin lymphoma,1.6,Female
+2007,Hodgkin lymphoma,1.7,Female
+2008,Hodgkin lymphoma,2.1,Female
+2009,Hodgkin lymphoma,2.1,Female
+2010,Hodgkin lymphoma,2.1,Female
+2011,Hodgkin lymphoma,1.7,Female
+2012,Hodgkin lymphoma,1.8,Female
+2013,Hodgkin lymphoma,2.3,Female
+2014,Hodgkin lymphoma,2,Female
+2015,Hodgkin lymphoma,1.9,Female
+2016,Hodgkin lymphoma,1.6,Female
+2017,Hodgkin lymphoma,2.1,Female
+1948,Non-Hodgkin lymphoma,3.00376468002179,Female
+1949,Non-Hodgkin lymphoma,2.24536630041258,Female
+1950,Non-Hodgkin lymphoma,2.85916474961894,Female
+1951,Non-Hodgkin lymphoma,3.80846173079536,Female
+1952,Non-Hodgkin lymphoma,3.40385906689515,Female
+1953,Non-Hodgkin lymphoma,1.62930446897664,Female
+1954,Non-Hodgkin lymphoma,3.5433542379982,Female
+1955,Non-Hodgkin lymphoma,3.36670454766049,Female
+1956,Non-Hodgkin lymphoma,2.87831309459809,Female
+1957,Non-Hodgkin lymphoma,4.02985126903895,Female
+1958,Non-Hodgkin lymphoma,2.52535483388633,Female
+1959,Non-Hodgkin lymphoma,3.92762443207044,Female
+1960,Non-Hodgkin lymphoma,3.14581352874034,Female
+1961,Non-Hodgkin lymphoma,5.24490065125301,Female
+1962,Non-Hodgkin lymphoma,3.43905734024264,Female
+1963,Non-Hodgkin lymphoma,4.05276038398473,Female
+1964,Non-Hodgkin lymphoma,3.66651673388488,Female
+1965,Non-Hodgkin lymphoma,4.06563141296283,Female
+1966,Non-Hodgkin lymphoma,4.16602983898155,Female
+1967,Non-Hodgkin lymphoma,5.22685398630861,Female
+1968,Non-Hodgkin lymphoma,5.65905089526646,Female
+1969,Non-Hodgkin lymphoma,5.13202436909878,Female
+1970,Non-Hodgkin lymphoma,5.26865957035167,Female
+1971,Non-Hodgkin lymphoma,4.29579874673089,Female
+1972,Non-Hodgkin lymphoma,4.79080299904946,Female
+1973,Non-Hodgkin lymphoma,5.39677852474821,Female
+1974,Non-Hodgkin lymphoma,5.00301329806891,Female
+1975,Non-Hodgkin lymphoma,6.18358297770207,Female
+1976,Non-Hodgkin lymphoma,5.45187372385766,Female
+1977,Non-Hodgkin lymphoma,5.56967184910839,Female
+1978,Non-Hodgkin lymphoma,5.99869256977807,Female
+1979,Non-Hodgkin lymphoma,5.01739763264148,Female
+1980,Non-Hodgkin lymphoma,6.33519784033579,Female
+1981,Non-Hodgkin lymphoma,6.40571846247046,Female
+1982,Non-Hodgkin lymphoma,5.42212477376807,Female
+1983,Non-Hodgkin lymphoma,6.51327433027449,Female
+1984,Non-Hodgkin lymphoma,5.82405068831007,Female
+1985,Non-Hodgkin lymphoma,6.74967274096093,Female
+1986,Non-Hodgkin lymphoma,6.02360377033376,Female
+1987,Non-Hodgkin lymphoma,7.17327622637408,Female
+1988,Non-Hodgkin lymphoma,8.11755796936313,Female
+1989,Non-Hodgkin lymphoma,7.80218010449532,Female
+1990,Non-Hodgkin lymphoma,8.58471709843006,Female
+1991,Non-Hodgkin lymphoma,8.53944573627567,Female
+1992,Non-Hodgkin lymphoma,8.4226733972193,Female
+1993,Non-Hodgkin lymphoma,8.62956877658748,Female
+1994,Non-Hodgkin lymphoma,8.71377660002346,Female
+1995,Non-Hodgkin lymphoma,10.3788610387154,Female
+1996,Non-Hodgkin lymphoma,11.3,Female
+1997,Non-Hodgkin lymphoma,11.1,Female
+1998,Non-Hodgkin lymphoma,11.7,Female
+1999,Non-Hodgkin lymphoma,9.4,Female
+2000,Non-Hodgkin lymphoma,9.8,Female
+2001,Non-Hodgkin lymphoma,10.8,Female
+2002,Non-Hodgkin lymphoma,12.3,Female
+2003,Non-Hodgkin lymphoma,9.7,Female
+2004,Non-Hodgkin lymphoma,10.3,Female
+2005,Non-Hodgkin lymphoma,10.3,Female
+2006,Non-Hodgkin lymphoma,10.2,Female
+2007,Non-Hodgkin lymphoma,10.8,Female
+2008,Non-Hodgkin lymphoma,11.4,Female
+2009,Non-Hodgkin lymphoma,10.1,Female
+2010,Non-Hodgkin lymphoma,10.6,Female
+2011,Non-Hodgkin lymphoma,10.4,Female
+2012,Non-Hodgkin lymphoma,9.5,Female
+2013,Non-Hodgkin lymphoma,9.2,Female
+2014,Non-Hodgkin lymphoma,9.3,Female
+2015,Non-Hodgkin lymphoma,9.7,Female
+2016,Non-Hodgkin lymphoma,11.4,Female
+2017,Non-Hodgkin lymphoma,9.5,Female
+1948,Myeloma,0.42108865593474,Female
+1949,Myeloma,0.653617786096974,Female
+1950,Myeloma,0.287514152516316,Female
+1951,Myeloma,0.602297780644504,Female
+1952,Myeloma,0.952339735032977,Female
+1953,Myeloma,0.894150923143179,Female
+1954,Myeloma,0.911469304501845,Female
+1955,Myeloma,1.37303859668676,Female
+1956,Myeloma,1.15444493047836,Female
+1957,Myeloma,0.708830974017004,Female
+1958,Myeloma,1.66943557214551,Female
+1959,Myeloma,1.38044433962612,Female
+1960,Myeloma,1.83718615713461,Female
+1961,Myeloma,1.8834956393846,Female
+1962,Myeloma,1.73045119501627,Female
+1963,Myeloma,1.69168686800739,Female
+1964,Myeloma,1.25584350179054,Female
+1965,Myeloma,2.06180034366916,Female
+1966,Myeloma,1.87040338746879,Female
+1967,Myeloma,2.02074061572844,Female
+1968,Myeloma,1.92167038351737,Female
+1969,Myeloma,3.03274445854076,Female
+1970,Myeloma,2.01937855295315,Female
+1971,Myeloma,2.65917212427685,Female
+1972,Myeloma,2.88634416605855,Female
+1973,Myeloma,2.95495236065528,Female
+1974,Myeloma,2.55003130202746,Female
+1975,Myeloma,2.26466117501337,Female
+1976,Myeloma,1.95059488895037,Female
+1977,Myeloma,2.43342241210109,Female
+1978,Myeloma,3.3844071266541,Female
+1979,Myeloma,2.67800223200572,Female
+1980,Myeloma,1.94492435763909,Female
+1981,Myeloma,2.11044836484996,Female
+1982,Myeloma,2.54157874623551,Female
+1983,Myeloma,3.02492270860214,Female
+1984,Myeloma,3.04682173750169,Female
+1985,Myeloma,2.85830201515234,Female
+1986,Myeloma,3.15924409332473,Female
+1987,Myeloma,3.50901031274805,Female
+1988,Myeloma,3.8457026003006,Female
+1989,Myeloma,3.04682625489897,Female
+1990,Myeloma,2.96851264057417,Female
+1991,Myeloma,3.34793450850951,Female
+1992,Myeloma,2.97758314987119,Female
+1993,Myeloma,3.77204037784271,Female
+1994,Myeloma,3.55542515495757,Female
+1995,Myeloma,3.4586440753562,Female
+1996,Myeloma,3.6,Female
+1997,Myeloma,3.8,Female
+1998,Myeloma,3.6,Female
+1999,Myeloma,3.1,Female
+2000,Myeloma,3.5,Female
+2001,Myeloma,3.8,Female
+2002,Myeloma,3.9,Female
+2003,Myeloma,3.5,Female
+2004,Myeloma,3.4,Female
+2005,Myeloma,3.1,Female
+2006,Myeloma,3.7,Female
+2007,Myeloma,3.6,Female
+2008,Myeloma,3.5,Female
+2009,Myeloma,3.7,Female
+2010,Myeloma,4,Female
+2011,Myeloma,3.2,Female
+2012,Myeloma,3.8,Female
+2013,Myeloma,3.5,Female
+2014,Myeloma,4.6,Female
+2015,Myeloma,3.8,Female
+2016,Myeloma,4.2,Female
+2017,Myeloma,4.2,Female
+1948,Leukaemia,3.19027924406672,Female
+1949,Leukaemia,4.04882897750769,Female
+1950,Leukaemia,3.73905835012208,Female
+1951,Leukaemia,3.93514017414634,Female
+1952,Leukaemia,2.58216877305661,Female
+1953,Leukaemia,5.41854721617996,Female
+1954,Leukaemia,5.57805846096052,Female
+1955,Leukaemia,5.96499493173838,Female
+1956,Leukaemia,5.46841217052711,Female
+1957,Leukaemia,6.06732294336481,Female
+1958,Leukaemia,6.2672369926011,Female
+1959,Leukaemia,5.76897074223381,Female
+1960,Leukaemia,5.87011758648975,Female
+1961,Leukaemia,4.89005751878103,Female
+1962,Leukaemia,5.46114279615792,Female
+1963,Leukaemia,4.92466182451373,Female
+1964,Leukaemia,5.58689566479284,Female
+1965,Leukaemia,6.56919566001382,Female
+1966,Leukaemia,5.85852712697992,Female
+1967,Leukaemia,6.14889340902056,Female
+1968,Leukaemia,5.41726318176944,Female
+1969,Leukaemia,5.29583154572507,Female
+1970,Leukaemia,4.9790664613462,Female
+1971,Leukaemia,5.06386172681176,Female
+1972,Leukaemia,7.2881921582545,Female
+1973,Leukaemia,5.70315871248338,Female
+1974,Leukaemia,5.64771106681782,Female
+1975,Leukaemia,5.65890436263837,Female
+1976,Leukaemia,6.70717193623651,Female
+1977,Leukaemia,5.5843143868024,Female
+1978,Leukaemia,5.85316434461947,Female
+1979,Leukaemia,5.51944365450823,Female
+1980,Leukaemia,5.15036127332558,Female
+1981,Leukaemia,6.2967625105974,Female
+1982,Leukaemia,6.19216778610979,Female
+1983,Leukaemia,6.35225742872475,Female
+1984,Leukaemia,6.21928136166407,Female
+1985,Leukaemia,7.26544129901302,Female
+1986,Leukaemia,5.86589976077963,Female
+1987,Leukaemia,7.38237708740238,Female
+1988,Leukaemia,7.51247369966212,Female
+1989,Leukaemia,7.56537483916421,Female
+1990,Leukaemia,8.06546134590023,Female
+1991,Leukaemia,7.41576534531646,Female
+1992,Leukaemia,7.42824482757622,Female
+1993,Leukaemia,8.07343239804815,Female
+1994,Leukaemia,8.50360789067571,Female
+1995,Leukaemia,7.75644132688354,Female
+1996,Leukaemia,9.7,Female
+1997,Leukaemia,10.2,Female
+1998,Leukaemia,9,Female
+1999,Leukaemia,8.2,Female
+2000,Leukaemia,9.1,Female
+2001,Leukaemia,10.3,Female
+2002,Leukaemia,11.3,Female
+2003,Leukaemia,11.7,Female
+2004,Leukaemia,10.9,Female
+2005,Leukaemia,8.7,Female
+2006,Leukaemia,8.2,Female
+2007,Leukaemia,8.6,Female
+2008,Leukaemia,8.8,Female
+2009,Leukaemia,8.1,Female
+2010,Leukaemia,7.8,Female
+2011,Leukaemia,8.1,Female
+2012,Leukaemia,7.8,Female
+2013,Leukaemia,7.9,Female
+2014,Leukaemia,7.5,Female
+2015,Leukaemia,8.6,Female
+2016,Leukaemia,7.1,Female
+2017,Leukaemia,7.4,Female
+1948,Lip Oral Cavity and Pharynx,13.5569868206202,ALL
+1949,Lip Oral Cavity and Pharynx,12.1632540234338,ALL
+1950,Lip Oral Cavity and Pharynx,11.5924084488009,ALL
+1951,Lip Oral Cavity and Pharynx,10.3552241618961,ALL
+1952,Lip Oral Cavity and Pharynx,12.0939728830602,ALL
+1953,Lip Oral Cavity and Pharynx,10.9842843333589,ALL
+1954,Lip Oral Cavity and Pharynx,11.0271996340088,ALL
+1955,Lip Oral Cavity and Pharynx,10.8611687226468,ALL
+1956,Lip Oral Cavity and Pharynx,10.7703336425803,ALL
+1957,Lip Oral Cavity and Pharynx,10.0672447460779,ALL
+1958,Lip Oral Cavity and Pharynx,7.89315909120985,ALL
+1959,Lip Oral Cavity and Pharynx,4.9195105046897,ALL
+1960,Lip Oral Cavity and Pharynx,5.88497444325653,ALL
+1961,Lip Oral Cavity and Pharynx,5.80102083644029,ALL
+1962,Lip Oral Cavity and Pharynx,4.70079658272469,ALL
+1963,Lip Oral Cavity and Pharynx,5.0206364497273,ALL
+1964,Lip Oral Cavity and Pharynx,5.03966400946618,ALL
+1965,Lip Oral Cavity and Pharynx,4.55162348244877,ALL
+1966,Lip Oral Cavity and Pharynx,5.15553416096382,ALL
+1967,Lip Oral Cavity and Pharynx,6.54335766596302,ALL
+1968,Lip Oral Cavity and Pharynx,6.13454414411432,ALL
+1969,Lip Oral Cavity and Pharynx,5.63603632716047,ALL
+1970,Lip Oral Cavity and Pharynx,6.0930643379153,ALL
+1971,Lip Oral Cavity and Pharynx,6.27342527645748,ALL
+1972,Lip Oral Cavity and Pharynx,5.30139059063466,ALL
+1973,Lip Oral Cavity and Pharynx,5.67071717728805,ALL
+1974,Lip Oral Cavity and Pharynx,6.32647222960297,ALL
+1975,Lip Oral Cavity and Pharynx,5.12538194186469,ALL
+1976,Lip Oral Cavity and Pharynx,5.91067373825484,ALL
+1977,Lip Oral Cavity and Pharynx,6.87854692277363,ALL
+1978,Lip Oral Cavity and Pharynx,6.97938790194763,ALL
+1979,Lip Oral Cavity and Pharynx,7.81949209640634,ALL
+1980,Lip Oral Cavity and Pharynx,7.96020235597373,ALL
+1981,Lip Oral Cavity and Pharynx,6.88346186768768,ALL
+1982,Lip Oral Cavity and Pharynx,8.49240840062553,ALL
+1983,Lip Oral Cavity and Pharynx,7.82486613839794,ALL
+1984,Lip Oral Cavity and Pharynx,7.6490013292388,ALL
+1985,Lip Oral Cavity and Pharynx,7.44286220687475,ALL
+1986,Lip Oral Cavity and Pharynx,7.95612295914696,ALL
+1987,Lip Oral Cavity and Pharynx,7.73551049288611,ALL
+1988,Lip Oral Cavity and Pharynx,8.20490735519102,ALL
+1989,Lip Oral Cavity and Pharynx,8.34443674665626,ALL
+1990,Lip Oral Cavity and Pharynx,7.87002011908154,ALL
+1991,Lip Oral Cavity and Pharynx,6.66228183352395,ALL
+1992,Lip Oral Cavity and Pharynx,7.8539683821445,ALL
+1993,Lip Oral Cavity and Pharynx,6.35368670859328,ALL
+1994,Lip Oral Cavity and Pharynx,6.27643301019328,ALL
+1995,Lip Oral Cavity and Pharynx,6.20550959449015,ALL
+1996,Lip Oral Cavity and Pharynx,5.6,ALL
+1997,Lip Oral Cavity and Pharynx,6.3,ALL
+1998,Lip Oral Cavity and Pharynx,6.4,ALL
+1999,Lip Oral Cavity and Pharynx,6.6,ALL
+2000,Lip Oral Cavity and Pharynx,5.9,ALL
+2001,Lip Oral Cavity and Pharynx,5.8,ALL
+2002,Lip Oral Cavity and Pharynx,5.3,ALL
+2003,Lip Oral Cavity and Pharynx,6.3,ALL
+2004,Lip Oral Cavity and Pharynx,5.9,ALL
+2005,Lip Oral Cavity and Pharynx,5.4,ALL
+2006,Lip Oral Cavity and Pharynx,6.6,ALL
+2007,Lip Oral Cavity and Pharynx,6.5,ALL
+2008,Lip Oral Cavity and Pharynx,6.2,ALL
+2009,Lip Oral Cavity and Pharynx,6,ALL
+2010,Lip Oral Cavity and Pharynx,7.2,ALL
+2011,Lip Oral Cavity and Pharynx,6.3,ALL
+2012,Lip Oral Cavity and Pharynx,6.8,ALL
+2013,Lip Oral Cavity and Pharynx,6.8,ALL
+2014,Lip Oral Cavity and Pharynx,6.8,ALL
+2015,Lip Oral Cavity and Pharynx,7.8,ALL
+2016,Lip Oral Cavity and Pharynx,7.7,ALL
+2017,Lip Oral Cavity and Pharynx,8,ALL
+1948,Oesophagus,2.78215969698355,ALL
+1949,Oesophagus,2.74339174178843,ALL
+1950,Oesophagus,2.23095562230956,ALL
+1951,Oesophagus,3.02657655080242,ALL
+1952,Oesophagus,3.65912874255095,ALL
+1953,Oesophagus,3.28525636446409,ALL
+1954,Oesophagus,2.97422955092279,ALL
+1955,Oesophagus,3.16784183241681,ALL
+1956,Oesophagus,2.20156438721615,ALL
+1957,Oesophagus,2.69766008468343,ALL
+1958,Oesophagus,3.50802704562888,ALL
+1959,Oesophagus,2.44746704246023,ALL
+1960,Oesophagus,2.92750064755033,ALL
+1961,Oesophagus,3.27314016396261,ALL
+1962,Oesophagus,2.86263313949952,ALL
+1963,Oesophagus,3.34412452982525,ALL
+1964,Oesophagus,3.52112039711569,ALL
+1965,Oesophagus,3.10101007731672,ALL
+1966,Oesophagus,3.56944032669388,ALL
+1967,Oesophagus,3.70674263877606,ALL
+1968,Oesophagus,2.80536908546678,ALL
+1969,Oesophagus,3.19124798183773,ALL
+1970,Oesophagus,3.3505088683524,ALL
+1971,Oesophagus,2.91271135865659,ALL
+1972,Oesophagus,4.18269343590569,ALL
+1973,Oesophagus,3.85890870629841,ALL
+1974,Oesophagus,3.91276577694976,ALL
+1975,Oesophagus,4.56782709779459,ALL
+1976,Oesophagus,3.98210762432415,ALL
+1977,Oesophagus,4.30395290106709,ALL
+1978,Oesophagus,3.65535860451078,ALL
+1979,Oesophagus,4.0744339753621,ALL
+1980,Oesophagus,3.7638194677106,ALL
+1981,Oesophagus,4.48072870882991,ALL
+1982,Oesophagus,4.15397661175198,ALL
+1983,Oesophagus,4.41128923317639,ALL
+1984,Oesophagus,3.73254100961784,ALL
+1985,Oesophagus,4.09069155526811,ALL
+1986,Oesophagus,3.90040962520323,ALL
+1987,Oesophagus,4.72885295505408,ALL
+1988,Oesophagus,4.08934183481426,ALL
+1989,Oesophagus,4.62307904977942,ALL
+1990,Oesophagus,4.80426493495826,ALL
+1991,Oesophagus,5.1476080060148,ALL
+1992,Oesophagus,4.47876320547461,ALL
+1993,Oesophagus,4.58339122893625,ALL
+1994,Oesophagus,4.67240287947376,ALL
+1995,Oesophagus,4.57459600398527,ALL
+1996,Oesophagus,3.9,ALL
+1997,Oesophagus,4.1,ALL
+1998,Oesophagus,3.1,ALL
+1999,Oesophagus,4.3,ALL
+2000,Oesophagus,4.3,ALL
+2001,Oesophagus,4.1,ALL
+2002,Oesophagus,4.3,ALL
+2003,Oesophagus,4.6,ALL
+2004,Oesophagus,4.3,ALL
+2005,Oesophagus,3.7,ALL
+2006,Oesophagus,4.4,ALL
+2007,Oesophagus,4.4,ALL
+2008,Oesophagus,4.4,ALL
+2009,Oesophagus,4,ALL
+2010,Oesophagus,4.5,ALL
+2011,Oesophagus,3.9,ALL
+2012,Oesophagus,4.4,ALL
+2013,Oesophagus,4.3,ALL
+2014,Oesophagus,3.6,ALL
+2015,Oesophagus,4,ALL
+2016,Oesophagus,3.3,ALL
+2017,Oesophagus,3.7,ALL
+1948,Stomach,16.0781079058758,ALL
+1949,Stomach,16.4224673655177,ALL
+1950,Stomach,17.7568962280755,ALL
+1951,Stomach,14.3486866121282,ALL
+1952,Stomach,15.3006688146092,ALL
+1953,Stomach,15.4565698039637,ALL
+1954,Stomach,16.024183955394,ALL
+1955,Stomach,13.6160630962335,ALL
+1956,Stomach,14.3266870930899,ALL
+1957,Stomach,13.8472567053352,ALL
+1958,Stomach,13.3480129786283,ALL
+1959,Stomach,14.7215007537783,ALL
+1960,Stomach,13.6915033951927,ALL
+1961,Stomach,14.4346102457505,ALL
+1962,Stomach,13.3362240626745,ALL
+1963,Stomach,12.7999959860298,ALL
+1964,Stomach,13.6103812583781,ALL
+1965,Stomach,13.5066581157391,ALL
+1966,Stomach,12.5683358627157,ALL
+1967,Stomach,12.5323666695496,ALL
+1968,Stomach,12.6917801811256,ALL
+1969,Stomach,12.1195390163385,ALL
+1970,Stomach,13.0617403694688,ALL
+1971,Stomach,11.4332136484575,ALL
+1972,Stomach,13.5375592428379,ALL
+1973,Stomach,11.5866872913074,ALL
+1974,Stomach,10.4649350574998,ALL
+1975,Stomach,12.3473092821957,ALL
+1976,Stomach,14.2204859749398,ALL
+1977,Stomach,11.9884283339269,ALL
+1978,Stomach,11.725813750993,ALL
+1979,Stomach,11.3316640973655,ALL
+1980,Stomach,12.1967351157707,ALL
+1981,Stomach,12.434135365753,ALL
+1982,Stomach,12.3673240503565,ALL
+1983,Stomach,10.8162852438313,ALL
+1984,Stomach,9.85039855125991,ALL
+1985,Stomach,11.9810063950404,ALL
+1986,Stomach,9.45922259221837,ALL
+1987,Stomach,9.89348930285652,ALL
+1988,Stomach,9.61617707523314,ALL
+1989,Stomach,9.34204257306356,ALL
+1990,Stomach,9.60137753538481,ALL
+1991,Stomach,8.49794813297961,ALL
+1992,Stomach,9.19848882029931,ALL
+1993,Stomach,8.0353438873626,ALL
+1994,Stomach,8.16230664076523,ALL
+1995,Stomach,8.11946504209716,ALL
+1996,Stomach,8.4,ALL
+1997,Stomach,8,ALL
+1998,Stomach,8.5,ALL
+1999,Stomach,7.6,ALL
+2000,Stomach,7.1,ALL
+2001,Stomach,7.2,ALL
+2002,Stomach,7.7,ALL
+2003,Stomach,7.1,ALL
+2004,Stomach,6.7,ALL
+2005,Stomach,6.1,ALL
+2006,Stomach,6.3,ALL
+2007,Stomach,6.4,ALL
+2008,Stomach,6.1,ALL
+2009,Stomach,5.9,ALL
+2010,Stomach,5.9,ALL
+2011,Stomach,6.1,ALL
+2012,Stomach,5.6,ALL
+2013,Stomach,5.5,ALL
+2014,Stomach,5.6,ALL
+2015,Stomach,5.3,ALL
+2016,Stomach,5.6,ALL
+2017,Stomach,5.3,ALL
+1948,Colorectum and anus,23.8084214691463,ALL
+1949,Colorectum and anus,20.7473272666263,ALL
+1950,Colorectum and anus,20.9105955145311,ALL
+1951,Colorectum and anus,22.2502443291426,ALL
+1952,Colorectum and anus,22.7598584968125,ALL
+1953,Colorectum and anus,23.7900463279776,ALL
+1954,Colorectum and anus,23.5203225722804,ALL
+1955,Colorectum and anus,26.4338734536568,ALL
+1956,Colorectum and anus,25.1987233766264,ALL
+1957,Colorectum and anus,27.1463148164262,ALL
+1958,Colorectum and anus,23.9911668602061,ALL
+1959,Colorectum and anus,27.0656861456085,ALL
+1960,Colorectum and anus,27.3247709507367,ALL
+1961,Colorectum and anus,29.2844574401413,ALL
+1962,Colorectum and anus,27.877672545764,ALL
+1963,Colorectum and anus,30.0500498333699,ALL
+1964,Colorectum and anus,30.5050628588632,ALL
+1965,Colorectum and anus,32.8012526972157,ALL
+1966,Colorectum and anus,31.3226304539926,ALL
+1967,Colorectum and anus,32.8846736545611,ALL
+1968,Colorectum and anus,36.9738383191997,ALL
+1969,Colorectum and anus,34.9578259772686,ALL
+1970,Colorectum and anus,40.5802130765606,ALL
+1971,Colorectum and anus,41.220184581903,ALL
+1972,Colorectum and anus,41.7526723833353,ALL
+1973,Colorectum and anus,41.4442846270287,ALL
+1974,Colorectum and anus,44.7099324563553,ALL
+1975,Colorectum and anus,44.8549133569664,ALL
+1976,Colorectum and anus,43.6620124627817,ALL
+1977,Colorectum and anus,45.5459337134315,ALL
+1978,Colorectum and anus,46.1704893157326,ALL
+1979,Colorectum and anus,46.9600462891124,ALL
+1980,Colorectum and anus,47.3237780487473,ALL
+1981,Colorectum and anus,48.6184945668103,ALL
+1982,Colorectum and anus,49.2632055547096,ALL
+1983,Colorectum and anus,50.8256347266723,ALL
+1984,Colorectum and anus,51.5459932824009,ALL
+1985,Colorectum and anus,50.4241430451565,ALL
+1986,Colorectum and anus,51.3141079714146,ALL
+1987,Colorectum and anus,52.2485621616954,ALL
+1988,Colorectum and anus,53.5636691851407,ALL
+1989,Colorectum and anus,50.1494541705729,ALL
+1990,Colorectum and anus,50.2889604474371,ALL
+1991,Colorectum and anus,51.6447985265634,ALL
+1992,Colorectum and anus,49.4137330445953,ALL
+1993,Colorectum and anus,48.4003748601483,ALL
+1994,Colorectum and anus,57.2934042198083,ALL
+1995,Colorectum and anus,54.5068210044781,ALL
+1996,Colorectum and anus,52.9,ALL
+1997,Colorectum and anus,49.1,ALL
+1998,Colorectum and anus,50.2,ALL
+1999,Colorectum and anus,51.7,ALL
+2000,Colorectum and anus,50.1,ALL
+2001,Colorectum and anus,50.4,ALL
+2002,Colorectum and anus,48.8,ALL
+2003,Colorectum and anus,48.8,ALL
+2004,Colorectum and anus,48.7,ALL
+2005,Colorectum and anus,47.1,ALL
+2006,Colorectum and anus,47.6,ALL
+2007,Colorectum and anus,45.9,ALL
+2008,Colorectum and anus,44.8,ALL
+2009,Colorectum and anus,44.7,ALL
+2010,Colorectum and anus,45.5,ALL
+2011,Colorectum and anus,44.8,ALL
+2012,Colorectum and anus,43.7,ALL
+2013,Colorectum and anus,43.3,ALL
+2014,Colorectum and anus,45.7,ALL
+2015,Colorectum and anus,42.2,ALL
+2016,Colorectum and anus,41.9,ALL
+2017,Colorectum and anus,39.8,ALL
+1948,Liver and intrahepatic bile ducts,1.96443964875471,ALL
+1949,Liver and intrahepatic bile ducts,1.99603301618538,ALL
+1950,Liver and intrahepatic bile ducts,2.57186180053163,ALL
+1951,Liver and intrahepatic bile ducts,2.03303349299528,ALL
+1952,Liver and intrahepatic bile ducts,2.84315841281072,ALL
+1953,Liver and intrahepatic bile ducts,2.82508765650222,ALL
+1954,Liver and intrahepatic bile ducts,2.4529031081667,ALL
+1955,Liver and intrahepatic bile ducts,2.89315678802388,ALL
+1956,Liver and intrahepatic bile ducts,2.92132107906688,ALL
+1957,Liver and intrahepatic bile ducts,2.95449106907568,ALL
+1958,Liver and intrahepatic bile ducts,2.82368839675988,ALL
+1959,Liver and intrahepatic bile ducts,2.8375191808,ALL
+1960,Liver and intrahepatic bile ducts,3.1489642066089,ALL
+1961,Liver and intrahepatic bile ducts,3.04928322153626,ALL
+1962,Liver and intrahepatic bile ducts,3.72470866229669,ALL
+1963,Liver and intrahepatic bile ducts,3.64755647454848,ALL
+1964,Liver and intrahepatic bile ducts,2.70800121300573,ALL
+1965,Liver and intrahepatic bile ducts,3.47234823112918,ALL
+1966,Liver and intrahepatic bile ducts,2.7916465681475,ALL
+1967,Liver and intrahepatic bile ducts,3.2645519320391,ALL
+1968,Liver and intrahepatic bile ducts,1.65918993323608,ALL
+1969,Liver and intrahepatic bile ducts,1.16789951043497,ALL
+1970,Liver and intrahepatic bile ducts,1.75718524835439,ALL
+1971,Liver and intrahepatic bile ducts,1.93542146991298,ALL
+1972,Liver and intrahepatic bile ducts,1.43856031295271,ALL
+1973,Liver and intrahepatic bile ducts,1.59787387544626,ALL
+1974,Liver and intrahepatic bile ducts,1.67314742594853,ALL
+1975,Liver and intrahepatic bile ducts,1.96648684339954,ALL
+1976,Liver and intrahepatic bile ducts,1.69285311178525,ALL
+1977,Liver and intrahepatic bile ducts,1.7860195089374,ALL
+1978,Liver and intrahepatic bile ducts,2.01745210630557,ALL
+1979,Liver and intrahepatic bile ducts,2.53296962995691,ALL
+1980,Liver and intrahepatic bile ducts,2.11420077859125,ALL
+1981,Liver and intrahepatic bile ducts,2.40138889334709,ALL
+1982,Liver and intrahepatic bile ducts,2.12368624607808,ALL
+1983,Liver and intrahepatic bile ducts,2.2282566577617,ALL
+1984,Liver and intrahepatic bile ducts,1.87762545558805,ALL
+1985,Liver and intrahepatic bile ducts,1.48294483687569,ALL
+1986,Liver and intrahepatic bile ducts,1.90514748892686,ALL
+1987,Liver and intrahepatic bile ducts,2.54602802678937,ALL
+1988,Liver and intrahepatic bile ducts,2.63852425152425,ALL
+1989,Liver and intrahepatic bile ducts,2.56274924741836,ALL
+1990,Liver and intrahepatic bile ducts,2.28949279394489,ALL
+1991,Liver and intrahepatic bile ducts,2.67129539560963,ALL
+1992,Liver and intrahepatic bile ducts,2.41396780629894,ALL
+1993,Liver and intrahepatic bile ducts,2.86205473869889,ALL
+1994,Liver and intrahepatic bile ducts,2.86399804298659,ALL
+1995,Liver and intrahepatic bile ducts,2.70759872589831,ALL
+1996,Liver and intrahepatic bile ducts,3.1,ALL
+1997,Liver and intrahepatic bile ducts,3.2,ALL
+1998,Liver and intrahepatic bile ducts,3,ALL
+1999,Liver and intrahepatic bile ducts,3,ALL
+2000,Liver and intrahepatic bile ducts,2.9,ALL
+2001,Liver and intrahepatic bile ducts,3.1,ALL
+2002,Liver and intrahepatic bile ducts,3.3,ALL
+2003,Liver and intrahepatic bile ducts,3.6,ALL
+2004,Liver and intrahepatic bile ducts,3.1,ALL
+2005,Liver and intrahepatic bile ducts,4.2,ALL
+2006,Liver and intrahepatic bile ducts,4.1,ALL
+2007,Liver and intrahepatic bile ducts,4.2,ALL
+2008,Liver and intrahepatic bile ducts,4,ALL
+2009,Liver and intrahepatic bile ducts,4.2,ALL
+2010,Liver and intrahepatic bile ducts,4.3,ALL
+2011,Liver and intrahepatic bile ducts,5.2,ALL
+2012,Liver and intrahepatic bile ducts,4.9,ALL
+2013,Liver and intrahepatic bile ducts,4.4,ALL
+2014,Liver and intrahepatic bile ducts,5.1,ALL
+2015,Liver and intrahepatic bile ducts,5.1,ALL
+2016,Liver and intrahepatic bile ducts,4.8,ALL
+2017,Liver and intrahepatic bile ducts,4.8,ALL
+1948,Pancreas,3.93836611344045,ALL
+1949,Pancreas,4.90126173725625,ALL
+1950,Pancreas,4.76960408617434,ALL
+1951,Pancreas,5.32442408521408,ALL
+1952,Pancreas,4.10802147053306,ALL
+1953,Pancreas,4.28585350783934,ALL
+1954,Pancreas,4.99091321913737,ALL
+1955,Pancreas,5.27187332469985,ALL
+1956,Pancreas,4.34778217531672,ALL
+1957,Pancreas,5.96686046796694,ALL
+1958,Pancreas,5.20982718898753,ALL
+1959,Pancreas,5.00790873528516,ALL
+1960,Pancreas,5.88188863090373,ALL
+1961,Pancreas,6.13978378339042,ALL
+1962,Pancreas,6.21684949388213,ALL
+1963,Pancreas,7.26969986576878,ALL
+1964,Pancreas,6.78710219192152,ALL
+1965,Pancreas,6.07915462245334,ALL
+1966,Pancreas,6.48916762155365,ALL
+1967,Pancreas,6.00221399104103,ALL
+1968,Pancreas,5.55605113156471,ALL
+1969,Pancreas,5.53100796601792,ALL
+1970,Pancreas,7.62788562349623,ALL
+1971,Pancreas,6.14376028045513,ALL
+1972,Pancreas,7.30561448576857,ALL
+1973,Pancreas,6.41161038833293,ALL
+1974,Pancreas,7.84538467102218,ALL
+1975,Pancreas,8.53021565563922,ALL
+1976,Pancreas,7.59160039395147,ALL
+1977,Pancreas,7.51598565691147,ALL
+1978,Pancreas,8.17604371475535,ALL
+1979,Pancreas,7.12789944365266,ALL
+1980,Pancreas,7.23968795221537,ALL
+1981,Pancreas,6.91949004951543,ALL
+1982,Pancreas,6.34360016693554,ALL
+1983,Pancreas,7.2025774281895,ALL
+1984,Pancreas,6.71202138019513,ALL
+1985,Pancreas,7.38171946551207,ALL
+1986,Pancreas,6.37638122629057,ALL
+1987,Pancreas,6.60307312852416,ALL
+1988,Pancreas,7.21281111011064,ALL
+1989,Pancreas,6.40876437979894,ALL
+1990,Pancreas,7.14258477084531,ALL
+1991,Pancreas,6.98711020334099,ALL
+1992,Pancreas,6.31271923300774,ALL
+1993,Pancreas,6.54449443225075,ALL
+1994,Pancreas,6.90013451506224,ALL
+1995,Pancreas,6.49732459060519,ALL
+1996,Pancreas,6.9,ALL
+1997,Pancreas,6.4,ALL
+1998,Pancreas,6.7,ALL
+1999,Pancreas,6,ALL
+2000,Pancreas,6.2,ALL
+2001,Pancreas,5.8,ALL
+2002,Pancreas,5.9,ALL
+2003,Pancreas,6.2,ALL
+2004,Pancreas,6.5,ALL
+2005,Pancreas,6.9,ALL
+2006,Pancreas,6.4,ALL
+2007,Pancreas,6.8,ALL
+2008,Pancreas,6.9,ALL
+2009,Pancreas,7.2,ALL
+2010,Pancreas,7.5,ALL
+2011,Pancreas,6.6,ALL
+2012,Pancreas,7.7,ALL
+2013,Pancreas,7.1,ALL
+2014,Pancreas,7.7,ALL
+2015,Pancreas,7.8,ALL
+2016,Pancreas,7.6,ALL
+2017,Pancreas,7.1,ALL
+1948,Lung & Trachea,8.06582572354816,ALL
+1949,Lung & Trachea,7.63979735342936,ALL
+1950,Lung & Trachea,8.82529338030862,ALL
+1951,Lung & Trachea,9.91221507900746,ALL
+1952,Lung & Trachea,11.0284357160703,ALL
+1953,Lung & Trachea,13.0775876400549,ALL
+1954,Lung & Trachea,13.2613119452138,ALL
+1955,Lung & Trachea,14.2023247181193,ALL
+1956,Lung & Trachea,15.9606330200604,ALL
+1957,Lung & Trachea,17.1043561358128,ALL
+1958,Lung & Trachea,17.3748975615463,ALL
+1959,Lung & Trachea,16.8384372862161,ALL
+1960,Lung & Trachea,18.2079649070721,ALL
+1961,Lung & Trachea,20.711238984009,ALL
+1962,Lung & Trachea,21.6657049690011,ALL
+1963,Lung & Trachea,22.0683869090783,ALL
+1964,Lung & Trachea,23.0289955610753,ALL
+1965,Lung & Trachea,23.8869348657932,ALL
+1966,Lung & Trachea,27.1252668475297,ALL
+1967,Lung & Trachea,24.9783130428859,ALL
+1968,Lung & Trachea,30.0568659046302,ALL
+1969,Lung & Trachea,28.751997865577,ALL
+1970,Lung & Trachea,30.1061239307707,ALL
+1971,Lung & Trachea,29.6691650203592,ALL
+1972,Lung & Trachea,31.6665153813942,ALL
+1973,Lung & Trachea,32.5202356496332,ALL
+1974,Lung & Trachea,34.8878311743255,ALL
+1975,Lung & Trachea,36.5411997815848,ALL
+1976,Lung & Trachea,35.9994423931619,ALL
+1977,Lung & Trachea,35.6782052857607,ALL
+1978,Lung & Trachea,38.2651525883616,ALL
+1979,Lung & Trachea,37.606873199665,ALL
+1980,Lung & Trachea,37.7036636012856,ALL
+1981,Lung & Trachea,35.4828390188549,ALL
+1982,Lung & Trachea,37.5176785401763,ALL
+1983,Lung & Trachea,39.0951461643499,ALL
+1984,Lung & Trachea,39.0789795819266,ALL
+1985,Lung & Trachea,36.0825212667823,ALL
+1986,Lung & Trachea,36.2748315030436,ALL
+1987,Lung & Trachea,37.0432748418744,ALL
+1988,Lung & Trachea,39.2004003945429,ALL
+1989,Lung & Trachea,38.7837583466016,ALL
+1990,Lung & Trachea,36.2595068580808,ALL
+1991,Lung & Trachea,35.0226078745124,ALL
+1992,Lung & Trachea,35.9512367621925,ALL
+1993,Lung & Trachea,35.6293517645466,ALL
+1994,Lung & Trachea,37.9042961405947,ALL
+1995,Lung & Trachea,34.112925631973,ALL
+1996,Lung & Trachea,34.3,ALL
+1997,Lung & Trachea,31.9,ALL
+1998,Lung & Trachea,31,ALL
+1999,Lung & Trachea,31.8,ALL
+2000,Lung & Trachea,32.7,ALL
+2001,Lung & Trachea,29.5,ALL
+2002,Lung & Trachea,30.5,ALL
+2003,Lung & Trachea,33.7,ALL
+2004,Lung & Trachea,33.2,ALL
+2005,Lung & Trachea,29.6,ALL
+2006,Lung & Trachea,29.6,ALL
+2007,Lung & Trachea,30.3,ALL
+2008,Lung & Trachea,30.6,ALL
+2009,Lung & Trachea,31.7,ALL
+2010,Lung & Trachea,29.9,ALL
+2011,Lung & Trachea,30.4,ALL
+2012,Lung & Trachea,30,ALL
+2013,Lung & Trachea,29,ALL
+2014,Lung & Trachea,31,ALL
+2015,Lung & Trachea,30.1,ALL
+2016,Lung & Trachea,29.2,ALL
+2017,Lung & Trachea,28.1,ALL
+1948,Melanoma,2.88266121281771,ALL
+1949,Melanoma,1.9920125491819,ALL
+1950,Melanoma,1.99301509233893,ALL
+1951,Melanoma,3.52059505086982,ALL
+1952,Melanoma,3.22803893527035,ALL
+1953,Melanoma,3.77318926079457,ALL
+1954,Melanoma,3.80780369305288,ALL
+1955,Melanoma,4.00576572239051,ALL
+1956,Melanoma,4.83754434178354,ALL
+1957,Melanoma,3.6096876696837,ALL
+1958,Melanoma,4.39590474437222,ALL
+1959,Melanoma,4.6907785484643,ALL
+1960,Melanoma,4.93192818406894,ALL
+1961,Melanoma,5.18544818003199,ALL
+1962,Melanoma,5.97395246504154,ALL
+1963,Melanoma,5.94285837363004,ALL
+1964,Melanoma,5.72671608477724,ALL
+1965,Melanoma,7.1766719306886,ALL
+1966,Melanoma,7.41132262333572,ALL
+1967,Melanoma,6.88792836606896,ALL
+1968,Melanoma,7.75821524077927,ALL
+1969,Melanoma,9.81994014178566,ALL
+1970,Melanoma,9.35979609227935,ALL
+1971,Melanoma,11.6524037956967,ALL
+1972,Melanoma,12.8511698493185,ALL
+1973,Melanoma,15.4844064920019,ALL
+1974,Melanoma,15.4518244636064,ALL
+1975,Melanoma,17.1567144740324,ALL
+1976,Melanoma,17.3492221356325,ALL
+1977,Melanoma,17.3203866543553,ALL
+1978,Melanoma,18.4175110538071,ALL
+1979,Melanoma,16.4514870354128,ALL
+1980,Melanoma,20.0996552233405,ALL
+1981,Melanoma,20.4983573417983,ALL
+1982,Melanoma,23.0994686872839,ALL
+1983,Melanoma,21.157906423421,ALL
+1984,Melanoma,23.2086525732098,ALL
+1985,Melanoma,19.3898792458327,ALL
+1986,Melanoma,21.537720444324,ALL
+1987,Melanoma,23.22169911544,ALL
+1988,Melanoma,29.5954066478438,ALL
+1989,Melanoma,28.0705532120444,ALL
+1990,Melanoma,23.9671338796507,ALL
+1991,Melanoma,25.956107988402,ALL
+1992,Melanoma,26.9547695582295,ALL
+1993,Melanoma,26.4677193166992,ALL
+1994,Melanoma,37.7895571949921,ALL
+1995,Melanoma,43.6996106268355,ALL
+1996,Melanoma,35.4,ALL
+1997,Melanoma,33.8,ALL
+1998,Melanoma,34.6,ALL
+1999,Melanoma,34.3,ALL
+2000,Melanoma,36.8,ALL
+2001,Melanoma,37,ALL
+2002,Melanoma,38.1,ALL
+2003,Melanoma,37.2,ALL
+2004,Melanoma,36.9,ALL
+2005,Melanoma,39.1,ALL
+2006,Melanoma,37.2,ALL
+2007,Melanoma,39.2,ALL
+2008,Melanoma,39.8,ALL
+2009,Melanoma,37.9,ALL
+2010,Melanoma,39.6,ALL
+2011,Melanoma,36.4,ALL
+2012,Melanoma,37,ALL
+2013,Melanoma,37.3,ALL
+2014,Melanoma,34.9,ALL
+2015,Melanoma,35.4,ALL
+2016,Melanoma,36.3,ALL
+2017,Melanoma,35.1,ALL
+1948,Kidney and other urinary,2.31476760088861,ALL
+1949,Kidney and other urinary,2.14073109845973,ALL
+1950,Kidney and other urinary,2.07304276747652,ALL
+1951,Kidney and other urinary,3.5227459596013,ALL
+1952,Kidney and other urinary,2.8150671373475,ALL
+1953,Kidney and other urinary,2.88280700860145,ALL
+1954,Kidney and other urinary,2.81208783695307,ALL
+1955,Kidney and other urinary,3.17583337894314,ALL
+1956,Kidney and other urinary,3.44165801148112,ALL
+1957,Kidney and other urinary,3.21190070556109,ALL
+1958,Kidney and other urinary,3.37039282142196,ALL
+1959,Kidney and other urinary,3.19989624736981,ALL
+1960,Kidney and other urinary,3.84757850372981,ALL
+1961,Kidney and other urinary,3.23387544629561,ALL
+1962,Kidney and other urinary,3.51564470140043,ALL
+1963,Kidney and other urinary,3.81458263566309,ALL
+1964,Kidney and other urinary,3.8005186363368,ALL
+1965,Kidney and other urinary,4.14406301730075,ALL
+1966,Kidney and other urinary,5.14781173537046,ALL
+1967,Kidney and other urinary,4.24045484227443,ALL
+1968,Kidney and other urinary,4.27724824033145,ALL
+1969,Kidney and other urinary,4.68456588136003,ALL
+1970,Kidney and other urinary,4.5707377860507,ALL
+1971,Kidney and other urinary,4.90897375931985,ALL
+1972,Kidney and other urinary,4.88979962079257,ALL
+1973,Kidney and other urinary,4.25914933066684,ALL
+1974,Kidney and other urinary,4.6535281016709,ALL
+1975,Kidney and other urinary,5.51869581491636,ALL
+1976,Kidney and other urinary,4.78983073213328,ALL
+1977,Kidney and other urinary,5.43447461649056,ALL
+1978,Kidney and other urinary,5.73297270877281,ALL
+1979,Kidney and other urinary,5.18445019960559,ALL
+1980,Kidney and other urinary,5.23963476146588,ALL
+1981,Kidney and other urinary,5.70921477633142,ALL
+1982,Kidney and other urinary,6.63903366906229,ALL
+1983,Kidney and other urinary,6.61459927629085,ALL
+1984,Kidney and other urinary,5.61922053969176,ALL
+1985,Kidney and other urinary,6.06096290544902,ALL
+1986,Kidney and other urinary,5.69085752546127,ALL
+1987,Kidney and other urinary,6.39039756114588,ALL
+1988,Kidney and other urinary,5.86938598448218,ALL
+1989,Kidney and other urinary,5.81500996122784,ALL
+1990,Kidney and other urinary,5.83243099153081,ALL
+1991,Kidney and other urinary,7.01250277526418,ALL
+1992,Kidney and other urinary,6.49049968523875,ALL
+1993,Kidney and other urinary,7.08983122476614,ALL
+1994,Kidney and other urinary,7.53570552933475,ALL
+1995,Kidney and other urinary,7.23611362301014,ALL
+1996,Kidney and other urinary,7.6,ALL
+1997,Kidney and other urinary,8.6,ALL
+1998,Kidney and other urinary,7.4,ALL
+1999,Kidney and other urinary,8.2,ALL
+2000,Kidney and other urinary,7.3,ALL
+2001,Kidney and other urinary,7.9,ALL
+2002,Kidney and other urinary,7.6,ALL
+2003,Kidney and other urinary,8,ALL
+2004,Kidney and other urinary,9.2,ALL
+2005,Kidney and other urinary,7.8,ALL
+2006,Kidney and other urinary,7.7,ALL
+2007,Kidney and other urinary,8.9,ALL
+2008,Kidney and other urinary,9.5,ALL
+2009,Kidney and other urinary,8.8,ALL
+2010,Kidney and other urinary,9.7,ALL
+2011,Kidney and other urinary,9.1,ALL
+2012,Kidney and other urinary,9.1,ALL
+2013,Kidney and other urinary,9.4,ALL
+2014,Kidney and other urinary,10.1,ALL
+2015,Kidney and other urinary,9.6,ALL
+2016,Kidney and other urinary,9.1,ALL
+2017,Kidney and other urinary,9.1,ALL
+1948,Bladder,3.92037515809656,ALL
+1949,Bladder,4.33835549278867,ALL
+1950,Bladder,4.08222964959646,ALL
+1951,Bladder,3.7964100139143,ALL
+1952,Bladder,3.54151208328856,ALL
+1953,Bladder,4.09643783853804,ALL
+1954,Bladder,3.8860073880087,ALL
+1955,Bladder,4.38353020617074,ALL
+1956,Bladder,4.3565569228355,ALL
+1957,Bladder,5.24395345674126,ALL
+1958,Bladder,4.06395358805896,ALL
+1959,Bladder,4.96207219155914,ALL
+1960,Bladder,4.6958779965853,ALL
+1961,Bladder,6.30696070785366,ALL
+1962,Bladder,5.56365774067806,ALL
+1963,Bladder,6.3370481667848,ALL
+1964,Bladder,6.47343910751807,ALL
+1965,Bladder,5.73705190345304,ALL
+1966,Bladder,5.46875100116455,ALL
+1967,Bladder,6.29860968199951,ALL
+1968,Bladder,6.73266387767193,ALL
+1969,Bladder,6.66980787081989,ALL
+1970,Bladder,6.24774616865243,ALL
+1971,Bladder,7.97536836385199,ALL
+1972,Bladder,7.19287762394782,ALL
+1973,Bladder,7.57230140019027,ALL
+1974,Bladder,8.32319760671809,ALL
+1975,Bladder,9.88818247435691,ALL
+1976,Bladder,9.1778955911533,ALL
+1977,Bladder,8.9892144258562,ALL
+1978,Bladder,8.44909372583669,ALL
+1979,Bladder,8.93955861859277,ALL
+1980,Bladder,9.2412690612313,ALL
+1981,Bladder,9.43362045097414,ALL
+1982,Bladder,9.16988361854565,ALL
+1983,Bladder,9.416386300489,ALL
+1984,Bladder,8.58087251156555,ALL
+1985,Bladder,6.75479350854218,ALL
+1986,Bladder,9.23375650619698,ALL
+1987,Bladder,8.74316136194789,ALL
+1988,Bladder,10.1300332772342,ALL
+1989,Bladder,7.07713030901911,ALL
+1990,Bladder,8.95337461528323,ALL
+1991,Bladder,9.30519307601469,ALL
+1992,Bladder,8.71467976705647,ALL
+1993,Bladder,9.87889770574354,ALL
+1994,Bladder,12.6241446711211,ALL
+1995,Bladder,11.1932546619218,ALL
+1996,Bladder,11.1,ALL
+1997,Bladder,10.2,ALL
+1998,Bladder,11.5,ALL
+1999,Bladder,10.8,ALL
+2000,Bladder,10.5,ALL
+2001,Bladder,10.6,ALL
+2002,Bladder,9.4,ALL
+2003,Bladder,9.8,ALL
+2004,Bladder,9.5,ALL
+2005,Bladder,5.2,ALL
+2006,Bladder,5.1,ALL
+2007,Bladder,5.7,ALL
+2008,Bladder,5.4,ALL
+2009,Bladder,5.3,ALL
+2010,Bladder,5.4,ALL
+2011,Bladder,4.6,ALL
+2012,Bladder,4.4,ALL
+2013,Bladder,4.9,ALL
+2014,Bladder,5.6,ALL
+2015,Bladder,5.1,ALL
+2016,Bladder,5,ALL
+2017,Bladder,4.9,ALL
+1948,Brain,2.28622483399473,ALL
+1949,Brain,2.91942951913523,ALL
+1950,Brain,2.95426920931848,ALL
+1951,Brain,3.32459302571649,ALL
+1952,Brain,3.44544383350478,ALL
+1953,Brain,3.45894960683672,ALL
+1954,Brain,3.88816787412497,ALL
+1955,Brain,4.03803110471182,ALL
+1956,Brain,3.79227647617658,ALL
+1957,Brain,4.30500737853252,ALL
+1958,Brain,4.26696934358152,ALL
+1959,Brain,4.54765488993305,ALL
+1960,Brain,3.74169592886343,ALL
+1961,Brain,4.01915540994286,ALL
+1962,Brain,4.34849187260066,ALL
+1963,Brain,5.51492929658506,ALL
+1964,Brain,4.7786985457788,ALL
+1965,Brain,4.60809851042069,ALL
+1966,Brain,4.50071820284247,ALL
+1967,Brain,4.26356405055781,ALL
+1968,Brain,4.69800304805423,ALL
+1969,Brain,4.24315058250908,ALL
+1970,Brain,4.47341936590678,ALL
+1971,Brain,4.72825479436633,ALL
+1972,Brain,5.11718268755153,ALL
+1973,Brain,5.42168031392537,ALL
+1974,Brain,4.00176385780341,ALL
+1975,Brain,5.38293828634191,ALL
+1976,Brain,5.05488520533529,ALL
+1977,Brain,5.00302458280001,ALL
+1978,Brain,5.24072040528756,ALL
+1979,Brain,6.10556753873257,ALL
+1980,Brain,5.89670466712683,ALL
+1981,Brain,6.28314537697689,ALL
+1982,Brain,5.2204558083734,ALL
+1983,Brain,5.93234356744578,ALL
+1984,Brain,6.69320692301933,ALL
+1985,Brain,5.46413166744414,ALL
+1986,Brain,6.42470938901074,ALL
+1987,Brain,5.59682662639187,ALL
+1988,Brain,6.01127394049936,ALL
+1989,Brain,5.53284298580159,ALL
+1990,Brain,5.52399065779262,ALL
+1991,Brain,6.38052839395083,ALL
+1992,Brain,6.29099554446417,ALL
+1993,Brain,5.82662828823123,ALL
+1994,Brain,5.70234213389131,ALL
+1995,Brain,5.25786603899767,ALL
+1996,Brain,6.9,ALL
+1997,Brain,5.6,ALL
+1998,Brain,5.9,ALL
+1999,Brain,5.5,ALL
+2000,Brain,5.8,ALL
+2001,Brain,5.8,ALL
+2002,Brain,6,ALL
+2003,Brain,5.4,ALL
+2004,Brain,5.4,ALL
+2005,Brain,5.2,ALL
+2006,Brain,5.2,ALL
+2007,Brain,5.1,ALL
+2008,Brain,4.7,ALL
+2009,Brain,5.2,ALL
+2010,Brain,5.8,ALL
+2011,Brain,5.3,ALL
+2012,Brain,5.5,ALL
+2013,Brain,5.7,ALL
+2014,Brain,5,ALL
+2015,Brain,5.2,ALL
+2016,Brain,5.6,ALL
+2017,Brain,5.5,ALL
+1948,Thyroid,0.813341241721606,ALL
+1949,Thyroid,0.92700074856013,ALL
+1950,Thyroid,0.974687807923374,ALL
+1951,Thyroid,0.903447713160191,ALL
+1952,Thyroid,1.1908989382061,ALL
+1953,Thyroid,0.799571432182202,ALL
+1954,Thyroid,1.24250298804728,ALL
+1955,Thyroid,1.18742300868608,ALL
+1956,Thyroid,1.03362058135939,ALL
+1957,Thyroid,1.28455718653732,ALL
+1958,Thyroid,1.41530652774659,ALL
+1959,Thyroid,1.46697725853085,ALL
+1960,Thyroid,1.05305836572988,ALL
+1961,Thyroid,0.993922604824997,ALL
+1962,Thyroid,1.66304691670736,ALL
+1963,Thyroid,1.57140985344315,ALL
+1964,Thyroid,1.90786677137513,ALL
+1965,Thyroid,1.52842594749741,ALL
+1966,Thyroid,1.56704214128682,ALL
+1967,Thyroid,1.2908070520653,ALL
+1968,Thyroid,1.9223078605564,ALL
+1969,Thyroid,1.5454248999501,ALL
+1970,Thyroid,1.79901060277704,ALL
+1971,Thyroid,1.66404179690744,ALL
+1972,Thyroid,2.36933819675543,ALL
+1973,Thyroid,2.25755859123054,ALL
+1974,Thyroid,2.67792831261449,ALL
+1975,Thyroid,2.73928755557817,ALL
+1976,Thyroid,2.21125103559301,ALL
+1977,Thyroid,2.09154928493507,ALL
+1978,Thyroid,2.09400286186927,ALL
+1979,Thyroid,1.90561214169106,ALL
+1980,Thyroid,2.31083405107632,ALL
+1981,Thyroid,2.48260539786399,ALL
+1982,Thyroid,2.47778214595728,ALL
+1983,Thyroid,2.27523652873451,ALL
+1984,Thyroid,2.21019094743407,ALL
+1985,Thyroid,2.19092867939893,ALL
+1986,Thyroid,2.40096634627571,ALL
+1987,Thyroid,2.56185526825503,ALL
+1988,Thyroid,2.54064526571279,ALL
+1989,Thyroid,2.73354064296642,ALL
+1990,Thyroid,2.61287808690009,ALL
+1991,Thyroid,2.71862856261721,ALL
+1992,Thyroid,2.68270035462606,ALL
+1993,Thyroid,2.32828483481584,ALL
+1994,Thyroid,2.45182930457267,ALL
+1995,Thyroid,3.01977138455896,ALL
+1996,Thyroid,2.9,ALL
+1997,Thyroid,4.1,ALL
+1998,Thyroid,3.6,ALL
+1999,Thyroid,4.2,ALL
+2000,Thyroid,3.8,ALL
+2001,Thyroid,3.2,ALL
+2002,Thyroid,3.4,ALL
+2003,Thyroid,4.1,ALL
+2004,Thyroid,4.1,ALL
+2005,Thyroid,3.5,ALL
+2006,Thyroid,4.8,ALL
+2007,Thyroid,5.2,ALL
+2008,Thyroid,4.9,ALL
+2009,Thyroid,4.4,ALL
+2010,Thyroid,5.2,ALL
+2011,Thyroid,5.1,ALL
+2012,Thyroid,5.4,ALL
+2013,Thyroid,5.8,ALL
+2014,Thyroid,5.7,ALL
+2015,Thyroid,5.8,ALL
+2016,Thyroid,6.4,ALL
+2017,Thyroid,5.8,ALL
+1948,Hodgkin lymphoma,1.23532116509662,ALL
+1949,Hodgkin lymphoma,1.76927973633318,ALL
+1950,Hodgkin lymphoma,2.33814455813963,ALL
+1951,Hodgkin lymphoma,1.62379846193945,ALL
+1952,Hodgkin lymphoma,1.58982433648833,ALL
+1953,Hodgkin lymphoma,1.90958232440163,ALL
+1954,Hodgkin lymphoma,1.67302419258133,ALL
+1955,Hodgkin lymphoma,1.82702775074333,ALL
+1956,Hodgkin lymphoma,1.61961735352502,ALL
+1957,Hodgkin lymphoma,1.38915256768076,ALL
+1958,Hodgkin lymphoma,1.49462662994361,ALL
+1959,Hodgkin lymphoma,1.67536226005198,ALL
+1960,Hodgkin lymphoma,1.68808606570892,ALL
+1961,Hodgkin lymphoma,2.41508325523845,ALL
+1962,Hodgkin lymphoma,2.0325896556073,ALL
+1963,Hodgkin lymphoma,2.52960848463245,ALL
+1964,Hodgkin lymphoma,2.34350406951016,ALL
+1965,Hodgkin lymphoma,3.00633456576911,ALL
+1966,Hodgkin lymphoma,2.23900103527593,ALL
+1967,Hodgkin lymphoma,2.42112709320956,ALL
+1968,Hodgkin lymphoma,2.66082825582517,ALL
+1969,Hodgkin lymphoma,2.40994540706961,ALL
+1970,Hodgkin lymphoma,1.81645518573248,ALL
+1971,Hodgkin lymphoma,2.29768136352358,ALL
+1972,Hodgkin lymphoma,2.8923105078938,ALL
+1973,Hodgkin lymphoma,2.72641046653577,ALL
+1974,Hodgkin lymphoma,2.86276485124704,ALL
+1975,Hodgkin lymphoma,2.45038859715951,ALL
+1976,Hodgkin lymphoma,2.64879363701945,ALL
+1977,Hodgkin lymphoma,2.41927560118929,ALL
+1978,Hodgkin lymphoma,2.64500879532624,ALL
+1979,Hodgkin lymphoma,2.48840232734912,ALL
+1980,Hodgkin lymphoma,2.38900653037757,ALL
+1981,Hodgkin lymphoma,1.8819526925879,ALL
+1982,Hodgkin lymphoma,2.4968871081679,ALL
+1983,Hodgkin lymphoma,2.46606968994762,ALL
+1984,Hodgkin lymphoma,2.04838726920879,ALL
+1985,Hodgkin lymphoma,2.21874170140727,ALL
+1986,Hodgkin lymphoma,1.68984591545456,ALL
+1987,Hodgkin lymphoma,2.19258341069196,ALL
+1988,Hodgkin lymphoma,1.63613719009937,ALL
+1989,Hodgkin lymphoma,1.75618463632483,ALL
+1990,Hodgkin lymphoma,0.982322758123581,ALL
+1991,Hodgkin lymphoma,2.15292011847224,ALL
+1992,Hodgkin lymphoma,1.5669049657722,ALL
+1993,Hodgkin lymphoma,1.50789850572705,ALL
+1994,Hodgkin lymphoma,1.46065490852272,ALL
+1995,Hodgkin lymphoma,1.93387654536874,ALL
+1996,Hodgkin lymphoma,1.8,ALL
+1997,Hodgkin lymphoma,1.5,ALL
+1998,Hodgkin lymphoma,1.8,ALL
+1999,Hodgkin lymphoma,1.7,ALL
+2000,Hodgkin lymphoma,1.9,ALL
+2001,Hodgkin lymphoma,2.2,ALL
+2002,Hodgkin lymphoma,2.2,ALL
+2003,Hodgkin lymphoma,1.8,ALL
+2004,Hodgkin lymphoma,1.8,ALL
+2005,Hodgkin lymphoma,2.2,ALL
+2006,Hodgkin lymphoma,2,ALL
+2007,Hodgkin lymphoma,1.9,ALL
+2008,Hodgkin lymphoma,2.5,ALL
+2009,Hodgkin lymphoma,2.3,ALL
+2010,Hodgkin lymphoma,2.2,ALL
+2011,Hodgkin lymphoma,2.2,ALL
+2012,Hodgkin lymphoma,1.8,ALL
+2013,Hodgkin lymphoma,2.6,ALL
+2014,Hodgkin lymphoma,2.1,ALL
+2015,Hodgkin lymphoma,2.2,ALL
+2016,Hodgkin lymphoma,1.9,ALL
+2017,Hodgkin lymphoma,2.2,ALL
+1948,Non-Hodgkin lymphoma,3.50026845746518,ALL
+1949,Non-Hodgkin lymphoma,3.86667989470061,ALL
+1950,Non-Hodgkin lymphoma,3.6379093008163,ALL
+1951,Non-Hodgkin lymphoma,5.39877364278813,ALL
+1952,Non-Hodgkin lymphoma,4.06578134286195,ALL
+1953,Non-Hodgkin lymphoma,3.5578044084429,ALL
+1954,Non-Hodgkin lymphoma,4.56861871348371,ALL
+1955,Non-Hodgkin lymphoma,3.78135514053177,ALL
+1956,Non-Hodgkin lymphoma,4.11416069394029,ALL
+1957,Non-Hodgkin lymphoma,4.51283297278866,ALL
+1958,Non-Hodgkin lymphoma,3.92885910421364,ALL
+1959,Non-Hodgkin lymphoma,4.97764323777012,ALL
+1960,Non-Hodgkin lymphoma,4.25456662315999,ALL
+1961,Non-Hodgkin lymphoma,5.68127279807755,ALL
+1962,Non-Hodgkin lymphoma,4.41216891439268,ALL
+1963,Non-Hodgkin lymphoma,4.84884450042468,ALL
+1964,Non-Hodgkin lymphoma,4.57943536512121,ALL
+1965,Non-Hodgkin lymphoma,4.85436299408277,ALL
+1966,Non-Hodgkin lymphoma,5.17285571749,ALL
+1967,Non-Hodgkin lymphoma,5.60084954192375,ALL
+1968,Non-Hodgkin lymphoma,5.50030594801485,ALL
+1969,Non-Hodgkin lymphoma,5.9125686056936,ALL
+1970,Non-Hodgkin lymphoma,5.80098734395008,ALL
+1971,Non-Hodgkin lymphoma,6.16320466882477,ALL
+1972,Non-Hodgkin lymphoma,5.70129611078082,ALL
+1973,Non-Hodgkin lymphoma,6.47737328882654,ALL
+1974,Non-Hodgkin lymphoma,5.79893085383202,ALL
+1975,Non-Hodgkin lymphoma,7.36940838570631,ALL
+1976,Non-Hodgkin lymphoma,6.295866702242,ALL
+1977,Non-Hodgkin lymphoma,6.72606474333993,ALL
+1978,Non-Hodgkin lymphoma,6.31599956137501,ALL
+1979,Non-Hodgkin lymphoma,5.77803769170691,ALL
+1980,Non-Hodgkin lymphoma,7.47119294156093,ALL
+1981,Non-Hodgkin lymphoma,7.22493926623099,ALL
+1982,Non-Hodgkin lymphoma,7.34589448971942,ALL
+1983,Non-Hodgkin lymphoma,7.35595656751402,ALL
+1984,Non-Hodgkin lymphoma,7.08845102073777,ALL
+1985,Non-Hodgkin lymphoma,8.47696110711174,ALL
+1986,Non-Hodgkin lymphoma,7.42681524664609,ALL
+1987,Non-Hodgkin lymphoma,8.97738609712553,ALL
+1988,Non-Hodgkin lymphoma,9.10372624609104,ALL
+1989,Non-Hodgkin lymphoma,9.80364126072087,ALL
+1990,Non-Hodgkin lymphoma,10.1201922838122,ALL
+1991,Non-Hodgkin lymphoma,9.83952498171884,ALL
+1992,Non-Hodgkin lymphoma,9.85990069716976,ALL
+1993,Non-Hodgkin lymphoma,10.3461605149682,ALL
+1994,Non-Hodgkin lymphoma,11.0753260073232,ALL
+1995,Non-Hodgkin lymphoma,12.2016537819998,ALL
+1996,Non-Hodgkin lymphoma,12.6,ALL
+1997,Non-Hodgkin lymphoma,12.4,ALL
+1998,Non-Hodgkin lymphoma,13.1,ALL
+1999,Non-Hodgkin lymphoma,12,ALL
+2000,Non-Hodgkin lymphoma,11.3,ALL
+2001,Non-Hodgkin lymphoma,12.4,ALL
+2002,Non-Hodgkin lymphoma,12.3,ALL
+2003,Non-Hodgkin lymphoma,12,ALL
+2004,Non-Hodgkin lymphoma,12.1,ALL
+2005,Non-Hodgkin lymphoma,12.3,ALL
+2006,Non-Hodgkin lymphoma,12.8,ALL
+2007,Non-Hodgkin lymphoma,12.3,ALL
+2008,Non-Hodgkin lymphoma,13.3,ALL
+2009,Non-Hodgkin lymphoma,12.9,ALL
+2010,Non-Hodgkin lymphoma,12.9,ALL
+2011,Non-Hodgkin lymphoma,11.6,ALL
+2012,Non-Hodgkin lymphoma,11.7,ALL
+2013,Non-Hodgkin lymphoma,11.7,ALL
+2014,Non-Hodgkin lymphoma,11.7,ALL
+2015,Non-Hodgkin lymphoma,12.1,ALL
+2016,Non-Hodgkin lymphoma,13.3,ALL
+2017,Non-Hodgkin lymphoma,12.3,ALL
+1948,Myeloma,0.646170305655131,ALL
+1949,Myeloma,0.439659653245884,ALL
+1950,Myeloma,0.440507767262242,ALL
+1951,Myeloma,0.653683779585948,ALL
+1952,Myeloma,0.784613067259836,ALL
+1953,Myeloma,0.972376456181678,ALL
+1954,Myeloma,1.16765300730738,ALL
+1955,Myeloma,1.43365898088257,ALL
+1956,Myeloma,1.74170692834142,ALL
+1957,Myeloma,1.51094164086486,ALL
+1958,Myeloma,1.9512372272205,ALL
+1959,Myeloma,1.63978775793571,ALL
+1960,Myeloma,1.50898774492319,ALL
+1961,Myeloma,1.78849498866164,ALL
+1962,Myeloma,2.31732188582305,ALL
+1963,Myeloma,2.03572220347041,ALL
+1964,Myeloma,1.85010294394445,ALL
+1965,Myeloma,2.21039803215704,ALL
+1966,Myeloma,2.18123112584872,ALL
+1967,Myeloma,1.99558614272869,ALL
+1968,Myeloma,2.47976213113804,ALL
+1969,Myeloma,3.61393316757455,ALL
+1970,Myeloma,2.40037179162147,ALL
+1971,Myeloma,2.4621463241992,ALL
+1972,Myeloma,3.0798110628982,ALL
+1973,Myeloma,3.70978943057771,ALL
+1974,Myeloma,3.07703131041945,ALL
+1975,Myeloma,3.22828064085982,ALL
+1976,Myeloma,2.60622619360707,ALL
+1977,Myeloma,3.42010055792594,ALL
+1978,Myeloma,3.53857800155288,ALL
+1979,Myeloma,2.81032211018812,ALL
+1980,Myeloma,2.44009024869728,ALL
+1981,Myeloma,3.0159108046079,ALL
+1982,Myeloma,3.70322202607437,ALL
+1983,Myeloma,3.49621089848463,ALL
+1984,Myeloma,4.21397485925802,ALL
+1985,Myeloma,4.04274967060322,ALL
+1986,Myeloma,3.80279113490623,ALL
+1987,Myeloma,3.984545501585,ALL
+1988,Myeloma,5.13799007709939,ALL
+1989,Myeloma,3.32524795197723,ALL
+1990,Myeloma,3.57141924662532,ALL
+1991,Myeloma,3.86026186179766,ALL
+1992,Myeloma,3.74725671836845,ALL
+1993,Myeloma,4.2003749063692,ALL
+1994,Myeloma,3.99122960001847,ALL
+1995,Myeloma,4.43114258943141,ALL
+1996,Myeloma,4.5,ALL
+1997,Myeloma,4.4,ALL
+1998,Myeloma,4.6,ALL
+1999,Myeloma,4.4,ALL
+2000,Myeloma,4.4,ALL
+2001,Myeloma,4.8,ALL
+2002,Myeloma,5.1,ALL
+2003,Myeloma,4,ALL
+2004,Myeloma,4.1,ALL
+2005,Myeloma,4.1,ALL
+2006,Myeloma,4.5,ALL
+2007,Myeloma,4.5,ALL
+2008,Myeloma,4.3,ALL
+2009,Myeloma,4.6,ALL
+2010,Myeloma,4.8,ALL
+2011,Myeloma,4.4,ALL
+2012,Myeloma,5.4,ALL
+2013,Myeloma,5.2,ALL
+2014,Myeloma,5.4,ALL
+2015,Myeloma,5.3,ALL
+2016,Myeloma,5.3,ALL
+2017,Myeloma,5.1,ALL
+1948,Leukaemia,4.96458697219727,ALL
+1949,Leukaemia,4.3139303370212,ALL
+1950,Leukaemia,4.89676911948909,ALL
+1951,Leukaemia,4.53334399325107,ALL
+1952,Leukaemia,3.81936228676033,ALL
+1953,Leukaemia,5.69681686120971,ALL
+1954,Leukaemia,5.93294076898358,ALL
+1955,Leukaemia,6.69024778947141,ALL
+1956,Leukaemia,6.51727538505125,ALL
+1957,Leukaemia,6.39872327291832,ALL
+1958,Leukaemia,6.98419372658818,ALL
+1959,Leukaemia,6.22910220975027,ALL
+1960,Leukaemia,6.98012726948632,ALL
+1961,Leukaemia,6.59943523050251,ALL
+1962,Leukaemia,6.77582195229412,ALL
+1963,Leukaemia,6.89710139225762,ALL
+1964,Leukaemia,6.93401255828021,ALL
+1965,Leukaemia,7.63268528113996,ALL
+1966,Leukaemia,6.60336203484186,ALL
+1967,Leukaemia,6.85652383043329,ALL
+1968,Leukaemia,6.22276106415784,ALL
+1969,Leukaemia,6.86231965898606,ALL
+1970,Leukaemia,6.25377769942431,ALL
+1971,Leukaemia,7.51789689679873,ALL
+1972,Leukaemia,7.89866756679764,ALL
+1973,Leukaemia,7.38265718102997,ALL
+1974,Leukaemia,7.54255550396652,ALL
+1975,Leukaemia,7.39301545615583,ALL
+1976,Leukaemia,8.26994780209524,ALL
+1977,Leukaemia,7.50598168310305,ALL
+1978,Leukaemia,7.57953736131472,ALL
+1979,Leukaemia,6.82189298433101,ALL
+1980,Leukaemia,7.21834842547379,ALL
+1981,Leukaemia,8.24403200610083,ALL
+1982,Leukaemia,7.41712688450379,ALL
+1983,Leukaemia,8.5893296844895,ALL
+1984,Leukaemia,7.48639974896921,ALL
+1985,Leukaemia,8.0465255588141,ALL
+1986,Leukaemia,8.06856150190751,ALL
+1987,Leukaemia,9.34507148716363,ALL
+1988,Leukaemia,9.50120228828201,ALL
+1989,Leukaemia,9.59823449865583,ALL
+1990,Leukaemia,9.51984313254716,ALL
+1991,Leukaemia,9.28838540089509,ALL
+1992,Leukaemia,9.44074806714544,ALL
+1993,Leukaemia,10.0280006822297,ALL
+1994,Leukaemia,10.6540155916486,ALL
+1995,Leukaemia,10.2373159370706,ALL
+1996,Leukaemia,11.9,ALL
+1997,Leukaemia,12.5,ALL
+1998,Leukaemia,12.6,ALL
+1999,Leukaemia,11.2,ALL
+2000,Leukaemia,12.7,ALL
+2001,Leukaemia,13.2,ALL
+2002,Leukaemia,14.2,ALL
+2003,Leukaemia,14.2,ALL
+2004,Leukaemia,12.5,ALL
+2005,Leukaemia,11,ALL
+2006,Leukaemia,10.1,ALL
+2007,Leukaemia,10.2,ALL
+2008,Leukaemia,10.9,ALL
+2009,Leukaemia,10.4,ALL
+2010,Leukaemia,10.5,ALL
+2011,Leukaemia,10,ALL
+2012,Leukaemia,10.1,ALL
+2013,Leukaemia,10.7,ALL
+2014,Leukaemia,10.4,ALL
+2015,Leukaemia,11,ALL
+2016,Leukaemia,10.4,ALL
+2017,Leukaemia,10.3,ALL
+
