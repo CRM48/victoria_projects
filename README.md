@@ -7,7 +7,7 @@ This repository contains selected projects from my postgraduate studies at Victo
 
 ## Projects
 
-- **[Cancer Visualisation](cancer_visualisation/)** – An interactive website for exploring historical cancer trends, mortality statistics and comparisons between populations.
+- **[Cancer Visualisation](cancer_visualization/)** – An interactive website for exploring historical cancer trends, mortality statistics and comparisons between populations.
 - **[Data Warehousing](data_warehousing/)** – A PostgreSQL data warehouse for analysing bookstore sales using analytical SQL, OLAP operations and query performance evaluation.
 - **[Database System Engineering](database_system_engineering/)** – A relational database built around a fictional bank robbery dataset, demonstrating database design, complex SQL queries and data integrity.
 - **[Graph Database Analysis](graph_database_analysis/)** – A Neo4j graph database for exploring relationships between movies, actors, directors and users, including graph centrality analysis.
