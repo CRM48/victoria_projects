@@ -1,0 +1,7 @@
+6,6,java.lang.IllegalStateException
+7,7,java.lang.IllegalStateException
+11,7,java.lang.IllegalStateException
+16,13,java.lang.IllegalStateException
+25,6,java.lang.IllegalStateException
+25,8,java.lang.IllegalStateException
+30,9,nz.ac.vuw.jenz.chipschallenge.GameOverException
